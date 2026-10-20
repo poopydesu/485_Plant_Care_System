@@ -1,0 +1,1001 @@
+Plant_ID,Height_cm,Leaf_Count,New_Growth_Count,Health_Notes,Watering_Amount_ml,Watering_Frequency_days,Sunlight_Exposure,Room_Temperature_C,Humidity_%,Fertilizer_Type,Fertilizer_Amount_ml,Pest_Presence,Pest_Severity,Soil_Moisture_%,Soil_Type,Health_Score
+Sansevieria cylindrica,17.39,17,8,Yellowing leaves,205,3,3h direct morning sun,21.7,77.5,Organic,82,Fungus gnats,Moderate,51.9,Clay,1
+Aloe vera,9.84,31,9,None,191,1,3h direct morning sun,22.6,68.9,None,91,Aphids,Low,28.2,Loamy,2
+Ficus lyrata,19.82,40,8,Brittle leaves,477,5,Indirect light all day,17.2,44.3,Liquid feed,90,None,High,13.6,Sandy,1
+Monstera deliciosa,37.08,11,1,New bud,207,1,Low light corner,25,72.2,Compost,76,Fungus gnats,Low,38.4,Sandy,4
+Ficus lyrata,2.96,26,3,Wilting,465,2,Filtered sunlight through curtain,23.2,51.6,Compost,37,Fungus gnats,Low,37.9,Peaty,1
+Ficus lyrata,14.63,14,6,None,375,6,Low light corner,26.9,71.4,Chemical,42,Whiteflies,High,52.5,Clay,4
+Calathea orbifolia,23.73,43,1,Strong stem,420,1,3h direct morning sun,20.7,71.1,Liquid feed,20,Fungus gnats,None,59.8,Silty,1
+Anthurium andraeanum,16.23,19,0,Strong stem,393,4,Filtered sunlight through curtain,22.1,39.4,None,90,Spider mites,None,35.4,Clay,1
+Ficus lyrata,19.73,19,2,None,311,1,6h full sun,19.5,65.1,Liquid feed,61,None,Low,27.3,Clay,5
+Anthurium andraeanum,19.88,8,3,None,332,3,Filtered sunlight through curtain,21,44.5,Liquid feed,45,None,High,19.3,Clay,2
+Nephrolepis exaltata,22.42,36,7,None,387,1,Low light corner,20.5,44.9,Compost,69,None,None,10.2,Peaty,2
+Zamioculcas zamiifolia,17.71,27,5,Wilting,393,6,Indirect light all day,27,44.8,None,37,Fungus gnats,Moderate,35.5,Loamy,3
+Monstera deliciosa,16.89,10,1,Yellowing leaves,278,2,6h full sun,21.9,66.3,Organic,48,Fungus gnats,Low,37.8,Peaty,5
+Spathiphyllum wallisii,34.34,28,8,Wilting,425,1,Low light corner,24.4,41.5,Compost,74,None,None,51.2,Silty,5
+Zamioculcas zamiifolia,35.5,24,1,Dark green color,329,4,6h full sun,22.9,30,None,80,Aphids,High,35.2,Loamy,2
+Begonia maculata,11.19,41,4,Brittle leaves,407,5,Filtered sunlight through curtain,20.2,65.8,Chemical,38,Aphids,High,55.8,Silty,5
+Aloe vera,-2.6,24,3,None,339,1,3h direct morning sun,23.5,38.6,Compost,70,Spider mites,Low,41.4,Chalky,2
+Peperomia obtusifolia,35.63,16,6,Brittle leaves,217,1,Low light corner,25.8,35.2,Chemical,29,Whiteflies,High,52,Chalky,5
+Monstera deliciosa,12.71,37,7,Yellowing leaves,96,3,Indirect light all day,20.4,41.9,Compost,20,Spider mites,Moderate,17.4,Loamy,1
+Philodendron hederaceum,27.13,32,4,New bud,252,4,Filtered sunlight through curtain,26.4,49,Liquid feed,0,None,Moderate,52.8,Peaty,2
+Aglaonema commutatum,9.34,12,9,Wilting,263,6,Low light corner,21.5,53.8,None,88,None,None,43.8,Silty,2
+Schefflera arboricola,37.98,5,4,Yellowing leaves,295,5,Indirect light all day,22.6,32.2,Chemical,31,None,High,18.5,Silty,4
+Sansevieria cylindrica,50.44,41,1,Brittle leaves,73,2,Low light corner,25.6,78.5,Compost,7,Whiteflies,Moderate,19.5,Sandy,5
+Dieffenbachia seguine,26.83,26,7,New bud,370,1,Filtered sunlight through curtain,22,65.8,Chemical,68,Fungus gnats,Low,56.3,Silty,5
+Epipremnum aureum,24.06,10,1,Wilting,323,6,Low light corner,24.1,46.2,Compost,29,Whiteflies,High,11.6,Peaty,2
+Spathiphyllum wallisii,21.78,25,9,Strong stem,93,5,6h full sun,23.1,45.9,Compost,7,Spider mites,None,33.1,Sandy,1
+Calathea orbifolia,32.82,36,5,Wilting,381,2,Filtered sunlight through curtain,24.4,52.4,Organic,18,Fungus gnats,Low,25.7,Peaty,1
+Spathiphyllum wallisii,30.68,39,7,Leaf drop,362,6,Low light corner,16.9,61.3,Organic,58,Fungus gnats,Low,43.3,Clay,1
+Calathea orbifolia,35.03,19,5,Wilting,412,4,3h direct morning sun,18.5,37.3,Organic,54,Spider mites,Low,52,Silty,5
+Zamioculcas zamiifolia,18.72,9,3,Leaf drop,205,4,Low light corner,25.8,39.4,Chemical,29,Fungus gnats,Moderate,28,Clay,4
+Calathea orbifolia,28.4,10,3,New bud,429,5,6h full sun,27.1,73,Liquid feed,78,Aphids,Low,31.3,Chalky,2
+Aloe vera,19.58,29,5,Wilting,248,2,Indirect light all day,21.3,42.8,Compost,35,Spider mites,Moderate,59.1,Chalky,3
+Aglaonema commutatum,14.42,44,3,New bud,456,4,Indirect light all day,23.3,49,None,54,Spider mites,Low,49.2,Loamy,4
+Sansevieria cylindrica,24.59,33,7,New bud,211,5,Indirect light all day,24.9,73.6,Organic,43,Aphids,Moderate,54.9,Silty,3
+Sansevieria cylindrica,15.77,11,8,Brittle leaves,444,4,3h direct morning sun,26.1,63.2,Chemical,26,Whiteflies,High,31.9,Sandy,4
+Aloe vera,36.74,44,0,Yellowing leaves,283,4,6h full sun,17.9,47.1,Chemical,76,Whiteflies,Moderate,21.7,Clay,1
+Nephrolepis exaltata,16.38,17,3,New bud,212,6,Filtered sunlight through curtain,21.3,64.2,Chemical,77,Whiteflies,Moderate,30.6,Peaty,5
+Peperomia obtusifolia,28.64,42,3,New bud,165,6,Indirect light all day,23,31,None,53,Fungus gnats,High,45.8,Silty,3
+Zamioculcas zamiifolia,18.97,22,1,Brittle leaves,142,4,6h full sun,26.1,66.8,None,47,Aphids,Low,15.5,Loamy,4
+Dieffenbachia seguine,27.77,6,5,Brittle leaves,91,3,Low light corner,31.5,54.4,Organic,29,Spider mites,High,23.5,Peaty,5
+Nephrolepis exaltata,19.76,12,2,Wilting,333,6,3h direct morning sun,23.3,70.7,None,38,Spider mites,Low,12.3,Clay,3
+Tradescantia zebrina,12.43,15,6,Brittle leaves,428,2,6h full sun,19.8,77.7,Organic,12,Spider mites,Moderate,31.6,Silty,2
+Dracaena trifasciata,29.84,37,4,Wilting,259,5,6h full sun,25.2,76.3,None,15,Fungus gnats,Low,51.4,Clay,4
+Spathiphyllum wallisii,22.65,42,3,Strong stem,255,5,Filtered sunlight through curtain,28,75.5,None,43,Fungus gnats,Moderate,11.2,Silty,2
+Epipremnum aureum,27.86,31,4,Brittle leaves,269,2,6h full sun,24.3,55.6,None,70,Whiteflies,Low,43.8,Silty,1
+Calathea orbifolia,20.71,24,7,Yellowing leaves,329,2,Filtered sunlight through curtain,21.3,48,Organic,26,Fungus gnats,Moderate,56.6,Clay,2
+Philodendron hederaceum,11.72,16,2,New bud,185,2,3h direct morning sun,26.9,53.3,Compost,44,Whiteflies,Moderate,21.8,Clay,2
+Begonia maculata,35.83,47,6,Yellowing leaves,155,2,3h direct morning sun,26,64.5,Organic,34,Whiteflies,None,44.7,Peaty,4
+Dieffenbachia seguine,32.37,35,5,Leaf drop,167,1,Low light corner,20.9,74.2,Compost,78,Spider mites,Low,58.8,Loamy,1
+Aloe vera,19.33,31,0,None,286,5,Filtered sunlight through curtain,25.1,40.3,Chemical,27,Fungus gnats,Low,58.1,Clay,2
+Aglaonema commutatum,25.7,36,6,Brittle leaves,358,1,Filtered sunlight through curtain,27,75.9,Chemical,98,Whiteflies,None,21.7,Chalky,5
+Aglaonema commutatum,35.42,14,6,New bud,437,4,Indirect light all day,27.5,70.8,Organic,6,Aphids,Moderate,15,Loamy,3
+Anthurium andraeanum,20.43,7,0,Yellowing leaves,149,4,Indirect light all day,23.8,78.9,Compost,61,Aphids,Moderate,17.4,Chalky,2
+Anthurium andraeanum,21.98,49,8,Brittle leaves,310,5,Low light corner,22.9,74,Compost,50,Fungus gnats,None,45.1,Peaty,1
+Codiaeum variegatum,27.44,31,5,Brittle leaves,354,4,3h direct morning sun,27.7,44,Compost,45,Spider mites,None,46.3,Clay,2
+Codiaeum variegatum,20.41,39,1,None,403,2,Indirect light all day,20.4,35.3,Chemical,19,Spider mites,High,43.7,Loamy,3
+Begonia maculata,33.57,35,4,Strong stem,335,1,6h full sun,25.3,35.6,Organic,95,Whiteflies,Moderate,26.8,Clay,1
+Dracaena trifasciata,23.31,19,3,Strong stem,377,2,3h direct morning sun,19.9,44.6,Liquid feed,37,Fungus gnats,High,18.5,Silty,4
+Anthurium andraeanum,17.16,20,6,New bud,152,4,6h full sun,27.2,60.7,Compost,60,Aphids,Low,39,Clay,1
+Sansevieria cylindrica,31.09,17,7,Leaf drop,112,6,Filtered sunlight through curtain,23.2,70.2,Compost,31,Whiteflies,High,34.2,Loamy,4
+Codiaeum variegatum,13.58,39,0,Strong stem,224,1,3h direct morning sun,27.8,75,Liquid feed,25,Whiteflies,None,46.4,Clay,1
+Aglaonema commutatum,45.15,15,4,None,331,2,Low light corner,25.5,61.2,Organic,57,None,None,32.1,Clay,3
+Aloe vera,40.82,25,2,Strong stem,490,5,Filtered sunlight through curtain,20.3,30.3,Compost,38,Fungus gnats,None,26.9,Sandy,3
+Spathiphyllum wallisii,30.13,15,0,Leaf drop,342,2,Filtered sunlight through curtain,28.3,39.3,Organic,19,Whiteflies,None,24.7,Sandy,1
+Aloe vera,29.29,34,2,Yellowing leaves,275,6,6h full sun,28.7,35,Compost,81,Aphids,High,20.6,Loamy,2
+Codiaeum variegatum,28.82,39,5,Strong stem,56,4,Filtered sunlight through curtain,26.6,48.2,None,49,None,High,23.3,Loamy,3
+Chlorophytum comosum,20.11,26,6,None,176,1,Indirect light all day,21.7,55.1,Compost,78,Aphids,High,14.7,Silty,4
+Calathea orbifolia,27.97,42,7,Wilting,473,5,3h direct morning sun,23.1,32.2,None,51,Spider mites,None,27.3,Silty,4
+Epipremnum aureum,15.77,35,3,None,141,1,Indirect light all day,24.4,47.4,Organic,85,None,None,11.8,Clay,5
+Philodendron hederaceum,30.04,18,2,Dark green color,472,5,6h full sun,21.9,39,Compost,21,None,Moderate,19.3,Chalky,4
+Codiaeum variegatum,33.68,28,4,Dark green color,239,1,6h full sun,29.1,62.4,Chemical,52,Whiteflies,Moderate,47.3,Loamy,5
+Epipremnum aureum,21.22,36,8,Strong stem,408,4,3h direct morning sun,24.4,53.2,Chemical,84,Spider mites,None,26.3,Clay,1
+Peperomia obtusifolia,19.05,40,5,Yellowing leaves,102,5,Filtered sunlight through curtain,15.9,54.8,Liquid feed,65,Whiteflies,Moderate,43.4,Chalky,1
+Ficus lyrata,12.88,36,8,Brittle leaves,291,3,Low light corner,25,51.4,Chemical,42,Fungus gnats,Low,45.8,Sandy,1
+Zamioculcas zamiifolia,39.58,19,5,Yellowing leaves,181,1,6h full sun,23,77.8,None,81,Aphids,Low,39.1,Silty,2
+Aglaonema commutatum,19.84,47,1,None,413,1,3h direct morning sun,23.8,40.7,Chemical,22,Aphids,None,57.9,Loamy,2
+Schefflera arboricola,23.01,39,4,New bud,161,2,Low light corner,22.9,55.8,Chemical,76,Whiteflies,High,11.1,Clay,5
+Nephrolepis exaltata,28,7,8,Wilting,458,5,Filtered sunlight through curtain,26.4,66.8,Chemical,63,Aphids,Low,46.9,Sandy,4
+Chlorophytum comosum,27.82,20,7,Yellowing leaves,56,6,6h full sun,27.4,57.8,Compost,8,Aphids,Low,57.9,Peaty,4
+Dracaena trifasciata,32.47,9,6,Leaf drop,279,3,3h direct morning sun,24.8,76.5,Liquid feed,6,Fungus gnats,High,53.1,Sandy,1
+Aglaonema commutatum,21.21,25,0,None,205,4,3h direct morning sun,23,48.9,Organic,40,Spider mites,Moderate,18.4,Clay,3
+Nephrolepis exaltata,13.61,14,3,Wilting,246,2,3h direct morning sun,23.9,53.2,Liquid feed,53,None,High,26.3,Silty,2
+Aloe vera,11.86,23,6,Dark green color,372,3,6h full sun,24.1,34.4,None,64,Whiteflies,Moderate,18.6,Chalky,2
+Schefflera arboricola,19.21,29,6,None,413,5,Low light corner,21.6,60.4,Compost,1,Whiteflies,Moderate,40.1,Peaty,1
+Codiaeum variegatum,15.48,8,5,Wilting,272,3,3h direct morning sun,25.7,44.4,Compost,3,Fungus gnats,High,45.6,Peaty,2
+Calathea orbifolia,21.96,33,7,Leaf drop,416,1,Filtered sunlight through curtain,25.4,38,Chemical,77,Fungus gnats,Moderate,25.9,Silty,1
+Dracaena trifasciata,38.08,23,5,Strong stem,299,1,3h direct morning sun,28.6,57.2,Chemical,31,None,Low,37,Peaty,5
+Monstera deliciosa,21.23,47,9,Leaf drop,453,2,Low light corner,27.8,56.6,None,99,Spider mites,None,44.5,Loamy,4
+Dracaena trifasciata,21.22,6,2,Leaf drop,132,5,6h full sun,21.9,33.8,Compost,1,Whiteflies,Moderate,31.1,Clay,3
+Monstera deliciosa,24.84,14,3,Strong stem,289,5,3h direct morning sun,26.5,64.9,Organic,63,Fungus gnats,Low,52.7,Peaty,4
+Peperomia obtusifolia,20.94,47,2,Strong stem,429,3,3h direct morning sun,21.1,61.2,Liquid feed,13,Whiteflies,High,48.6,Sandy,4
+Monstera deliciosa,24.33,29,0,Strong stem,444,2,Filtered sunlight through curtain,26.1,39.5,Compost,19,Aphids,Moderate,13.2,Chalky,5
+Dracaena trifasciata,30.41,24,9,Strong stem,409,5,Filtered sunlight through curtain,22.5,53.5,Organic,88,Whiteflies,Low,41.1,Clay,2
+Spathiphyllum wallisii,33.85,23,4,Strong stem,372,6,3h direct morning sun,20.9,66,Organic,48,Spider mites,Moderate,21.8,Silty,3
+Zamioculcas zamiifolia,35.03,27,0,Leaf drop,312,6,3h direct morning sun,24.8,56.5,Liquid feed,7,Spider mites,High,37.9,Sandy,2
+Philodendron hederaceum,45.57,28,0,New bud,456,1,Filtered sunlight through curtain,16,49.8,Organic,91,Whiteflies,None,57.8,Loamy,4
+Codiaeum variegatum,30.69,15,1,New bud,238,3,Low light corner,18.7,46.1,None,62,Aphids,Moderate,54,Peaty,1
+Codiaeum variegatum,47.34,38,3,None,415,4,Indirect light all day,23.5,60.5,Organic,45,Spider mites,None,30.2,Sandy,4
+Aglaonema commutatum,17.24,32,5,Yellowing leaves,339,1,Indirect light all day,24.2,77,None,20,Fungus gnats,Moderate,24.6,Clay,2
+Epipremnum aureum,45.91,9,7,New bud,411,2,3h direct morning sun,22.9,63.6,Organic,86,Whiteflies,Moderate,21.7,Sandy,4
+Anthurium andraeanum,21.2,9,2,Dark green color,452,5,Filtered sunlight through curtain,19.3,33.7,Chemical,31,Aphids,High,36.6,Loamy,1
+Aloe vera,22.18,25,0,New bud,107,1,6h full sun,21.5,53,Organic,7,Fungus gnats,Moderate,15.7,Chalky,5
+Sansevieria cylindrica,23.8,16,2,Leaf drop,58,4,6h full sun,25.2,74.5,None,94,Whiteflies,Low,37.5,Peaty,2
+Peperomia obtusifolia,22.81,8,2,Strong stem,353,4,Indirect light all day,25.7,34.7,Organic,15,Aphids,Low,10.1,Clay,4
+Ficus lyrata,25.86,46,4,None,164,6,Low light corner,24,79.4,Organic,39,Fungus gnats,None,26.2,Peaty,2
+Epipremnum aureum,19.2,24,3,Strong stem,259,2,Indirect light all day,27.5,77.5,Organic,26,Spider mites,None,21,Peaty,5
+Sansevieria cylindrica,33.3,42,3,Brittle leaves,90,1,3h direct morning sun,25.2,33.9,None,17,Whiteflies,Low,58.6,Silty,4
+Dracaena trifasciata,19.47,29,8,Brittle leaves,353,3,Low light corner,21.8,76.7,Organic,34,Whiteflies,None,46.4,Peaty,4
+Tradescantia zebrina,31.56,18,6,Brittle leaves,222,1,6h full sun,23.2,48.2,Liquid feed,51,Spider mites,None,27.5,Sandy,2
+Philodendron hederaceum,40.28,15,3,Leaf drop,283,6,Filtered sunlight through curtain,19.8,72.2,Liquid feed,14,None,Low,14.6,Sandy,2
+Aglaonema commutatum,21.43,36,2,Dark green color,330,4,Filtered sunlight through curtain,23.7,50.9,None,62,Fungus gnats,Low,35.8,Chalky,1
+Begonia maculata,32.94,15,5,New bud,421,2,3h direct morning sun,27.3,52,Chemical,52,Spider mites,Low,20.7,Loamy,5
+Begonia maculata,30.59,22,2,Leaf drop,127,2,Indirect light all day,26.1,61.7,Liquid feed,90,Whiteflies,High,36.8,Clay,1
+Monstera deliciosa,47.53,31,5,Yellowing leaves,157,3,3h direct morning sun,28.2,68.7,Compost,80,Fungus gnats,High,51.8,Sandy,4
+Chlorophytum comosum,19.95,22,8,None,330,2,Filtered sunlight through curtain,23.1,31.7,Liquid feed,65,Fungus gnats,Low,40.8,Peaty,2
+Chlorophytum comosum,32.95,27,5,Strong stem,452,6,6h full sun,28,59.7,Compost,30,None,Moderate,41.7,Loamy,4
+Spathiphyllum wallisii,8.74,15,3,Brittle leaves,88,6,Filtered sunlight through curtain,23.4,39.3,None,60,Whiteflies,Low,37.1,Clay,4
+Anthurium andraeanum,20.04,25,4,Wilting,168,6,Low light corner,28.4,47.3,Chemical,63,Aphids,High,56.4,Clay,3
+Calathea orbifolia,28.53,48,5,Yellowing leaves,384,2,Filtered sunlight through curtain,23.9,47.4,Compost,97,None,None,56.6,Clay,3
+Peperomia obtusifolia,38.93,9,2,Brittle leaves,385,2,Filtered sunlight through curtain,26.1,53.5,Compost,33,None,Moderate,35.6,Clay,4
+Begonia maculata,12.74,27,7,Dark green color,76,6,Low light corner,28.4,46.7,Liquid feed,54,Aphids,Moderate,25.3,Chalky,2
+Zamioculcas zamiifolia,32.86,45,3,Yellowing leaves,153,2,Indirect light all day,23.4,35.4,Compost,58,Aphids,None,33,Clay,4
+Nephrolepis exaltata,24.37,29,7,Leaf drop,123,2,Filtered sunlight through curtain,24.7,37.3,None,2,None,Moderate,19.3,Loamy,3
+Monstera deliciosa,9.78,45,9,New bud,240,4,3h direct morning sun,27.9,31.7,None,16,Fungus gnats,None,41.8,Sandy,2
+Zamioculcas zamiifolia,26.82,14,9,Strong stem,373,1,Filtered sunlight through curtain,23.6,53.5,None,77,Spider mites,High,35,Loamy,4
+Spathiphyllum wallisii,42.09,26,2,None,196,5,3h direct morning sun,20,77.7,Liquid feed,77,Spider mites,Moderate,15.2,Peaty,5
+Schefflera arboricola,13.8,23,9,Dark green color,304,2,Low light corner,30.4,35.8,Chemical,45,None,Moderate,19.9,Silty,5
+Monstera deliciosa,23.9,5,6,Dark green color,333,5,Filtered sunlight through curtain,22.6,77.3,Liquid feed,37,Fungus gnats,None,34,Chalky,4
+Epipremnum aureum,15.13,11,8,Wilting,262,5,Low light corner,24.5,66.7,None,34,Aphids,None,54.4,Chalky,2
+Chlorophytum comosum,20.31,8,3,Yellowing leaves,172,4,Low light corner,27.5,61.9,Liquid feed,0,None,High,38.3,Peaty,4
+Chlorophytum comosum,39.32,5,7,Wilting,255,2,Indirect light all day,22.2,62.3,None,28,Whiteflies,None,44.1,Loamy,4
+Ficus lyrata,22.28,19,2,New bud,466,6,Filtered sunlight through curtain,21,71.3,Organic,3,Fungus gnats,None,27,Loamy,3
+Sansevieria cylindrica,39.02,44,6,Brittle leaves,289,5,3h direct morning sun,24.8,35.3,Organic,60,Whiteflies,High,38.6,Peaty,5
+Aglaonema commutatum,36.09,16,2,New bud,443,2,3h direct morning sun,18.6,55.2,Compost,96,Whiteflies,Low,32.4,Silty,3
+Dracaena trifasciata,21.37,26,6,Brittle leaves,388,3,Filtered sunlight through curtain,23.1,64.9,Chemical,16,None,Low,43,Clay,3
+Anthurium andraeanum,19.97,26,9,Wilting,335,6,Indirect light all day,24.7,59.3,Organic,27,Fungus gnats,None,12.5,Clay,4
+Peperomia obtusifolia,16.04,21,9,Strong stem,71,3,Indirect light all day,23.2,71.6,None,49,Whiteflies,High,34.7,Sandy,3
+Dieffenbachia seguine,15.69,33,5,New bud,308,3,Indirect light all day,19.4,33.6,Liquid feed,89,Fungus gnats,Low,24.8,Loamy,5
+Philodendron hederaceum,28.53,18,1,Wilting,406,5,3h direct morning sun,28.8,64.5,Liquid feed,7,Spider mites,High,26.3,Loamy,3
+Epipremnum aureum,24.8,24,2,Yellowing leaves,154,3,Low light corner,24.3,56.7,Compost,33,Whiteflies,None,58,Peaty,5
+Begonia maculata,18.76,37,5,Wilting,481,4,Indirect light all day,28.3,49,Liquid feed,58,Whiteflies,None,19.1,Peaty,3
+Tradescantia zebrina,9.51,47,3,Wilting,307,4,3h direct morning sun,23.2,47,Organic,17,Fungus gnats,High,25.6,Clay,5
+Philodendron hederaceum,26.06,19,5,Leaf drop,253,5,3h direct morning sun,21.4,61,Liquid feed,94,Spider mites,Moderate,35.5,Loamy,3
+Philodendron hederaceum,20.3,16,0,New bud,359,2,Low light corner,24.8,74.5,Organic,58,Whiteflies,None,53.2,Loamy,3
+Aglaonema commutatum,23.05,44,9,None,311,1,Filtered sunlight through curtain,23.4,54.8,Organic,26,None,None,30.8,Chalky,2
+Calathea orbifolia,28.05,24,0,Strong stem,156,2,Filtered sunlight through curtain,20.5,71.2,Chemical,15,Fungus gnats,None,47.2,Sandy,5
+Ficus lyrata,-0.02,34,2,Strong stem,300,2,Indirect light all day,28.4,50.1,Compost,9,Fungus gnats,None,52.8,Sandy,5
+Chlorophytum comosum,9.67,42,7,Leaf drop,473,2,Indirect light all day,22.1,35.1,None,75,Whiteflies,High,25.5,Clay,5
+Nephrolepis exaltata,47.96,7,7,Brittle leaves,270,2,Low light corner,18.5,33.1,Organic,21,Spider mites,High,29.6,Silty,1
+Sansevieria cylindrica,19.93,32,3,Dark green color,428,6,Indirect light all day,28,32.6,Compost,15,Whiteflies,High,27.8,Loamy,3
+Dieffenbachia seguine,-0.17,30,5,Brittle leaves,271,1,Low light corner,22.5,49,None,11,Aphids,High,51.6,Chalky,5
+Aglaonema commutatum,10.5,34,7,Strong stem,307,6,3h direct morning sun,22.2,46.9,Liquid feed,74,Whiteflies,Moderate,12.2,Loamy,1
+Ficus lyrata,49.84,17,6,Wilting,250,3,Indirect light all day,18.7,65.9,Compost,83,Aphids,High,25.4,Peaty,2
+Nephrolepis exaltata,17.97,17,6,Leaf drop,416,2,3h direct morning sun,29.2,67.1,Compost,50,None,High,44,Clay,5
+Dieffenbachia seguine,36.59,6,3,Yellowing leaves,307,4,6h full sun,20.1,32.5,Compost,0,Fungus gnats,None,38.3,Silty,5
+Chlorophytum comosum,26.21,41,8,New bud,398,5,Low light corner,24.2,41.1,Liquid feed,26,Fungus gnats,Moderate,31.8,Sandy,1
+Peperomia obtusifolia,20.15,42,9,New bud,274,5,6h full sun,26.7,43.7,Liquid feed,66,Spider mites,None,37,Loamy,3
+Chlorophytum comosum,32.75,6,5,None,251,6,Indirect light all day,25.3,57.4,Compost,11,Whiteflies,Moderate,19.9,Silty,2
+Aglaonema commutatum,1.16,40,2,New bud,275,6,3h direct morning sun,23.8,37.2,Chemical,29,None,Low,31.5,Clay,5
+Chlorophytum comosum,10.59,30,4,Wilting,285,4,Indirect light all day,18.9,36.7,Organic,8,Aphids,Moderate,35.1,Sandy,3
+Schefflera arboricola,20.08,15,4,Yellowing leaves,232,2,6h full sun,21.6,77.2,Liquid feed,52,Spider mites,Moderate,55.1,Loamy,2
+Schefflera arboricola,11.57,12,4,Leaf drop,249,1,Indirect light all day,24.6,70.2,Chemical,60,None,None,23,Chalky,4
+Aglaonema commutatum,19.19,48,7,Leaf drop,406,3,Filtered sunlight through curtain,21.6,39,Liquid feed,53,None,Moderate,53.4,Clay,4
+Peperomia obtusifolia,33.54,44,8,New bud,295,5,6h full sun,24.6,50.3,Compost,36,Aphids,Moderate,42.2,Loamy,2
+Peperomia obtusifolia,26.32,47,8,Yellowing leaves,493,3,Indirect light all day,26,47.8,Chemical,64,Aphids,None,11,Sandy,1
+Spathiphyllum wallisii,38.31,26,5,Yellowing leaves,402,1,3h direct morning sun,26.9,69.6,None,41,Fungus gnats,Low,46.2,Sandy,2
+Aglaonema commutatum,26.95,24,5,Yellowing leaves,160,6,Indirect light all day,20.3,55.5,Organic,48,Whiteflies,Low,11.8,Chalky,2
+Nephrolepis exaltata,34.92,12,8,Strong stem,55,5,3h direct morning sun,30.6,36.4,Organic,3,Spider mites,Low,59.9,Clay,1
+Aloe vera,24.36,33,3,Strong stem,285,3,Filtered sunlight through curtain,26.3,66.9,Liquid feed,63,Whiteflies,Moderate,53.6,Clay,1
+Begonia maculata,19.1,44,5,New bud,176,6,Indirect light all day,24,49.8,Organic,78,Spider mites,None,24.9,Silty,3
+Monstera deliciosa,39.81,30,3,Yellowing leaves,153,1,Filtered sunlight through curtain,27.3,43.1,None,50,None,Low,22.9,Loamy,3
+Calathea orbifolia,17.91,34,0,Dark green color,286,3,6h full sun,31.1,48.8,Chemical,90,Aphids,Low,29.1,Silty,1
+Chlorophytum comosum,28.44,21,6,Yellowing leaves,452,2,3h direct morning sun,19.7,54.9,Chemical,71,Aphids,Low,27.8,Sandy,4
+Nephrolepis exaltata,32.69,24,9,Leaf drop,204,6,6h full sun,23.3,47.2,Compost,59,None,Low,28.6,Sandy,4
+Ficus lyrata,33.41,20,5,Leaf drop,306,1,3h direct morning sun,16.9,42.1,Chemical,86,None,None,25.9,Chalky,2
+Epipremnum aureum,13.35,47,8,New bud,284,3,Filtered sunlight through curtain,24.6,49.9,Liquid feed,78,Spider mites,Low,41.1,Chalky,5
+Spathiphyllum wallisii,35.52,11,6,Dark green color,338,2,Low light corner,25.1,31,None,90,None,Moderate,18.2,Clay,2
+Chlorophytum comosum,15.21,20,6,Yellowing leaves,89,2,Indirect light all day,23.9,68.6,Compost,30,Spider mites,Moderate,52.3,Silty,2
+Chlorophytum comosum,33.11,49,1,Brittle leaves,337,1,Filtered sunlight through curtain,22,38.5,Liquid feed,71,Whiteflies,None,50.6,Sandy,5
+Ficus lyrata,30.35,31,8,Dark green color,246,4,3h direct morning sun,17.9,32.2,Liquid feed,93,Aphids,High,33.8,Loamy,1
+Schefflera arboricola,33.19,27,9,None,322,5,3h direct morning sun,25.1,62.7,Liquid feed,57,Aphids,Low,52.6,Peaty,4
+Codiaeum variegatum,12.95,28,8,New bud,431,1,3h direct morning sun,28.4,68.7,Organic,81,Aphids,Low,22.4,Loamy,2
+Begonia maculata,30.88,13,5,Leaf drop,313,2,3h direct morning sun,22.2,70.7,Liquid feed,3,Whiteflies,Moderate,10.9,Chalky,5
+Aglaonema commutatum,35.86,39,2,Brittle leaves,106,2,Indirect light all day,25.3,54.7,Organic,21,Whiteflies,None,41,Loamy,3
+Philodendron hederaceum,26.93,24,0,Leaf drop,347,1,6h full sun,19.3,40.3,Chemical,2,Fungus gnats,High,32.9,Sandy,2
+Nephrolepis exaltata,16.81,41,3,Strong stem,147,4,Low light corner,25.4,66.9,Organic,78,Spider mites,Moderate,38.4,Silty,4
+Aloe vera,34.2,46,2,New bud,186,5,Indirect light all day,22.8,65,Liquid feed,98,Spider mites,High,55,Clay,1
+Dieffenbachia seguine,26.14,21,0,New bud,425,3,3h direct morning sun,21.7,42.3,None,46,Fungus gnats,None,58.5,Silty,2
+Monstera deliciosa,8.26,35,2,Yellowing leaves,136,1,Indirect light all day,21.7,75.2,None,37,Aphids,None,41.7,Peaty,2
+Aloe vera,16.04,12,3,Yellowing leaves,468,5,Filtered sunlight through curtain,22.8,35.2,Chemical,32,Spider mites,None,48.2,Clay,5
+Zamioculcas zamiifolia,19.74,19,7,Strong stem,291,5,3h direct morning sun,25.1,79.1,Liquid feed,77,Spider mites,Moderate,14.2,Peaty,3
+Peperomia obtusifolia,40.06,35,8,Brittle leaves,248,6,Low light corner,20.1,73,Organic,47,Aphids,None,18,Peaty,3
+Dieffenbachia seguine,38.3,34,2,None,486,2,3h direct morning sun,22.8,64.4,None,64,None,Moderate,46.7,Sandy,1
+Aloe vera,38.27,24,5,Wilting,359,3,Low light corner,23.9,76.9,Compost,25,None,Moderate,31.6,Sandy,4
+Aglaonema commutatum,27.32,43,9,Dark green color,133,1,Low light corner,20.7,66.1,Liquid feed,7,Fungus gnats,Low,32.3,Chalky,1
+Spathiphyllum wallisii,34.14,16,4,Wilting,291,2,6h full sun,29.4,39.5,Liquid feed,49,Whiteflies,Moderate,25.4,Chalky,2
+Nephrolepis exaltata,13.59,21,5,Wilting,330,6,6h full sun,21.4,52.1,Compost,79,Spider mites,Moderate,40.4,Peaty,2
+Anthurium andraeanum,25.07,46,3,New bud,372,6,Indirect light all day,22,33.6,None,37,Spider mites,Low,19.3,Silty,3
+Nephrolepis exaltata,29.52,34,9,Dark green color,301,2,Indirect light all day,21.1,49.5,Compost,9,Fungus gnats,High,41.3,Chalky,4
+Tradescantia zebrina,14.25,33,5,New bud,239,4,Low light corner,29.4,67.1,Chemical,41,Fungus gnats,Low,18.7,Sandy,5
+Aloe vera,27.1,23,6,None,488,5,3h direct morning sun,25.7,49.3,Organic,36,Spider mites,Low,13.2,Chalky,4
+Philodendron hederaceum,41.87,15,8,Dark green color,479,1,Filtered sunlight through curtain,21.2,46.5,Organic,25,Aphids,None,26.5,Peaty,2
+Sansevieria cylindrica,30.59,38,9,Leaf drop,201,1,Filtered sunlight through curtain,27.3,59.8,None,91,Aphids,None,21.6,Clay,5
+Aloe vera,34.18,11,6,New bud,351,1,3h direct morning sun,24.6,73.6,Compost,11,Whiteflies,Low,54.4,Silty,4
+Ficus lyrata,0.48,48,5,New bud,327,2,3h direct morning sun,24.8,32.4,Liquid feed,83,Spider mites,None,12.7,Silty,4
+Sansevieria cylindrica,40.58,38,0,New bud,188,4,6h full sun,23,49.3,Liquid feed,48,Spider mites,Low,18.8,Loamy,5
+Spathiphyllum wallisii,23.14,24,1,Brittle leaves,225,3,Filtered sunlight through curtain,21.8,37.9,Liquid feed,13,Spider mites,None,37.4,Chalky,2
+Chlorophytum comosum,17.31,42,0,Strong stem,57,6,Low light corner,25,64.8,Chemical,45,Spider mites,Moderate,34.1,Silty,4
+Peperomia obtusifolia,23.25,28,8,New bud,344,2,Indirect light all day,22.4,35.3,Chemical,34,Fungus gnats,None,12.3,Sandy,5
+Peperomia obtusifolia,10.15,14,9,None,284,3,6h full sun,29.5,63.2,Liquid feed,28,None,None,10.4,Clay,2
+Monstera deliciosa,35.48,36,9,Yellowing leaves,212,6,Filtered sunlight through curtain,20.2,44.3,None,11,Spider mites,Moderate,59.4,Sandy,5
+Ficus lyrata,21.65,19,8,Yellowing leaves,98,6,3h direct morning sun,28.6,39.9,Chemical,81,None,Low,42.9,Chalky,5
+Dieffenbachia seguine,17.61,41,6,Dark green color,351,4,Filtered sunlight through curtain,23.7,76.8,Chemical,43,Aphids,None,28.3,Peaty,4
+Philodendron hederaceum,23.32,24,1,Leaf drop,87,5,Low light corner,24.9,30.9,Organic,65,Whiteflies,None,33.5,Loamy,2
+Aloe vera,36.18,7,5,Strong stem,185,1,6h full sun,26.5,51.9,Organic,1,Aphids,Moderate,23.3,Loamy,4
+Aloe vera,26.31,41,3,Brittle leaves,359,3,3h direct morning sun,22.1,31.1,None,58,Spider mites,Moderate,27.2,Clay,1
+Schefflera arboricola,10.9,44,0,Dark green color,470,2,Low light corner,26.6,54.2,Chemical,16,Aphids,Moderate,42.5,Silty,1
+Sansevieria cylindrica,29.65,12,0,Yellowing leaves,268,3,Indirect light all day,15.9,55.1,Chemical,9,Fungus gnats,High,54.1,Silty,2
+Peperomia obtusifolia,15.71,44,4,Strong stem,397,5,6h full sun,21.8,46.1,Compost,17,None,Moderate,19.2,Silty,5
+Sansevieria cylindrica,3.44,48,1,Strong stem,345,1,Low light corner,21.2,36.6,None,21,Spider mites,Low,52,Loamy,4
+Schefflera arboricola,39.96,27,3,Leaf drop,83,3,Low light corner,20.2,48.8,None,82,Fungus gnats,None,16.1,Peaty,4
+Aglaonema commutatum,29.57,44,0,None,401,5,3h direct morning sun,23.4,63.6,Compost,57,None,None,20.7,Silty,2
+Sansevieria cylindrica,24.22,15,3,Strong stem,128,2,Indirect light all day,25.2,69.1,Compost,52,Fungus gnats,High,11.9,Sandy,2
+Begonia maculata,21.54,12,5,New bud,285,4,Low light corner,26.1,56.5,Organic,0,Aphids,None,17,Silty,1
+Dracaena trifasciata,38.97,33,9,Strong stem,432,6,6h full sun,24.7,59.5,None,87,Spider mites,None,55.9,Peaty,3
+Ficus lyrata,55.87,34,3,Leaf drop,322,2,Low light corner,22,40,None,60,Aphids,Low,33,Clay,2
+Ficus lyrata,29.49,14,0,Dark green color,210,1,Filtered sunlight through curtain,25.1,44.4,Compost,99,Whiteflies,None,13.9,Clay,3
+Codiaeum variegatum,14.7,43,6,Leaf drop,224,6,6h full sun,24.4,38.1,Liquid feed,88,Spider mites,Low,58,Loamy,2
+Tradescantia zebrina,23.46,32,1,Brittle leaves,415,2,6h full sun,26.8,42.5,Liquid feed,99,Aphids,High,53.9,Peaty,5
+Begonia maculata,29.31,40,8,Leaf drop,357,2,Low light corner,26.3,41.2,Organic,30,Spider mites,Low,47.7,Sandy,5
+Tradescantia zebrina,1.5,17,2,Yellowing leaves,423,2,3h direct morning sun,24.1,56,Liquid feed,30,None,Moderate,56.7,Peaty,1
+Chlorophytum comosum,28.34,36,7,New bud,270,2,6h full sun,21.3,58.1,Liquid feed,65,Spider mites,Moderate,21,Sandy,1
+Calathea orbifolia,29.36,40,7,None,58,6,Filtered sunlight through curtain,22,77.2,Liquid feed,18,Spider mites,High,51.8,Sandy,3
+Monstera deliciosa,38.26,41,2,Yellowing leaves,338,1,3h direct morning sun,22.4,39.8,Chemical,52,None,None,44.5,Peaty,2
+Aloe vera,37.22,30,3,Dark green color,493,5,3h direct morning sun,23.1,62.1,Organic,75,Aphids,Low,53.5,Chalky,4
+Spathiphyllum wallisii,26.11,26,1,Wilting,162,3,3h direct morning sun,24.8,70.9,Compost,73,Spider mites,Moderate,49.8,Peaty,1
+Calathea orbifolia,40.15,8,3,Dark green color,254,4,6h full sun,26.1,58,Liquid feed,94,Fungus gnats,Low,27.3,Sandy,4
+Ficus lyrata,45.36,35,8,New bud,454,3,3h direct morning sun,23.8,42.8,Chemical,21,Spider mites,Moderate,48.7,Silty,4
+Calathea orbifolia,25.28,22,1,Strong stem,235,3,Low light corner,24,43.1,Liquid feed,22,Aphids,Low,23.1,Clay,2
+Tradescantia zebrina,29.18,42,2,Leaf drop,390,4,3h direct morning sun,24.4,32,Chemical,86,None,None,26.4,Clay,3
+Anthurium andraeanum,7.33,28,3,Wilting,246,6,Filtered sunlight through curtain,22.5,45.3,Organic,14,Aphids,High,15.4,Loamy,2
+Calathea orbifolia,10.49,27,4,New bud,315,1,Indirect light all day,21.2,67.2,Liquid feed,25,Whiteflies,None,56.8,Clay,1
+Anthurium andraeanum,16.62,26,0,Yellowing leaves,311,4,Filtered sunlight through curtain,18.7,32.4,Chemical,2,Spider mites,Low,24.6,Chalky,4
+Calathea orbifolia,20.56,6,6,Leaf drop,297,1,6h full sun,21.9,41,None,86,Spider mites,Moderate,36,Sandy,2
+Dieffenbachia seguine,14.04,35,9,Dark green color,164,6,3h direct morning sun,25.4,65.3,None,19,None,Moderate,29.6,Peaty,2
+Dracaena trifasciata,24.64,15,6,Yellowing leaves,170,3,3h direct morning sun,21.9,69.1,Chemical,39,Spider mites,High,58,Peaty,2
+Monstera deliciosa,20.86,32,8,New bud,190,1,Low light corner,23.3,52.8,Liquid feed,38,Fungus gnats,None,26.8,Chalky,1
+Spathiphyllum wallisii,35.71,36,3,New bud,114,6,3h direct morning sun,25.4,64.9,Liquid feed,71,Fungus gnats,None,48.9,Clay,3
+Begonia maculata,20.25,9,5,Dark green color,325,6,Filtered sunlight through curtain,25.6,49.4,Organic,17,Aphids,None,52.8,Sandy,2
+Dracaena trifasciata,2.13,42,1,Wilting,362,5,6h full sun,20.8,38,Organic,40,None,Moderate,31.8,Clay,1
+Spathiphyllum wallisii,26.26,14,3,Dark green color,288,4,Indirect light all day,27,49.9,Compost,69,Whiteflies,High,28.9,Loamy,4
+Codiaeum variegatum,24.86,44,1,Strong stem,351,5,3h direct morning sun,27.4,59,Organic,26,Aphids,Moderate,47.4,Clay,5
+Spathiphyllum wallisii,16.38,28,9,Yellowing leaves,441,3,Indirect light all day,20.6,77.4,Liquid feed,99,None,None,55.6,Loamy,1
+Monstera deliciosa,25.95,39,4,Wilting,59,4,3h direct morning sun,21.5,33.4,Compost,14,None,Low,47.7,Peaty,5
+Aloe vera,14.25,48,6,Leaf drop,418,3,6h full sun,27.6,55.4,Organic,36,Aphids,Moderate,21.4,Sandy,2
+Anthurium andraeanum,28.3,27,0,Brittle leaves,282,5,Filtered sunlight through curtain,23.6,46.4,Chemical,57,Aphids,High,54.4,Silty,2
+Calathea orbifolia,51.33,21,9,Strong stem,244,6,6h full sun,17.3,55.4,None,4,Spider mites,None,29.4,Loamy,1
+Codiaeum variegatum,6.94,5,9,Wilting,444,3,Indirect light all day,19.8,31.2,Organic,72,Whiteflies,Low,38.8,Clay,5
+Anthurium andraeanum,19.84,35,6,Brittle leaves,61,4,3h direct morning sun,23.3,45.7,Organic,6,Fungus gnats,Moderate,51.6,Clay,2
+Dieffenbachia seguine,18.23,35,9,Brittle leaves,443,4,Indirect light all day,20.5,71,Chemical,40,Spider mites,Low,19.4,Peaty,4
+Ficus lyrata,20.67,46,5,Yellowing leaves,458,3,Filtered sunlight through curtain,22.8,57.7,Liquid feed,83,None,Low,49.2,Chalky,3
+Zamioculcas zamiifolia,35.2,46,5,New bud,226,4,6h full sun,24.1,52.5,Chemical,9,Whiteflies,High,39.8,Silty,3
+Peperomia obtusifolia,30.43,38,7,Leaf drop,226,6,Indirect light all day,28.4,44.3,Organic,61,Whiteflies,Moderate,54.7,Chalky,2
+Ficus lyrata,33.49,13,7,Dark green color,266,6,Indirect light all day,23.1,44.9,Liquid feed,25,Aphids,High,18.6,Clay,5
+Aglaonema commutatum,25.3,26,5,Yellowing leaves,60,4,Filtered sunlight through curtain,27.2,49.2,Compost,67,Whiteflies,None,31,Chalky,2
+Zamioculcas zamiifolia,11.78,17,2,Strong stem,495,3,3h direct morning sun,28.3,71.8,Organic,23,Whiteflies,Low,51.6,Silty,5
+Peperomia obtusifolia,13.85,29,4,None,167,5,Indirect light all day,28.3,78.4,Chemical,77,None,High,11,Silty,4
+Codiaeum variegatum,32.46,22,1,Brittle leaves,213,4,Filtered sunlight through curtain,24.9,51.9,Compost,40,Spider mites,High,15.6,Sandy,5
+Ficus lyrata,26.71,16,4,Strong stem,88,4,3h direct morning sun,18.1,49.7,None,64,Whiteflies,None,59.5,Chalky,2
+Schefflera arboricola,37.6,44,8,Brittle leaves,102,4,3h direct morning sun,25.4,72.3,Compost,16,Aphids,Moderate,24,Sandy,4
+Schefflera arboricola,27.93,21,9,New bud,267,4,6h full sun,27.1,51.3,Chemical,23,Spider mites,High,58.8,Clay,1
+Epipremnum aureum,13.17,19,0,None,255,3,Filtered sunlight through curtain,23.8,57.6,Compost,26,Aphids,Low,19.1,Clay,3
+Aglaonema commutatum,19.78,46,9,New bud,361,5,3h direct morning sun,29.2,41.5,Chemical,6,Whiteflies,Low,28.1,Clay,2
+Spathiphyllum wallisii,30.65,19,4,Leaf drop,409,5,6h full sun,26.6,67.2,Organic,72,Spider mites,Low,47.6,Peaty,2
+Dieffenbachia seguine,32.1,19,5,Dark green color,434,1,Low light corner,25.7,56.6,Liquid feed,98,Whiteflies,Low,42.9,Chalky,2
+Epipremnum aureum,33.55,43,6,Leaf drop,105,4,Filtered sunlight through curtain,27.3,70.5,None,11,None,High,39.1,Loamy,4
+Sansevieria cylindrica,14.51,17,8,New bud,167,4,Low light corner,25,69,Liquid feed,84,Spider mites,Low,36.5,Silty,1
+Begonia maculata,12.99,21,5,New bud,437,1,3h direct morning sun,16.5,40.8,Liquid feed,2,Aphids,High,52.2,Loamy,5
+Begonia maculata,23.1,36,4,Strong stem,302,5,Filtered sunlight through curtain,22.5,65.8,Liquid feed,78,None,Moderate,21.7,Clay,1
+Philodendron hederaceum,39.4,13,6,New bud,335,2,6h full sun,27.6,70,Chemical,84,Fungus gnats,Low,32.1,Chalky,4
+Monstera deliciosa,18.06,44,0,None,317,6,3h direct morning sun,21.6,47.3,Chemical,9,Aphids,Moderate,17.8,Sandy,2
+Begonia maculata,29.55,24,4,None,340,2,Filtered sunlight through curtain,23.3,38.6,None,32,Whiteflies,High,39.8,Loamy,3
+Calathea orbifolia,29.55,30,1,Wilting,382,5,Filtered sunlight through curtain,20.9,30.1,Chemical,45,Aphids,None,22.5,Clay,2
+Epipremnum aureum,32.61,31,3,Brittle leaves,229,4,Low light corner,29.4,52.5,Chemical,58,Fungus gnats,Moderate,26.7,Loamy,5
+Sansevieria cylindrica,41.64,25,6,Yellowing leaves,464,2,3h direct morning sun,29,47.6,Chemical,51,Aphids,Low,33.6,Loamy,3
+Tradescantia zebrina,40.62,22,4,New bud,407,3,6h full sun,21.3,57.7,Chemical,5,None,None,11.3,Silty,2
+Monstera deliciosa,19.05,17,5,Leaf drop,284,3,6h full sun,24.4,39.4,Organic,1,Aphids,Moderate,14.6,Loamy,3
+Spathiphyllum wallisii,4.02,20,1,Dark green color,392,1,3h direct morning sun,22,73,None,28,Spider mites,High,44.3,Clay,1
+Aglaonema commutatum,18.21,13,2,Brittle leaves,245,5,3h direct morning sun,25.8,42.9,Chemical,39,Fungus gnats,High,31.4,Silty,4
+Chlorophytum comosum,25.76,16,6,Brittle leaves,357,5,Indirect light all day,25.5,41.3,None,96,Aphids,High,53.2,Clay,2
+Monstera deliciosa,21.38,48,1,Dark green color,129,2,Low light corner,26.4,54,Compost,60,Fungus gnats,Moderate,44.7,Peaty,5
+Tradescantia zebrina,44.68,42,5,Dark green color,184,4,3h direct morning sun,25,54.9,Organic,67,None,High,10.4,Peaty,1
+Chlorophytum comosum,25.19,23,4,Brittle leaves,71,5,3h direct morning sun,32.8,40.8,Chemical,67,Spider mites,Moderate,40.8,Peaty,2
+Peperomia obtusifolia,31.54,11,9,Wilting,380,2,Indirect light all day,20.9,43.6,Organic,28,Whiteflies,Low,14.7,Loamy,1
+Aglaonema commutatum,27.17,39,0,Leaf drop,489,2,Indirect light all day,18.9,38.5,Organic,61,Aphids,Low,49,Chalky,5
+Dracaena trifasciata,21.53,22,9,Wilting,274,6,Filtered sunlight through curtain,22.8,65.9,Compost,59,None,Moderate,59.6,Clay,2
+Peperomia obtusifolia,5.75,20,3,New bud,107,6,6h full sun,19.3,68.5,None,83,Fungus gnats,Moderate,36.6,Peaty,5
+Dieffenbachia seguine,24.21,43,1,Yellowing leaves,142,5,Low light corner,19.5,53.1,Organic,40,Fungus gnats,None,44.1,Chalky,3
+Tradescantia zebrina,57.55,8,3,Dark green color,241,2,Filtered sunlight through curtain,21,65.7,Liquid feed,86,None,High,21.9,Peaty,5
+Spathiphyllum wallisii,12.56,29,0,None,152,1,3h direct morning sun,21.2,66.8,Compost,81,Aphids,Low,31.9,Peaty,3
+Begonia maculata,6.85,36,1,Leaf drop,445,1,Indirect light all day,21.1,36.9,Liquid feed,88,Whiteflies,Low,52.8,Chalky,2
+Aloe vera,44.36,44,7,Dark green color,56,6,6h full sun,25.6,78.3,Compost,64,Aphids,None,18.4,Peaty,3
+Aglaonema commutatum,32.42,17,5,Wilting,177,5,Filtered sunlight through curtain,22.5,71.1,Liquid feed,63,Spider mites,Moderate,23.3,Loamy,2
+Dieffenbachia seguine,26.87,49,1,Strong stem,104,4,6h full sun,23.5,40.2,Liquid feed,78,Aphids,Moderate,32.3,Loamy,2
+Anthurium andraeanum,38.63,21,5,New bud,280,1,Indirect light all day,26.7,39.3,Organic,62,Spider mites,None,45.6,Silty,4
+Dieffenbachia seguine,16.68,41,9,Yellowing leaves,411,1,Filtered sunlight through curtain,21.7,36.3,Organic,97,Fungus gnats,High,28.8,Loamy,2
+Tradescantia zebrina,23.93,10,8,New bud,111,6,Filtered sunlight through curtain,23.2,36.9,Compost,47,Spider mites,Moderate,56.4,Sandy,3
+Peperomia obtusifolia,34.55,23,6,Strong stem,289,6,6h full sun,25.1,67.4,None,19,Whiteflies,Moderate,14.7,Silty,4
+Peperomia obtusifolia,46.1,17,8,Yellowing leaves,139,5,Indirect light all day,18.2,53.5,Organic,36,None,High,28.5,Peaty,4
+Dracaena trifasciata,13.31,30,4,Strong stem,281,6,3h direct morning sun,16.8,69.1,Organic,63,Spider mites,High,45.4,Sandy,2
+Dieffenbachia seguine,37.81,18,6,New bud,282,3,Filtered sunlight through curtain,25,67.3,Chemical,90,Aphids,None,21.3,Clay,5
+Codiaeum variegatum,28.82,35,6,Wilting,403,2,3h direct morning sun,25.5,60.2,Organic,85,Spider mites,None,42.8,Chalky,5
+Peperomia obtusifolia,26.63,8,2,Brittle leaves,382,1,Indirect light all day,30.2,64.3,None,4,Fungus gnats,None,18.2,Clay,4
+Dracaena trifasciata,24.92,43,6,New bud,488,3,Filtered sunlight through curtain,24.5,30.9,Chemical,33,Spider mites,Moderate,12.8,Sandy,2
+Anthurium andraeanum,11.15,12,0,New bud,424,4,Filtered sunlight through curtain,26.5,45.6,Liquid feed,38,Whiteflies,None,16.1,Loamy,5
+Codiaeum variegatum,34.63,29,8,New bud,341,3,3h direct morning sun,23.4,61.9,Liquid feed,66,Spider mites,Moderate,56.5,Peaty,2
+Monstera deliciosa,17.18,17,9,Leaf drop,394,5,Low light corner,24.9,30.5,Chemical,80,Whiteflies,Low,37.6,Silty,2
+Begonia maculata,14.2,36,5,Strong stem,201,4,3h direct morning sun,29,31.6,Chemical,61,Aphids,High,49.8,Peaty,4
+Dracaena trifasciata,33.85,42,4,None,477,4,3h direct morning sun,17.6,72.6,Chemical,87,Fungus gnats,High,26.6,Loamy,4
+Tradescantia zebrina,32.89,42,6,Strong stem,194,6,Low light corner,25.2,64.2,Compost,23,None,Low,39.6,Peaty,1
+Nephrolepis exaltata,25.79,32,4,Dark green color,179,3,Indirect light all day,30.4,43.3,None,2,Aphids,None,34.7,Chalky,5
+Begonia maculata,35.8,34,9,Strong stem,190,5,Indirect light all day,24.8,64.4,None,70,Aphids,Moderate,57.3,Chalky,5
+Peperomia obtusifolia,39.26,7,4,Dark green color,464,1,Filtered sunlight through curtain,29,69.6,Liquid feed,88,None,Moderate,47.4,Chalky,5
+Epipremnum aureum,38.08,32,9,Leaf drop,142,6,6h full sun,22.1,45.3,Liquid feed,66,Spider mites,Moderate,46.5,Clay,3
+Sansevieria cylindrica,19.72,7,6,Wilting,163,3,6h full sun,23.9,31.8,Liquid feed,78,Spider mites,High,12.3,Loamy,2
+Tradescantia zebrina,35.14,49,9,Dark green color,333,1,Filtered sunlight through curtain,24.1,76.6,Organic,92,Spider mites,None,37.5,Chalky,4
+Philodendron hederaceum,27.12,38,6,New bud,493,3,6h full sun,17.3,47.3,Liquid feed,49,Fungus gnats,Moderate,33.3,Sandy,5
+Dracaena trifasciata,42.26,20,2,Wilting,460,6,3h direct morning sun,20.5,35.3,Chemical,28,Aphids,Moderate,56.4,Chalky,1
+Aloe vera,23.76,26,2,Brittle leaves,192,1,3h direct morning sun,20.7,54.6,Liquid feed,73,Whiteflies,Moderate,22.9,Silty,5
+Monstera deliciosa,21.44,36,9,Leaf drop,272,6,Low light corner,26.5,68.4,Chemical,31,None,Low,23.5,Clay,2
+Schefflera arboricola,18.86,42,2,Strong stem,281,3,Low light corner,26.6,41.1,Compost,86,Aphids,Moderate,30.6,Sandy,2
+Anthurium andraeanum,26.89,12,5,Dark green color,82,4,Filtered sunlight through curtain,25,43.5,Organic,38,Spider mites,Low,22.2,Loamy,4
+Dracaena trifasciata,29.67,12,5,None,325,2,Filtered sunlight through curtain,26.5,42.1,Organic,8,None,Moderate,16.5,Loamy,3
+Dieffenbachia seguine,29.86,10,2,New bud,219,4,Filtered sunlight through curtain,23.5,79.6,None,13,Whiteflies,Moderate,52.9,Silty,4
+Zamioculcas zamiifolia,28.49,18,2,Yellowing leaves,189,6,3h direct morning sun,27.6,39.9,Compost,67,Aphids,Moderate,37.9,Chalky,5
+Aglaonema commutatum,31.71,36,7,Brittle leaves,406,6,6h full sun,24,58.8,Chemical,63,Aphids,Low,53.1,Sandy,1
+Philodendron hederaceum,22.77,39,7,Yellowing leaves,250,6,Filtered sunlight through curtain,24.2,76.3,Compost,19,Fungus gnats,Moderate,51.6,Silty,4
+Zamioculcas zamiifolia,16.27,14,6,Wilting,72,1,Filtered sunlight through curtain,23.2,37.3,Organic,27,Aphids,None,24.1,Sandy,3
+Anthurium andraeanum,15.4,7,9,Strong stem,273,5,3h direct morning sun,26.1,78.5,Chemical,13,Aphids,Moderate,37.4,Chalky,4
+Zamioculcas zamiifolia,34.75,16,3,None,417,6,3h direct morning sun,22.7,77.4,Compost,43,Whiteflies,Low,14.2,Chalky,2
+Schefflera arboricola,29.7,35,3,Yellowing leaves,319,4,3h direct morning sun,26.9,74.2,Organic,97,Whiteflies,Low,55.8,Peaty,5
+Philodendron hederaceum,6.44,33,2,Wilting,396,2,6h full sun,20.6,40.7,Chemical,76,None,None,30.2,Peaty,5
+Philodendron hederaceum,35.97,9,4,Leaf drop,202,6,Filtered sunlight through curtain,20.7,61.7,Chemical,94,Spider mites,High,29.7,Chalky,5
+Dracaena trifasciata,43.8,29,2,Wilting,382,6,Indirect light all day,26.1,68,Organic,96,Whiteflies,None,25.1,Clay,5
+Nephrolepis exaltata,17.84,45,7,Brittle leaves,134,6,Indirect light all day,23.7,79.3,Chemical,38,None,None,33,Silty,5
+Dracaena trifasciata,28.36,35,6,None,158,1,Filtered sunlight through curtain,22.6,39,Organic,27,Aphids,Low,22.6,Peaty,5
+Zamioculcas zamiifolia,20.27,25,2,None,80,6,Filtered sunlight through curtain,26.7,68.3,Liquid feed,63,None,Moderate,28.7,Chalky,1
+Ficus lyrata,31.28,24,8,Wilting,278,4,Filtered sunlight through curtain,22.2,46.9,Liquid feed,88,None,Moderate,50,Sandy,3
+Aglaonema commutatum,13.34,43,4,Brittle leaves,289,3,Filtered sunlight through curtain,23.4,38.8,Chemical,31,None,High,51.7,Silty,5
+Anthurium andraeanum,24.29,26,8,Wilting,427,5,6h full sun,28.2,51.1,Chemical,8,None,High,25.2,Peaty,3
+Philodendron hederaceum,34.81,8,6,None,412,6,Indirect light all day,28.6,69.7,Organic,27,Whiteflies,High,33.5,Clay,5
+Peperomia obtusifolia,37.36,17,6,None,359,1,Low light corner,28.7,53.2,Chemical,94,Spider mites,High,53.7,Silty,4
+Anthurium andraeanum,29.26,49,5,New bud,438,4,Indirect light all day,23.2,56.9,None,16,None,None,12.6,Silty,5
+Calathea orbifolia,21.61,46,1,Wilting,190,6,Indirect light all day,27.7,79.8,Liquid feed,86,Fungus gnats,None,54.5,Loamy,2
+Calathea orbifolia,9.07,24,8,Dark green color,205,1,3h direct morning sun,21.2,50,Chemical,76,Aphids,Moderate,21,Sandy,1
+Peperomia obtusifolia,17.42,17,5,Wilting,348,3,Filtered sunlight through curtain,21.3,60.8,Chemical,54,Aphids,None,43.9,Clay,4
+Philodendron hederaceum,20.31,21,7,None,394,2,Filtered sunlight through curtain,16.9,48.3,Compost,9,Aphids,Moderate,39.1,Clay,4
+Philodendron hederaceum,18.02,40,0,New bud,420,6,Filtered sunlight through curtain,29,49.6,Chemical,79,Aphids,Moderate,37.6,Clay,2
+Sansevieria cylindrica,25.6,37,4,New bud,148,4,3h direct morning sun,21.4,64.8,None,5,Aphids,Moderate,53,Sandy,5
+Tradescantia zebrina,21.58,5,0,Leaf drop,96,1,6h full sun,23.6,76.9,Liquid feed,47,None,Moderate,15.1,Clay,1
+Schefflera arboricola,26.72,19,9,Brittle leaves,376,1,6h full sun,21.3,57.1,Compost,74,Spider mites,Low,27.4,Loamy,4
+Chlorophytum comosum,37.03,17,7,Strong stem,471,6,Low light corner,26.1,68.4,Organic,66,Fungus gnats,Moderate,36.9,Peaty,1
+Dracaena trifasciata,20.94,21,7,Yellowing leaves,116,1,6h full sun,22.9,34.5,Organic,91,Whiteflies,None,50.6,Sandy,4
+Aloe vera,11.17,28,0,Yellowing leaves,111,2,6h full sun,20.1,40.6,Liquid feed,40,Fungus gnats,None,20.8,Clay,5
+Codiaeum variegatum,17.98,12,8,Wilting,158,1,Filtered sunlight through curtain,25.3,55.1,Organic,78,Whiteflies,None,50.1,Chalky,4
+Dracaena trifasciata,30.84,31,1,Leaf drop,216,5,Indirect light all day,19.7,31,None,59,Whiteflies,None,30,Peaty,4
+Zamioculcas zamiifolia,31.78,49,8,Wilting,86,5,6h full sun,21.5,42.6,Chemical,76,Fungus gnats,Low,19.4,Silty,3
+Philodendron hederaceum,29.06,27,0,Yellowing leaves,168,1,6h full sun,17.7,55.9,Liquid feed,41,None,High,47.9,Sandy,5
+Aloe vera,38.01,12,9,Brittle leaves,135,6,3h direct morning sun,19.7,30.7,Compost,80,Aphids,High,14.5,Chalky,2
+Codiaeum variegatum,23.14,12,8,None,431,5,Low light corner,24.5,43.2,Chemical,70,None,Moderate,35.7,Silty,2
+Dracaena trifasciata,45.52,30,3,Brittle leaves,441,4,3h direct morning sun,18.1,55.7,Organic,27,Aphids,Moderate,13.2,Chalky,5
+Philodendron hederaceum,33.18,17,8,Brittle leaves,101,5,Filtered sunlight through curtain,19.6,58.7,Organic,12,Spider mites,None,27.8,Clay,2
+Ficus lyrata,-0.23,43,6,New bud,140,1,Indirect light all day,24,76.3,Compost,80,Whiteflies,None,40.1,Sandy,5
+Aloe vera,43.01,41,5,None,338,6,Low light corner,22.4,62.3,None,14,Fungus gnats,High,37.8,Clay,2
+Chlorophytum comosum,17.33,32,4,Strong stem,386,3,3h direct morning sun,30,50.7,Compost,35,Spider mites,High,30.2,Silty,3
+Peperomia obtusifolia,14.66,29,8,None,347,6,6h full sun,29.5,76.5,Liquid feed,91,Aphids,None,31.5,Loamy,2
+Schefflera arboricola,30.24,20,1,Leaf drop,253,6,6h full sun,21.4,69.2,Compost,14,None,Moderate,21.3,Chalky,4
+Epipremnum aureum,7.62,6,1,New bud,417,6,Low light corner,25.7,40,Organic,74,Fungus gnats,Low,32.8,Loamy,5
+Aglaonema commutatum,18.05,22,8,Strong stem,287,4,6h full sun,26.2,36.5,None,55,Whiteflies,Low,57.7,Silty,1
+Monstera deliciosa,40.57,21,2,Leaf drop,431,2,3h direct morning sun,22.2,63.8,None,94,Spider mites,High,52.5,Clay,1
+Ficus lyrata,30.56,34,7,Leaf drop,204,1,3h direct morning sun,19.5,58,Compost,3,Whiteflies,High,17.3,Peaty,5
+Schefflera arboricola,33.12,43,8,Yellowing leaves,289,2,6h full sun,24,69.5,Liquid feed,98,Aphids,High,11.5,Chalky,3
+Tradescantia zebrina,18.43,17,7,New bud,185,3,6h full sun,23.5,66.9,Organic,97,Whiteflies,Low,56.7,Peaty,2
+Chlorophytum comosum,9.62,36,3,Leaf drop,456,2,Filtered sunlight through curtain,22.7,61.3,Chemical,51,None,Low,36.3,Sandy,3
+Peperomia obtusifolia,32.07,33,0,Dark green color,411,1,Indirect light all day,25.3,79.3,None,90,Spider mites,None,36.9,Chalky,1
+Epipremnum aureum,34.3,34,3,Brittle leaves,430,1,Low light corner,21.7,56.7,Compost,9,Spider mites,Moderate,49,Loamy,5
+Zamioculcas zamiifolia,33.85,22,8,Leaf drop,418,3,3h direct morning sun,20.5,35.7,Liquid feed,93,None,High,25.7,Peaty,5
+Dieffenbachia seguine,27.09,17,1,Strong stem,113,1,Low light corner,24.3,71.4,Liquid feed,44,Whiteflies,None,34.1,Silty,3
+Philodendron hederaceum,15.33,47,2,Yellowing leaves,172,3,Filtered sunlight through curtain,25.2,42.6,Organic,83,None,Low,58.4,Sandy,3
+Calathea orbifolia,49.38,25,9,Wilting,303,3,3h direct morning sun,20.5,68.9,None,28,Fungus gnats,None,43.6,Chalky,2
+Begonia maculata,29.8,34,7,Brittle leaves,163,1,Filtered sunlight through curtain,26.8,77.9,Organic,52,None,Low,17.7,Silty,4
+Anthurium andraeanum,23.26,25,5,Yellowing leaves,69,5,Filtered sunlight through curtain,18.7,64.8,Chemical,28,Whiteflies,Moderate,16.7,Sandy,4
+Monstera deliciosa,23.31,21,7,Wilting,65,3,6h full sun,22.3,59.8,Chemical,22,None,Low,20.2,Loamy,2
+Epipremnum aureum,26.5,44,6,New bud,194,1,Low light corner,23.2,53,Chemical,56,Aphids,None,48.3,Silty,4
+Zamioculcas zamiifolia,35.7,23,4,New bud,257,5,Low light corner,22.1,48.2,Liquid feed,49,None,Moderate,24.8,Chalky,1
+Aloe vera,26.9,19,8,Leaf drop,68,3,6h full sun,22.3,47.7,None,20,None,Low,11.1,Sandy,4
+Epipremnum aureum,33.59,13,3,Dark green color,425,5,Low light corner,29.6,61.8,Organic,42,Whiteflies,High,57.2,Clay,2
+Philodendron hederaceum,26.51,14,5,New bud,441,4,6h full sun,21.4,67.6,Organic,9,Fungus gnats,Low,18.5,Chalky,4
+Zamioculcas zamiifolia,23.88,48,1,None,215,6,3h direct morning sun,31.3,63.9,Chemical,75,Fungus gnats,Moderate,10.5,Chalky,5
+Calathea orbifolia,31.41,35,1,Leaf drop,87,4,Filtered sunlight through curtain,25.3,39.9,None,29,Whiteflies,None,21.9,Chalky,3
+Schefflera arboricola,31.03,27,1,Brittle leaves,230,5,Filtered sunlight through curtain,24.3,54.7,None,50,Whiteflies,Moderate,21.8,Chalky,1
+Dieffenbachia seguine,23.3,34,9,Yellowing leaves,398,3,Low light corner,25.4,69.6,Compost,32,Whiteflies,None,31.1,Clay,5
+Zamioculcas zamiifolia,17.51,37,6,New bud,154,1,Indirect light all day,31.6,53.8,None,17,Aphids,Low,56,Silty,5
+Begonia maculata,28.42,13,1,None,149,2,Filtered sunlight through curtain,21,56.8,None,77,Spider mites,Low,54,Silty,2
+Codiaeum variegatum,25.78,5,1,Yellowing leaves,139,1,6h full sun,20.6,68.6,Organic,21,None,Moderate,32.8,Silty,3
+Dracaena trifasciata,19.45,48,8,Yellowing leaves,464,2,Indirect light all day,21.7,63.1,None,63,Whiteflies,High,30.5,Loamy,3
+Spathiphyllum wallisii,16.58,39,6,Dark green color,349,2,Indirect light all day,24.1,50.5,None,20,Whiteflies,Low,37.8,Clay,1
+Philodendron hederaceum,29.1,15,2,New bud,493,3,Filtered sunlight through curtain,18.8,74.8,Organic,0,Whiteflies,High,22.2,Clay,2
+Zamioculcas zamiifolia,30.5,38,2,Yellowing leaves,381,5,Filtered sunlight through curtain,24.1,38.1,None,14,Fungus gnats,High,12.6,Sandy,1
+Anthurium andraeanum,21.4,20,6,Dark green color,450,1,Filtered sunlight through curtain,29.1,79.8,Organic,35,Whiteflies,Moderate,57,Peaty,4
+Begonia maculata,19.2,13,4,Dark green color,128,5,6h full sun,24.5,35.9,Compost,46,None,Low,19.3,Silty,5
+Dracaena trifasciata,16.7,36,9,New bud,122,4,Indirect light all day,23.1,30.7,Liquid feed,53,Whiteflies,High,19.9,Peaty,1
+Sansevieria cylindrica,28.82,19,5,Dark green color,472,3,Low light corner,22.1,74.5,Organic,85,None,Low,33.6,Sandy,5
+Chlorophytum comosum,16.96,16,7,New bud,475,3,6h full sun,26.7,42.2,Organic,31,Aphids,None,34.6,Clay,2
+Ficus lyrata,47.41,37,8,None,225,4,3h direct morning sun,21.5,66.5,None,57,Spider mites,High,10.9,Sandy,4
+Dracaena trifasciata,20.9,49,0,New bud,445,1,Filtered sunlight through curtain,29.5,70.6,Organic,45,Fungus gnats,Moderate,17.4,Chalky,2
+Epipremnum aureum,0.75,18,2,Wilting,145,6,Indirect light all day,29.8,72.9,Chemical,53,None,Moderate,28.9,Sandy,4
+Calathea orbifolia,24.7,12,6,Yellowing leaves,394,4,6h full sun,24.8,79.6,Chemical,32,Aphids,High,44.2,Sandy,4
+Sansevieria cylindrica,24.27,12,5,None,152,1,3h direct morning sun,24,44.7,Compost,38,Spider mites,Low,21.4,Chalky,5
+Ficus lyrata,36.12,31,6,Strong stem,451,2,6h full sun,27.1,65.5,Organic,22,Spider mites,None,31.2,Peaty,2
+Spathiphyllum wallisii,27.88,16,7,New bud,273,3,6h full sun,27.3,35.8,None,42,Spider mites,None,37.9,Chalky,2
+Calathea orbifolia,16.66,5,5,Yellowing leaves,55,1,Low light corner,21.6,50.3,None,54,None,Moderate,54.4,Loamy,1
+Zamioculcas zamiifolia,22.14,47,2,Brittle leaves,171,5,Low light corner,22.4,72.4,Liquid feed,1,Aphids,Moderate,26.3,Sandy,2
+Dracaena trifasciata,28.27,44,1,Dark green color,285,5,6h full sun,20,48.4,Compost,65,Whiteflies,Low,16.7,Sandy,1
+Anthurium andraeanum,3.35,46,6,Leaf drop,476,3,3h direct morning sun,25.2,59.6,None,37,Aphids,Moderate,34.5,Peaty,3
+Schefflera arboricola,38.39,15,0,New bud,165,4,Indirect light all day,26,55.2,Liquid feed,28,Aphids,Low,47.3,Clay,3
+Monstera deliciosa,16.69,43,2,Dark green color,212,6,Indirect light all day,20,62.3,None,66,Aphids,High,15.5,Chalky,3
+Chlorophytum comosum,39.17,47,3,Dark green color,275,4,Filtered sunlight through curtain,22.6,78.6,Liquid feed,70,None,None,31.2,Clay,2
+Aglaonema commutatum,28.92,35,0,Dark green color,279,1,Filtered sunlight through curtain,20,32.8,Chemical,35,None,High,10.9,Loamy,2
+Sansevieria cylindrica,31.3,21,4,Dark green color,231,4,Indirect light all day,21.3,58.7,Chemical,28,None,Moderate,11.7,Chalky,1
+Spathiphyllum wallisii,36.49,37,9,Dark green color,298,3,6h full sun,25.7,73.2,None,36,Aphids,None,34.1,Loamy,4
+Sansevieria cylindrica,30.73,36,2,New bud,367,1,6h full sun,21.8,54.1,Compost,99,None,None,24.9,Loamy,1
+Aloe vera,31.73,33,1,Brittle leaves,259,2,Low light corner,23.1,33.9,Organic,86,Spider mites,High,52.3,Loamy,3
+Epipremnum aureum,23.36,25,2,Strong stem,193,4,Low light corner,19.1,58,Compost,44,None,Low,40.1,Silty,1
+Aglaonema commutatum,28.72,25,7,Wilting,441,4,Filtered sunlight through curtain,24.6,46.6,Compost,15,Fungus gnats,None,32.7,Chalky,4
+Epipremnum aureum,19.13,44,5,Dark green color,394,6,Indirect light all day,23.9,37.7,Organic,30,None,Low,30.4,Chalky,2
+Spathiphyllum wallisii,21.57,27,6,Dark green color,145,1,6h full sun,21.8,72.5,Chemical,33,None,High,34.9,Silty,1
+Monstera deliciosa,44.65,10,5,Wilting,431,5,Indirect light all day,23.4,56.1,Chemical,49,None,High,12,Peaty,3
+Aglaonema commutatum,16.92,26,5,Brittle leaves,395,4,3h direct morning sun,24.5,76.7,Organic,64,None,Low,54.6,Silty,3
+Monstera deliciosa,26.54,42,2,None,293,3,Indirect light all day,21.6,70.3,Liquid feed,81,Fungus gnats,High,59.9,Sandy,2
+Spathiphyllum wallisii,26.13,41,7,Brittle leaves,135,4,3h direct morning sun,19.6,64.6,Compost,61,Whiteflies,None,19.1,Clay,1
+Schefflera arboricola,21.89,49,6,None,464,6,Low light corner,29.4,30.3,None,42,None,High,16,Clay,4
+Epipremnum aureum,30.14,12,6,New bud,443,2,Low light corner,22.1,51.4,Chemical,55,Spider mites,High,17.2,Loamy,2
+Monstera deliciosa,30.9,45,5,Yellowing leaves,233,6,Filtered sunlight through curtain,23.7,39.9,None,14,Fungus gnats,None,43.1,Chalky,1
+Nephrolepis exaltata,15.74,39,4,Leaf drop,170,4,Indirect light all day,27,75.5,Organic,47,Whiteflies,Low,43.1,Chalky,5
+Sansevieria cylindrica,26.01,15,9,Leaf drop,381,5,Indirect light all day,34.6,38.7,None,48,None,High,52.4,Loamy,3
+Aglaonema commutatum,14.18,28,7,Yellowing leaves,141,4,3h direct morning sun,20.3,44.3,None,80,Whiteflies,Low,47.6,Sandy,4
+Dracaena trifasciata,32.89,25,4,New bud,119,1,Low light corner,25.3,55.8,Compost,43,Spider mites,None,32.5,Clay,4
+Chlorophytum comosum,26.76,6,8,Leaf drop,453,4,3h direct morning sun,21.9,43.2,Organic,9,Fungus gnats,Low,40.6,Silty,4
+Anthurium andraeanum,25.82,44,8,Brittle leaves,182,5,Low light corner,22.4,40.5,None,19,Fungus gnats,Low,44.4,Peaty,3
+Peperomia obtusifolia,31.59,23,0,Wilting,328,1,3h direct morning sun,21.8,60,Chemical,69,Whiteflies,Moderate,35.6,Sandy,1
+Tradescantia zebrina,22.24,43,5,Yellowing leaves,186,3,Low light corner,20.6,34.4,Organic,7,None,Moderate,33.8,Chalky,2
+Philodendron hederaceum,34.14,32,6,Brittle leaves,363,1,3h direct morning sun,23.9,32.9,Chemical,44,Aphids,High,42.3,Loamy,1
+Tradescantia zebrina,15.52,21,2,Strong stem,236,6,Low light corner,19.6,48.6,Liquid feed,33,Fungus gnats,Moderate,37.9,Clay,2
+Aglaonema commutatum,39.12,10,6,New bud,270,2,3h direct morning sun,26.8,66,None,95,Aphids,Moderate,42.2,Loamy,4
+Schefflera arboricola,19.49,23,6,Yellowing leaves,487,6,Indirect light all day,24.2,57.7,Organic,50,Fungus gnats,Moderate,40.6,Chalky,1
+Tradescantia zebrina,8.04,42,1,Leaf drop,95,1,Filtered sunlight through curtain,25.3,51.1,Chemical,3,None,Low,46,Loamy,4
+Aglaonema commutatum,21.71,32,6,New bud,327,3,3h direct morning sun,22.6,58.3,None,38,None,Low,42.1,Silty,5
+Sansevieria cylindrica,20.58,6,0,Wilting,241,4,Filtered sunlight through curtain,22.9,48.3,Compost,83,Fungus gnats,Moderate,36,Clay,4
+Nephrolepis exaltata,21.64,42,4,New bud,57,1,Indirect light all day,24.9,76.8,Chemical,23,Whiteflies,None,44.1,Loamy,4
+Epipremnum aureum,27.32,41,8,New bud,428,6,Indirect light all day,20.5,32.7,Chemical,87,None,Moderate,32.5,Clay,2
+Tradescantia zebrina,35.98,8,6,Wilting,325,1,Low light corner,22.9,63.7,Liquid feed,54,None,None,22.1,Loamy,5
+Anthurium andraeanum,23.08,26,6,Dark green color,228,1,Filtered sunlight through curtain,21.4,74.6,Compost,25,Spider mites,Low,10.1,Loamy,4
+Codiaeum variegatum,18.08,30,1,Wilting,383,1,6h full sun,21.3,70.2,Liquid feed,24,None,None,38,Clay,4
+Sansevieria cylindrica,13.73,47,7,Brittle leaves,88,3,Low light corner,17.7,39.2,Compost,35,Spider mites,Low,39.5,Silty,5
+Chlorophytum comosum,20.32,40,2,New bud,342,5,Filtered sunlight through curtain,28,44.8,Chemical,70,None,None,58.6,Loamy,5
+Nephrolepis exaltata,6.12,17,7,None,227,5,3h direct morning sun,21.9,65.9,Liquid feed,73,None,Low,28.1,Silty,1
+Sansevieria cylindrica,17.75,36,2,Wilting,211,1,3h direct morning sun,27.5,34.2,None,57,Whiteflies,Low,29.7,Sandy,2
+Aglaonema commutatum,37.44,21,9,Dark green color,380,3,Indirect light all day,27.2,70.6,Compost,11,Whiteflies,Moderate,20.1,Peaty,5
+Ficus lyrata,16.77,45,6,Brittle leaves,423,3,6h full sun,20.1,65.9,Chemical,0,None,High,13.5,Sandy,5
+Nephrolepis exaltata,31.29,40,1,None,153,1,3h direct morning sun,20.7,66.5,Organic,49,Fungus gnats,High,48.6,Peaty,3
+Spathiphyllum wallisii,12.74,23,3,None,210,6,Filtered sunlight through curtain,31.7,35,Compost,24,Fungus gnats,Low,22.5,Sandy,5
+Aloe vera,42.71,39,5,Yellowing leaves,336,6,Filtered sunlight through curtain,29.3,65.9,Compost,79,None,Moderate,40.4,Peaty,2
+Sansevieria cylindrica,43.38,44,8,Wilting,172,2,3h direct morning sun,23.9,64,None,4,Fungus gnats,High,44.4,Loamy,4
+Zamioculcas zamiifolia,30.91,32,4,Wilting,103,1,Filtered sunlight through curtain,24.8,71.5,Compost,82,None,High,33.6,Clay,4
+Ficus lyrata,44.91,5,8,New bud,477,2,Filtered sunlight through curtain,22.1,32.1,Compost,67,Whiteflies,Moderate,53.8,Clay,4
+Tradescantia zebrina,28.56,46,4,Brittle leaves,83,6,Indirect light all day,25.3,31.2,None,5,Aphids,Moderate,32.2,Chalky,4
+Aglaonema commutatum,32.69,22,9,Yellowing leaves,291,6,6h full sun,21.8,48.7,None,25,Spider mites,High,24.2,Peaty,3
+Spathiphyllum wallisii,37.62,44,7,Strong stem,427,1,Indirect light all day,17.9,37.4,Liquid feed,54,Fungus gnats,High,54.8,Chalky,5
+Nephrolepis exaltata,26.8,37,0,Strong stem,162,2,6h full sun,20,57.9,Chemical,38,Fungus gnats,None,53.1,Silty,4
+Monstera deliciosa,9.48,16,6,Leaf drop,367,2,Filtered sunlight through curtain,24.1,75.9,Chemical,8,Whiteflies,None,18.2,Silty,1
+Begonia maculata,32.89,12,3,Wilting,72,1,6h full sun,20.6,49.6,Liquid feed,44,Fungus gnats,Low,11.3,Chalky,4
+Dracaena trifasciata,20.28,28,4,Wilting,95,2,Filtered sunlight through curtain,23.8,72.2,Chemical,13,None,High,14.5,Peaty,5
+Ficus lyrata,21.02,20,5,Yellowing leaves,361,4,Filtered sunlight through curtain,20.8,30,Compost,54,None,Moderate,24.3,Clay,4
+Aloe vera,27.98,8,4,Dark green color,184,6,Indirect light all day,21.7,38.4,Liquid feed,8,Aphids,Moderate,58.6,Peaty,3
+Anthurium andraeanum,30.66,42,0,Strong stem,167,5,Indirect light all day,26.6,31.5,Liquid feed,14,Aphids,High,37.9,Silty,2
+Monstera deliciosa,26.5,48,8,Leaf drop,238,3,Low light corner,24.7,46.4,Chemical,36,Aphids,Low,28.7,Loamy,2
+Calathea orbifolia,31.36,31,1,Yellowing leaves,180,2,3h direct morning sun,24,75.4,Organic,49,None,Moderate,54.4,Chalky,5
+Monstera deliciosa,17.93,13,8,Wilting,471,2,Low light corner,26.6,34.8,Chemical,83,Aphids,High,32.7,Chalky,2
+Calathea orbifolia,24.57,20,9,Strong stem,261,3,Low light corner,25.4,60.3,Organic,71,Aphids,High,25.8,Silty,2
+Ficus lyrata,33.49,16,1,Brittle leaves,467,2,6h full sun,28.3,52.6,Liquid feed,95,None,Low,57.1,Peaty,1
+Dieffenbachia seguine,42.73,35,8,Leaf drop,162,3,Filtered sunlight through curtain,22.6,76.9,Organic,20,Whiteflies,High,52.5,Chalky,5
+Epipremnum aureum,46.26,28,5,New bud,93,1,Filtered sunlight through curtain,22.7,36.1,Compost,56,Fungus gnats,Moderate,52.2,Clay,5
+Nephrolepis exaltata,29.33,18,8,Strong stem,177,4,Filtered sunlight through curtain,20.1,40.6,None,18,Spider mites,None,35.6,Chalky,2
+Dracaena trifasciata,33.4,49,5,Leaf drop,413,4,3h direct morning sun,22.7,31.5,Organic,92,None,Low,49.5,Peaty,2
+Aloe vera,44.82,29,5,Yellowing leaves,207,6,6h full sun,26.9,51.7,None,57,None,High,19,Silty,2
+Spathiphyllum wallisii,18.29,38,1,New bud,322,5,6h full sun,27.9,43.9,Compost,94,Spider mites,Low,38.7,Clay,3
+Epipremnum aureum,31.3,7,7,Leaf drop,364,2,Filtered sunlight through curtain,26.9,73.5,None,5,Spider mites,High,59.2,Clay,4
+Dieffenbachia seguine,32.68,28,2,Leaf drop,443,5,Low light corner,18.6,60.2,Compost,3,Aphids,None,24.5,Chalky,3
+Peperomia obtusifolia,39.48,46,6,None,404,1,3h direct morning sun,27.2,60.7,None,42,Spider mites,Low,49.7,Peaty,5
+Chlorophytum comosum,13.63,13,4,None,389,4,Low light corner,18.5,56.6,None,92,Fungus gnats,High,34.5,Chalky,1
+Nephrolepis exaltata,15.61,30,2,None,451,1,Indirect light all day,26.7,34.6,Chemical,41,Fungus gnats,None,12,Loamy,4
+Philodendron hederaceum,25.21,24,0,Wilting,94,1,6h full sun,22.9,52.3,Organic,2,Fungus gnats,Moderate,48.2,Silty,1
+Aglaonema commutatum,28.78,44,7,Dark green color,157,2,6h full sun,26.1,80,None,0,Fungus gnats,High,18.4,Loamy,5
+Peperomia obtusifolia,36.23,14,2,Strong stem,268,1,Low light corner,20,71.8,Liquid feed,54,Fungus gnats,None,41.6,Clay,5
+Schefflera arboricola,30.18,23,1,Wilting,492,4,3h direct morning sun,27.5,74.7,Chemical,14,Aphids,None,14.3,Chalky,1
+Philodendron hederaceum,23.49,7,0,Brittle leaves,367,5,6h full sun,19.6,71.2,Organic,46,None,Low,57.3,Loamy,1
+Spathiphyllum wallisii,29.16,28,3,New bud,364,4,Low light corner,22,35.2,Chemical,84,Spider mites,High,24.6,Sandy,1
+Aloe vera,28.01,9,7,Dark green color,226,2,3h direct morning sun,21,41.4,Organic,45,None,Moderate,21.3,Loamy,5
+Anthurium andraeanum,42.45,7,2,Leaf drop,277,4,Low light corner,18.7,30.2,Compost,57,Spider mites,High,16.5,Chalky,2
+Epipremnum aureum,26.66,31,0,Wilting,240,3,3h direct morning sun,24.3,45.2,None,94,Aphids,None,57.3,Chalky,1
+Philodendron hederaceum,21.17,20,3,None,209,5,Filtered sunlight through curtain,29.4,35.4,Liquid feed,70,Aphids,Moderate,45.6,Silty,4
+Begonia maculata,29.5,19,8,Dark green color,443,3,3h direct morning sun,32,53.6,Chemical,80,Whiteflies,None,47.1,Loamy,5
+Spathiphyllum wallisii,26.98,39,0,Brittle leaves,316,3,Indirect light all day,24.3,63.9,Chemical,82,Whiteflies,Low,35,Chalky,3
+Epipremnum aureum,9.29,16,1,Strong stem,407,6,Filtered sunlight through curtain,27.4,73.7,Chemical,38,Aphids,High,33.7,Chalky,3
+Tradescantia zebrina,24.84,45,8,Brittle leaves,375,2,Low light corner,24.7,67.5,Chemical,2,Aphids,None,15.5,Silty,4
+Zamioculcas zamiifolia,23.99,48,1,New bud,428,1,Filtered sunlight through curtain,25.5,76.9,None,29,Spider mites,None,38,Silty,2
+Nephrolepis exaltata,19.56,30,2,Yellowing leaves,239,3,Filtered sunlight through curtain,23,32.7,Organic,34,Aphids,High,22.3,Silty,1
+Begonia maculata,35.36,38,6,Wilting,224,4,Low light corner,24.6,30.6,None,56,None,Moderate,58.9,Silty,5
+Calathea orbifolia,17.14,27,2,None,339,1,Low light corner,25.6,63.1,Compost,28,Spider mites,None,49.8,Sandy,1
+Peperomia obtusifolia,29.56,35,8,New bud,406,4,Indirect light all day,22.3,44.5,None,49,Aphids,High,30.6,Clay,5
+Epipremnum aureum,23.52,24,5,Yellowing leaves,194,4,Low light corner,23.8,42.7,None,61,Spider mites,Low,17.6,Chalky,3
+Monstera deliciosa,26.08,16,2,None,281,1,6h full sun,23.8,46.5,Compost,51,Spider mites,Low,49.3,Peaty,1
+Monstera deliciosa,29.12,27,8,None,409,1,6h full sun,26.5,43.5,None,13,Fungus gnats,High,16.1,Silty,4
+Epipremnum aureum,11.92,8,0,None,487,4,Indirect light all day,20.8,55.6,Organic,34,Whiteflies,None,19.5,Clay,2
+Aloe vera,26.92,27,9,Wilting,253,2,3h direct morning sun,23.8,52,Liquid feed,27,Spider mites,High,20.6,Silty,4
+Begonia maculata,47.89,5,2,New bud,262,5,3h direct morning sun,29.7,55.6,Compost,57,Spider mites,High,37.8,Clay,2
+Nephrolepis exaltata,9.43,29,0,None,89,6,6h full sun,27.5,63.6,Chemical,29,Fungus gnats,None,49.4,Peaty,1
+Aloe vera,24.42,6,1,Brittle leaves,324,5,Low light corner,28,49.4,Organic,89,Aphids,Moderate,25.7,Loamy,1
+Philodendron hederaceum,36.23,34,7,New bud,372,2,Indirect light all day,24.1,42.6,Liquid feed,6,Spider mites,Moderate,14.2,Sandy,2
+Monstera deliciosa,28.02,7,6,Dark green color,131,6,3h direct morning sun,25,38.3,Organic,38,Fungus gnats,Low,33.2,Chalky,3
+Ficus lyrata,31.88,25,1,Brittle leaves,230,1,3h direct morning sun,27,47.5,Organic,94,None,Moderate,47.4,Loamy,5
+Dracaena trifasciata,1.24,29,1,Wilting,369,6,Filtered sunlight through curtain,28.7,67.1,Chemical,68,Fungus gnats,High,21.1,Peaty,4
+Begonia maculata,30.98,24,8,None,132,4,6h full sun,18.1,67.8,Liquid feed,34,Whiteflies,None,21,Sandy,4
+Ficus lyrata,17.38,26,5,New bud,352,5,Low light corner,20.1,63.3,Organic,51,Whiteflies,Low,57.4,Sandy,4
+Begonia maculata,28.1,25,4,Leaf drop,311,6,Indirect light all day,27.9,41.7,Chemical,13,Aphids,Moderate,57.7,Sandy,1
+Tradescantia zebrina,24.71,37,9,Wilting,321,4,3h direct morning sun,23.2,59.4,Compost,62,Aphids,High,59.5,Peaty,4
+Begonia maculata,47.78,42,5,New bud,249,2,Filtered sunlight through curtain,22,58.5,Chemical,35,Whiteflies,Low,50.4,Silty,5
+Nephrolepis exaltata,30.47,19,8,Dark green color,289,6,6h full sun,20.2,54.2,None,90,Whiteflies,None,19.4,Silty,5
+Epipremnum aureum,23.87,19,6,None,451,4,6h full sun,22.3,57.5,Chemical,23,Spider mites,Moderate,20.6,Silty,2
+Epipremnum aureum,9.9,29,9,Yellowing leaves,229,2,Indirect light all day,19.8,54.6,Chemical,39,Whiteflies,High,27,Loamy,1
+Calathea orbifolia,26.21,25,9,None,481,1,3h direct morning sun,30.3,58.3,Chemical,28,Aphids,None,25.9,Chalky,5
+Spathiphyllum wallisii,33.23,28,8,Yellowing leaves,220,2,Indirect light all day,23.9,65.8,Organic,52,Whiteflies,High,57.8,Sandy,3
+Anthurium andraeanum,24.19,9,3,Leaf drop,344,2,Indirect light all day,23.8,35.5,Liquid feed,21,Aphids,High,49.5,Sandy,1
+Monstera deliciosa,19.94,10,1,Wilting,226,5,Filtered sunlight through curtain,25.8,67.5,Chemical,71,None,High,46.2,Loamy,1
+Sansevieria cylindrica,19.27,47,7,Dark green color,418,4,6h full sun,26.9,36.8,Chemical,14,Whiteflies,None,19.3,Silty,5
+Monstera deliciosa,30.35,48,3,New bud,445,6,Low light corner,26.8,33.3,None,68,Aphids,Low,55.5,Sandy,3
+Dracaena trifasciata,32.59,27,8,New bud,286,5,6h full sun,27.2,78.8,None,63,Fungus gnats,High,51.4,Sandy,2
+Peperomia obtusifolia,38.61,8,3,Yellowing leaves,187,3,6h full sun,22.1,77.8,Compost,3,Spider mites,Low,18.2,Peaty,5
+Dracaena trifasciata,15.05,31,7,Dark green color,376,2,Filtered sunlight through curtain,23.1,33,Compost,74,Aphids,Low,53.6,Clay,3
+Anthurium andraeanum,30.26,22,8,Brittle leaves,415,3,Low light corner,26.3,52.2,None,17,Whiteflies,Moderate,23.6,Loamy,1
+Aglaonema commutatum,23.78,25,8,Leaf drop,360,5,3h direct morning sun,22.4,39.3,Liquid feed,41,Whiteflies,Moderate,14,Loamy,3
+Anthurium andraeanum,24.08,32,9,Yellowing leaves,178,4,Low light corner,24,54.3,Compost,29,None,Low,42.8,Silty,1
+Begonia maculata,29.02,39,3,Yellowing leaves,98,5,3h direct morning sun,25.2,71.5,Liquid feed,14,Fungus gnats,Moderate,42.7,Loamy,5
+Nephrolepis exaltata,29.08,26,0,Leaf drop,213,4,Low light corner,26.4,77.5,None,69,Aphids,Moderate,14.7,Silty,5
+Aloe vera,30.29,44,2,Wilting,326,4,Indirect light all day,18.7,61.7,Compost,54,Fungus gnats,Low,25.9,Peaty,4
+Spathiphyllum wallisii,14.43,27,8,New bud,342,1,Low light corner,26.1,47.7,Chemical,52,None,None,59.6,Peaty,4
+Dieffenbachia seguine,17.5,7,3,Wilting,165,2,Filtered sunlight through curtain,23.3,60.2,None,15,Spider mites,Moderate,43.9,Chalky,4
+Monstera deliciosa,39.86,44,4,Dark green color,73,5,3h direct morning sun,26.1,45.6,Compost,72,Fungus gnats,Moderate,46.5,Silty,5
+Codiaeum variegatum,22.79,14,6,Brittle leaves,360,4,6h full sun,26.3,75.5,Liquid feed,33,None,None,20.6,Peaty,2
+Codiaeum variegatum,28.06,29,4,None,74,5,Filtered sunlight through curtain,28.8,73.5,Liquid feed,26,Aphids,None,13.9,Silty,5
+Chlorophytum comosum,35.55,12,3,Strong stem,440,5,3h direct morning sun,28.1,57.9,Compost,12,Spider mites,None,23.8,Loamy,3
+Codiaeum variegatum,29.63,15,1,Strong stem,176,4,3h direct morning sun,28,46.2,Liquid feed,99,Whiteflies,Low,22.4,Chalky,5
+Monstera deliciosa,30.47,9,1,Strong stem,283,6,6h full sun,28.3,44.7,Compost,26,None,None,21.7,Clay,5
+Philodendron hederaceum,33.95,49,3,Leaf drop,258,3,Indirect light all day,24.9,31.7,Compost,72,Whiteflies,Low,19.6,Sandy,1
+Monstera deliciosa,3.83,41,9,Yellowing leaves,142,2,Filtered sunlight through curtain,24.1,70.8,Liquid feed,68,Spider mites,High,38.7,Sandy,1
+Dieffenbachia seguine,20.1,49,9,Brittle leaves,143,2,6h full sun,26.6,52.5,Organic,85,None,High,26.4,Chalky,1
+Aloe vera,29.69,42,8,Wilting,376,6,6h full sun,26.2,46.3,Chemical,30,None,None,51,Silty,5
+Peperomia obtusifolia,38.88,33,7,None,274,1,Indirect light all day,23.1,53.6,None,2,Spider mites,None,19.2,Silty,2
+Calathea orbifolia,25.66,9,2,New bud,427,6,Filtered sunlight through curtain,25.2,70.9,Chemical,29,Aphids,High,33.2,Silty,3
+Codiaeum variegatum,16.55,13,8,Strong stem,329,1,6h full sun,23.9,36.2,None,20,None,Low,10.7,Clay,3
+Calathea orbifolia,16.82,6,4,Wilting,60,1,Indirect light all day,21.4,72.9,None,98,Spider mites,Low,34.1,Sandy,2
+Epipremnum aureum,33.84,5,2,Strong stem,378,6,Filtered sunlight through curtain,27.9,74.9,Chemical,5,Fungus gnats,None,12.8,Chalky,2
+Calathea orbifolia,22.82,44,4,Brittle leaves,61,2,Low light corner,24.2,77.3,Compost,91,Whiteflies,None,58.9,Silty,3
+Begonia maculata,24.93,34,9,Strong stem,84,3,3h direct morning sun,30.1,49.9,Liquid feed,31,None,None,49.5,Peaty,4
+Codiaeum variegatum,31.15,15,3,New bud,496,2,Indirect light all day,19.1,40.9,Organic,41,Fungus gnats,High,34.5,Loamy,1
+Zamioculcas zamiifolia,-4.02,32,7,None,277,2,3h direct morning sun,22.3,48.7,Organic,61,None,Moderate,14.3,Clay,1
+Tradescantia zebrina,45,48,4,Dark green color,269,2,Low light corner,24.1,46.6,Organic,88,Aphids,None,39.6,Silty,3
+Tradescantia zebrina,17.69,16,9,Dark green color,490,6,6h full sun,27.4,38.8,Chemical,31,Spider mites,Low,47.9,Sandy,2
+Ficus lyrata,27.42,43,7,Brittle leaves,190,6,6h full sun,25.2,60.4,Chemical,98,None,Moderate,19.5,Loamy,4
+Dracaena trifasciata,7.95,30,8,Dark green color,72,6,Filtered sunlight through curtain,24.9,53.8,Compost,85,Spider mites,Low,38.4,Chalky,3
+Dracaena trifasciata,20.77,17,3,Leaf drop,132,2,Indirect light all day,20.6,73.3,Organic,87,None,Moderate,50.7,Silty,1
+Zamioculcas zamiifolia,37.45,12,6,Yellowing leaves,278,3,Indirect light all day,20.5,31.6,Compost,38,Aphids,High,48.4,Sandy,5
+Sansevieria cylindrica,5.84,32,1,Leaf drop,472,1,Filtered sunlight through curtain,25,62.2,Organic,63,Aphids,Moderate,50.1,Loamy,2
+Schefflera arboricola,36.26,34,5,Wilting,393,5,3h direct morning sun,19.9,68.1,Chemical,29,Fungus gnats,Low,54,Peaty,5
+Chlorophytum comosum,22.26,13,7,Leaf drop,129,1,6h full sun,22.4,68,Liquid feed,62,Aphids,Moderate,56.9,Clay,3
+Zamioculcas zamiifolia,29.87,43,6,Wilting,402,1,6h full sun,25.5,74.3,Liquid feed,95,Spider mites,High,30.3,Chalky,1
+Nephrolepis exaltata,31.58,35,6,Wilting,445,5,Indirect light all day,21.1,66.5,Liquid feed,30,Aphids,Low,38.4,Sandy,4
+Nephrolepis exaltata,29.41,25,7,Yellowing leaves,339,2,Indirect light all day,28.8,76.4,Liquid feed,86,None,None,49.5,Peaty,5
+Dracaena trifasciata,16.35,38,6,New bud,380,3,Filtered sunlight through curtain,27.7,46.6,None,39,Aphids,Moderate,44.9,Clay,4
+Spathiphyllum wallisii,21.35,35,4,None,208,3,Low light corner,19.3,55.2,Organic,32,Spider mites,Low,59.8,Clay,1
+Zamioculcas zamiifolia,10.38,29,6,Brittle leaves,177,1,3h direct morning sun,21.2,30.7,Liquid feed,62,None,Moderate,10.7,Peaty,5
+Aloe vera,29.92,16,9,Yellowing leaves,239,5,Low light corner,17.1,30.3,None,24,Fungus gnats,High,27.8,Sandy,4
+Chlorophytum comosum,42.02,5,2,Brittle leaves,446,4,Low light corner,21.7,42,None,35,Fungus gnats,Low,24.1,Clay,4
+Nephrolepis exaltata,6.76,26,4,Dark green color,80,2,Indirect light all day,26.3,35,None,23,Fungus gnats,None,23.1,Chalky,5
+Epipremnum aureum,17.38,44,6,Dark green color,435,1,Indirect light all day,22.8,43,Compost,94,None,None,21.1,Loamy,1
+Zamioculcas zamiifolia,23.18,41,8,Leaf drop,408,3,Indirect light all day,25.4,38.9,Compost,57,Fungus gnats,Moderate,45.5,Chalky,4
+Begonia maculata,26.73,5,1,Wilting,64,6,Low light corner,19.4,31.4,None,38,Aphids,High,14.2,Silty,3
+Zamioculcas zamiifolia,33.79,5,3,Strong stem,362,6,3h direct morning sun,26.4,75.5,Liquid feed,45,None,High,47.1,Clay,5
+Chlorophytum comosum,23.48,46,6,Strong stem,124,5,Indirect light all day,22.3,30.4,Organic,76,None,Moderate,44.7,Loamy,2
+Chlorophytum comosum,21.84,46,0,Brittle leaves,83,5,6h full sun,24,66.8,Chemical,9,None,Low,22.5,Peaty,2
+Monstera deliciosa,36.03,25,1,Wilting,408,1,3h direct morning sun,23.7,37.6,Compost,86,Whiteflies,Low,22.6,Loamy,1
+Spathiphyllum wallisii,31.62,19,8,Brittle leaves,245,4,6h full sun,20.2,75.6,Liquid feed,81,Spider mites,Moderate,41.4,Loamy,3
+Peperomia obtusifolia,30.39,21,9,Yellowing leaves,380,3,3h direct morning sun,20.5,74.6,Liquid feed,31,Whiteflies,Low,48.1,Loamy,4
+Philodendron hederaceum,26.13,26,6,New bud,78,1,Indirect light all day,26.9,62.7,Chemical,96,Whiteflies,Low,53.8,Clay,2
+Zamioculcas zamiifolia,34.83,42,9,None,243,4,Filtered sunlight through curtain,25.2,63.6,Chemical,35,Whiteflies,Low,52.6,Silty,1
+Chlorophytum comosum,18.44,39,6,Yellowing leaves,65,5,Indirect light all day,27.2,30.3,Liquid feed,27,Spider mites,Moderate,58.2,Silty,3
+Ficus lyrata,17.07,49,5,Wilting,472,6,Low light corner,25,79.2,Chemical,15,Whiteflies,None,39.1,Sandy,3
+Anthurium andraeanum,32.46,20,2,Wilting,126,2,Low light corner,24.4,73.9,Liquid feed,15,Fungus gnats,High,55.4,Silty,1
+Aloe vera,8.75,12,9,New bud,342,6,3h direct morning sun,18.8,74.8,Chemical,17,None,None,50.4,Clay,1
+Anthurium andraeanum,25.92,21,2,Brittle leaves,130,3,Low light corner,23.2,63,Chemical,7,None,Low,54.7,Sandy,4
+Aloe vera,21.83,21,1,Leaf drop,454,3,Indirect light all day,23.9,47.2,Liquid feed,79,Aphids,Moderate,10.6,Peaty,1
+Chlorophytum comosum,10.94,30,5,Leaf drop,477,6,6h full sun,29.9,74.7,None,74,Fungus gnats,High,58.3,Peaty,4
+Anthurium andraeanum,15.69,17,3,New bud,173,6,Indirect light all day,26.1,44.6,Liquid feed,69,Spider mites,Low,33.7,Peaty,4
+Dracaena trifasciata,23.91,21,4,Leaf drop,68,4,3h direct morning sun,28.6,58.1,Organic,0,None,High,49.9,Peaty,5
+Schefflera arboricola,35.34,42,2,Strong stem,151,1,Low light corner,25.8,35,Chemical,61,Whiteflies,High,16.4,Peaty,3
+Epipremnum aureum,18.47,21,5,Leaf drop,441,5,6h full sun,21.9,76.1,Compost,75,Aphids,None,29.8,Chalky,3
+Schefflera arboricola,37.13,18,2,Leaf drop,126,4,Filtered sunlight through curtain,24.4,37,Chemical,37,Aphids,Low,23.6,Clay,3
+Dieffenbachia seguine,25.63,49,7,Leaf drop,278,2,6h full sun,24.7,41.2,Organic,91,None,High,24.6,Sandy,5
+Nephrolepis exaltata,38.1,10,8,Strong stem,499,6,6h full sun,21.2,57.9,Compost,44,Fungus gnats,None,16.2,Peaty,4
+Dracaena trifasciata,18.96,39,3,Brittle leaves,346,2,Indirect light all day,22.8,68.2,Compost,57,Aphids,Moderate,50.3,Chalky,4
+Monstera deliciosa,24.51,18,8,Leaf drop,252,2,Filtered sunlight through curtain,23.4,61,Liquid feed,80,None,High,10.5,Silty,1
+Nephrolepis exaltata,28.68,12,6,Dark green color,110,4,3h direct morning sun,28.8,41.6,None,0,Fungus gnats,Low,25.6,Chalky,5
+Tradescantia zebrina,23.2,19,2,Strong stem,75,5,3h direct morning sun,17.8,30,Liquid feed,31,None,Moderate,18.7,Chalky,1
+Aloe vera,34.53,31,6,New bud,120,3,6h full sun,27.6,67.9,Compost,7,None,High,39.5,Clay,5
+Sansevieria cylindrica,2.92,17,0,Yellowing leaves,152,1,6h full sun,21.2,79.3,Compost,39,Fungus gnats,High,22.7,Peaty,1
+Epipremnum aureum,49.22,35,2,New bud,375,3,Low light corner,19.9,70.5,None,55,Fungus gnats,Low,22.9,Chalky,2
+Calathea orbifolia,33.58,39,5,Yellowing leaves,412,5,Filtered sunlight through curtain,27.5,53,Chemical,62,Fungus gnats,High,34.4,Chalky,3
+Nephrolepis exaltata,23.26,10,3,None,206,3,6h full sun,26.2,75.2,None,87,None,Low,42.6,Peaty,3
+Spathiphyllum wallisii,19.48,9,6,New bud,412,6,Low light corner,27.8,50.5,Liquid feed,73,Aphids,Low,16.1,Clay,4
+Philodendron hederaceum,16.34,26,2,Dark green color,408,6,Filtered sunlight through curtain,26.4,56.2,Chemical,73,Spider mites,Low,18.8,Chalky,2
+Philodendron hederaceum,31.46,27,0,Yellowing leaves,243,4,3h direct morning sun,30.2,53.9,Liquid feed,35,Spider mites,Low,22.4,Sandy,3
+Anthurium andraeanum,34.95,29,8,Yellowing leaves,324,2,Low light corner,25.7,52.4,None,88,None,High,58.7,Loamy,4
+Schefflera arboricola,23.37,38,5,Wilting,373,5,Filtered sunlight through curtain,23.5,68.8,Chemical,56,None,Moderate,29.9,Silty,2
+Calathea orbifolia,36.07,30,7,Yellowing leaves,235,5,Low light corner,25,56.3,None,73,Aphids,Moderate,39.9,Loamy,3
+Schefflera arboricola,15.93,9,2,Yellowing leaves,375,3,6h full sun,27.7,45.8,Organic,82,Fungus gnats,None,22.1,Loamy,1
+Calathea orbifolia,14.16,30,7,Wilting,162,4,Indirect light all day,21.7,42.9,Compost,44,None,Low,34.5,Clay,5
+Calathea orbifolia,43.13,24,1,Leaf drop,362,3,3h direct morning sun,22,31.9,Chemical,78,Whiteflies,High,13.7,Chalky,2
+Ficus lyrata,30.91,10,3,Leaf drop,214,3,6h full sun,23.1,59.2,Compost,79,Fungus gnats,High,11.7,Loamy,4
+Monstera deliciosa,38.97,10,2,Wilting,110,5,6h full sun,17.7,41.5,Organic,1,None,None,33.4,Loamy,2
+Tradescantia zebrina,16.46,22,9,Strong stem,141,3,Filtered sunlight through curtain,24.4,37.4,Chemical,92,Whiteflies,Moderate,29.9,Silty,4
+Ficus lyrata,15.76,8,0,None,335,2,Low light corner,18.3,62.7,Compost,67,Aphids,High,16.8,Peaty,2
+Philodendron hederaceum,21.41,21,6,Yellowing leaves,202,3,3h direct morning sun,24.2,64.1,Compost,49,Whiteflies,None,44.4,Chalky,4
+Aloe vera,16.76,18,9,Yellowing leaves,274,2,6h full sun,26.6,67.6,Chemical,28,None,Moderate,59.6,Chalky,3
+Sansevieria cylindrica,32.05,18,1,Wilting,176,5,Filtered sunlight through curtain,22.6,55.2,Compost,94,Spider mites,High,29.8,Silty,1
+Dieffenbachia seguine,17.49,17,3,Wilting,242,4,3h direct morning sun,29,74.7,Compost,80,None,Low,41.2,Peaty,3
+Monstera deliciosa,13.28,11,8,Strong stem,164,6,Low light corner,19.6,76.8,Chemical,9,Spider mites,None,58.1,Chalky,1
+Sansevieria cylindrica,26.42,48,5,Dark green color,311,2,6h full sun,27.6,70.4,Compost,26,Aphids,High,51.6,Sandy,3
+Sansevieria cylindrica,12.1,19,7,Leaf drop,67,4,6h full sun,26,61.8,Compost,14,Aphids,None,33.2,Silty,3
+Schefflera arboricola,7.01,23,1,New bud,59,4,6h full sun,18.9,45.2,Liquid feed,59,Fungus gnats,None,46.9,Clay,2
+Peperomia obtusifolia,26.33,47,6,Dark green color,141,2,3h direct morning sun,32.1,79.1,Liquid feed,30,Fungus gnats,None,16.4,Peaty,5
+Schefflera arboricola,7.51,48,5,Brittle leaves,188,5,3h direct morning sun,23.8,43.7,Organic,20,Spider mites,Low,35.6,Silty,4
+Anthurium andraeanum,32.75,39,8,Leaf drop,498,1,3h direct morning sun,21.4,40.1,Liquid feed,59,Spider mites,Moderate,24,Loamy,4
+Codiaeum variegatum,11.05,21,6,Yellowing leaves,382,4,3h direct morning sun,19.8,52.1,Liquid feed,57,Aphids,Moderate,18.1,Chalky,4
+Chlorophytum comosum,2.59,39,0,Brittle leaves,406,4,Filtered sunlight through curtain,23.3,32.8,Organic,40,Whiteflies,High,31.3,Sandy,1
+Aglaonema commutatum,22.06,23,7,Dark green color,389,5,Indirect light all day,23.6,78.9,Compost,45,Spider mites,Low,16.6,Sandy,4
+Ficus lyrata,26.45,24,9,Wilting,498,5,Filtered sunlight through curtain,24.3,59.4,Compost,44,Spider mites,Moderate,44.9,Clay,4
+Chlorophytum comosum,29.91,40,2,Strong stem,101,3,6h full sun,23.1,57.8,Liquid feed,25,Whiteflies,High,32.8,Silty,2
+Sansevieria cylindrica,26.72,39,1,Leaf drop,244,5,Filtered sunlight through curtain,25.9,62.8,Organic,50,Fungus gnats,High,36.6,Sandy,3
+Anthurium andraeanum,14.41,36,2,Strong stem,255,4,Low light corner,22.8,54.9,Compost,35,Fungus gnats,None,17.3,Silty,4
+Sansevieria cylindrica,32.13,48,5,Brittle leaves,336,2,3h direct morning sun,18.2,31.6,None,51,Spider mites,Low,17,Chalky,5
+Dieffenbachia seguine,34.6,44,2,Leaf drop,450,1,Low light corner,23.6,60.6,Chemical,80,Fungus gnats,Moderate,39.2,Chalky,4
+Ficus lyrata,12.94,28,9,None,488,3,Low light corner,16.9,65.8,Chemical,50,Fungus gnats,Low,59.3,Sandy,1
+Anthurium andraeanum,23.19,21,4,None,415,2,6h full sun,25.1,50.8,Chemical,2,Fungus gnats,Low,14.8,Chalky,1
+Codiaeum variegatum,22.26,11,5,Dark green color,142,1,3h direct morning sun,21.1,67.9,Liquid feed,13,Aphids,Moderate,24.3,Silty,1
+Epipremnum aureum,27.2,47,7,Yellowing leaves,469,1,Low light corner,24.5,41.4,Chemical,48,None,Moderate,53.5,Chalky,4
+Schefflera arboricola,22.95,5,6,None,459,1,6h full sun,27.9,41.1,Chemical,76,Spider mites,Low,13.6,Loamy,2
+Chlorophytum comosum,24.32,39,7,None,358,6,3h direct morning sun,21.2,38.1,None,90,Spider mites,High,53.8,Silty,5
+Nephrolepis exaltata,31.42,36,2,New bud,194,2,Indirect light all day,27.2,48.6,Compost,0,Aphids,Low,36.2,Peaty,4
+Sansevieria cylindrica,13.86,40,3,Strong stem,135,3,6h full sun,22.7,72.4,None,56,None,Moderate,30.4,Chalky,2
+Begonia maculata,32.37,17,5,Strong stem,202,3,Filtered sunlight through curtain,29.3,71.4,Liquid feed,16,None,Low,25.5,Chalky,2
+Dracaena trifasciata,36.41,10,6,None,51,1,3h direct morning sun,22.9,49.1,Chemical,49,Aphids,Moderate,24.9,Silty,4
+Dieffenbachia seguine,41.34,18,8,New bud,391,2,Low light corner,21.5,59.5,Compost,97,Whiteflies,High,25.3,Clay,4
+Nephrolepis exaltata,3.57,41,0,Strong stem,438,6,Low light corner,26.1,66,Chemical,13,Whiteflies,Low,54.2,Peaty,2
+Peperomia obtusifolia,23.17,19,7,Strong stem,309,1,Filtered sunlight through curtain,22.7,42.1,Chemical,58,None,High,46.2,Peaty,2
+Codiaeum variegatum,5.35,8,7,Leaf drop,213,5,Filtered sunlight through curtain,21.5,38.4,Liquid feed,80,Whiteflies,Low,43.5,Peaty,2
+Zamioculcas zamiifolia,0.65,44,5,Leaf drop,55,3,Low light corner,22.6,78.6,Chemical,2,Whiteflies,Low,49.9,Sandy,4
+Codiaeum variegatum,26.44,20,3,New bud,198,4,3h direct morning sun,23.9,60.9,Organic,97,Whiteflies,Moderate,22.9,Loamy,2
+Codiaeum variegatum,21.01,32,2,Brittle leaves,254,1,6h full sun,28,79.1,Compost,39,None,None,40.9,Loamy,1
+Dieffenbachia seguine,28,20,2,Yellowing leaves,167,5,Filtered sunlight through curtain,18.2,46.9,Compost,88,Whiteflies,Moderate,33,Clay,4
+Chlorophytum comosum,29.86,8,5,Dark green color,138,3,Filtered sunlight through curtain,24.1,65.2,Organic,65,Spider mites,Low,49.1,Peaty,1
+Chlorophytum comosum,37.48,49,7,None,203,6,Filtered sunlight through curtain,25.9,41.1,Liquid feed,33,None,None,25.5,Peaty,3
+Sansevieria cylindrica,25.54,30,6,None,488,2,Indirect light all day,24.6,43.1,Chemical,89,Aphids,None,42.2,Chalky,4
+Philodendron hederaceum,54.23,32,0,Dark green color,216,3,3h direct morning sun,27.9,55.6,Chemical,94,Whiteflies,High,54.1,Silty,3
+Spathiphyllum wallisii,28.06,36,5,None,210,2,3h direct morning sun,23.8,46,Compost,8,Fungus gnats,Low,30.1,Sandy,2
+Peperomia obtusifolia,43.42,49,6,None,319,2,3h direct morning sun,23.4,38.4,Liquid feed,93,None,Moderate,13.3,Sandy,2
+Tradescantia zebrina,1.67,6,6,Brittle leaves,105,6,3h direct morning sun,25.8,43.1,Liquid feed,83,Aphids,None,35.8,Clay,5
+Schefflera arboricola,38.5,35,8,Strong stem,277,6,3h direct morning sun,24.3,31.8,Liquid feed,20,Spider mites,None,27.3,Loamy,2
+Sansevieria cylindrica,23.19,7,9,Yellowing leaves,386,1,Low light corner,22.8,65.2,Chemical,92,Aphids,Moderate,43.6,Peaty,3
+Sansevieria cylindrica,5.52,12,4,None,198,1,Filtered sunlight through curtain,25.5,54.6,Liquid feed,24,Whiteflies,Moderate,57.6,Silty,2
+Calathea orbifolia,29.21,28,0,New bud,95,3,Low light corner,22,34.7,Organic,43,Fungus gnats,None,34.3,Clay,4
+Monstera deliciosa,21.97,19,1,Brittle leaves,193,6,Indirect light all day,22.2,38.6,None,24,Whiteflies,Moderate,33.3,Sandy,2
+Peperomia obtusifolia,30.8,47,3,None,287,5,6h full sun,22.4,35.1,Liquid feed,8,Aphids,High,42.7,Sandy,5
+Aloe vera,35.11,35,4,New bud,321,3,Filtered sunlight through curtain,28.1,60.6,None,61,None,None,15.2,Sandy,2
+Epipremnum aureum,10.11,13,8,Leaf drop,169,4,Indirect light all day,14.3,34.7,Chemical,25,Fungus gnats,High,22.7,Peaty,3
+Schefflera arboricola,35.15,43,0,Strong stem,389,2,Low light corner,25.2,67.7,Liquid feed,56,Fungus gnats,Low,55.9,Peaty,3
+Dracaena trifasciata,25.06,49,2,Wilting,462,2,6h full sun,24.1,31,Compost,36,Aphids,High,43.5,Peaty,2
+Dracaena trifasciata,38.53,6,4,None,269,1,Indirect light all day,19,42.5,Chemical,15,Whiteflies,Moderate,10.7,Chalky,3
+Begonia maculata,22.95,12,2,New bud,57,5,6h full sun,24.9,74.5,Organic,36,Aphids,None,20.2,Loamy,3
+Calathea orbifolia,20.3,11,3,Brittle leaves,393,6,Indirect light all day,25.4,65.9,Organic,75,Fungus gnats,High,44.1,Sandy,5
+Calathea orbifolia,25.27,48,2,Strong stem,436,6,Low light corner,25.8,33.6,None,23,Aphids,Moderate,48.2,Sandy,4
+Aloe vera,26.02,43,3,Yellowing leaves,324,1,6h full sun,16,71.1,None,25,Fungus gnats,Moderate,52,Chalky,5
+Philodendron hederaceum,18.37,46,0,Brittle leaves,402,4,Indirect light all day,28.1,54.7,Compost,19,Whiteflies,High,24.6,Sandy,1
+Dracaena trifasciata,20.04,20,7,Leaf drop,115,3,Low light corner,21.8,72.3,Compost,8,None,None,56.6,Sandy,5
+Aglaonema commutatum,12.73,39,3,Dark green color,128,3,Filtered sunlight through curtain,26.1,60,Organic,86,None,High,37.6,Peaty,2
+Sansevieria cylindrica,20.65,34,6,None,135,5,Low light corner,26.2,64.1,Liquid feed,28,Aphids,Low,44.8,Peaty,4
+Monstera deliciosa,31.76,14,1,Yellowing leaves,173,1,Low light corner,21.4,79.7,Organic,30,Fungus gnats,High,39.8,Loamy,2
+Anthurium andraeanum,23.63,42,1,New bud,251,1,Filtered sunlight through curtain,26,41.6,Organic,18,None,High,16.1,Sandy,1
+Tradescantia zebrina,35.09,22,5,None,199,4,Low light corner,22.8,61.2,Compost,19,Fungus gnats,None,58.2,Clay,4
+Monstera deliciosa,23.15,9,1,New bud,95,3,Filtered sunlight through curtain,17.8,53,None,86,Whiteflies,High,16.1,Sandy,3
+Dieffenbachia seguine,10.68,33,5,Yellowing leaves,162,1,Filtered sunlight through curtain,27.5,32,Compost,26,Aphids,Moderate,22.7,Sandy,5
+Philodendron hederaceum,30.97,43,1,New bud,140,6,Filtered sunlight through curtain,21.7,30.7,Compost,93,Fungus gnats,None,50.7,Loamy,2
+Peperomia obtusifolia,18.26,38,3,Brittle leaves,190,5,Indirect light all day,21.4,36,Compost,84,Aphids,Moderate,40.9,Clay,1
+Schefflera arboricola,22.67,47,6,Strong stem,338,3,6h full sun,22.8,62.5,Organic,43,Fungus gnats,None,51.9,Sandy,3
+Sansevieria cylindrica,37.38,49,7,New bud,438,4,Indirect light all day,24.8,58.4,Liquid feed,34,Fungus gnats,Low,35.8,Silty,5
+Aloe vera,13.39,27,2,Leaf drop,267,5,Filtered sunlight through curtain,23.8,57.7,Organic,70,Whiteflies,Low,28.8,Silty,3
+Calathea orbifolia,26.65,9,8,Strong stem,126,2,6h full sun,25.6,31.6,Chemical,21,Aphids,Low,56.1,Clay,5
+Sansevieria cylindrica,24.59,34,1,Brittle leaves,460,6,6h full sun,20,53.5,Compost,73,Spider mites,High,11.8,Silty,4
+Begonia maculata,32.01,10,7,None,426,4,Filtered sunlight through curtain,21.8,76.2,Compost,86,Fungus gnats,Low,52.8,Peaty,3
+Aloe vera,33.55,48,7,Wilting,433,5,6h full sun,23.7,49.9,Chemical,14,Fungus gnats,None,21.5,Peaty,3
+Nephrolepis exaltata,27.64,8,3,None,383,1,6h full sun,29.7,61.2,Compost,93,None,Low,52.4,Clay,3
+Nephrolepis exaltata,21.4,33,0,New bud,201,2,Indirect light all day,23.7,69,Compost,97,Aphids,None,17,Sandy,4
+Aglaonema commutatum,29.73,27,0,New bud,372,4,6h full sun,27.3,69.2,Compost,12,Spider mites,Moderate,39,Clay,1
+Codiaeum variegatum,38.36,10,1,Leaf drop,288,1,Filtered sunlight through curtain,24.1,56,Chemical,3,Whiteflies,High,54.4,Silty,5
+Begonia maculata,24.73,36,8,Brittle leaves,164,6,3h direct morning sun,22.5,72.9,Organic,81,Spider mites,Moderate,33.7,Clay,3
+Schefflera arboricola,22.33,46,1,Leaf drop,368,2,3h direct morning sun,23.3,49.6,Compost,55,Whiteflies,Moderate,47.3,Silty,4
+Epipremnum aureum,28.88,22,1,Dark green color,418,3,3h direct morning sun,23.5,74.4,Liquid feed,22,Spider mites,Low,50.2,Peaty,1
+Zamioculcas zamiifolia,25.39,19,5,Brittle leaves,143,1,Filtered sunlight through curtain,25.8,42,Chemical,96,Spider mites,Low,46.8,Clay,5
+Schefflera arboricola,11.62,44,6,Yellowing leaves,97,5,3h direct morning sun,28.1,44,None,97,Aphids,Low,56.3,Chalky,4
+Aglaonema commutatum,27.39,36,6,Yellowing leaves,240,4,Indirect light all day,25.1,32.7,Chemical,33,None,Moderate,32.3,Silty,5
+Calathea orbifolia,11.53,13,8,Yellowing leaves,61,2,Filtered sunlight through curtain,27.6,69.8,Organic,99,Spider mites,High,18.7,Chalky,3
+Peperomia obtusifolia,28.74,41,5,Leaf drop,205,1,Filtered sunlight through curtain,21.1,50.9,Chemical,98,Fungus gnats,High,12.4,Peaty,1
+Aloe vera,17.03,14,7,Yellowing leaves,221,3,Filtered sunlight through curtain,22.8,41.5,None,16,Fungus gnats,Moderate,22.3,Sandy,4
+Anthurium andraeanum,25.37,24,5,Brittle leaves,476,4,6h full sun,21.8,41.6,Liquid feed,27,Fungus gnats,High,17.2,Silty,1
+Sansevieria cylindrica,28.91,10,1,Yellowing leaves,450,4,6h full sun,24.9,75.1,None,13,None,Moderate,37.9,Sandy,3
+Begonia maculata,49.54,7,0,Wilting,345,1,6h full sun,22.9,71.7,Chemical,33,Spider mites,Moderate,19.2,Peaty,1
+Sansevieria cylindrica,32.43,46,4,Yellowing leaves,226,3,Low light corner,26.2,57.7,None,74,Whiteflies,High,11.9,Sandy,1
+Begonia maculata,38.65,15,8,New bud,390,6,Indirect light all day,21.2,60.8,Chemical,56,Whiteflies,None,11.8,Silty,2
+Zamioculcas zamiifolia,43.72,47,7,Dark green color,106,6,Filtered sunlight through curtain,24.1,53.7,Liquid feed,76,Aphids,None,51.6,Loamy,1
+Aglaonema commutatum,29.89,21,3,Leaf drop,392,2,Filtered sunlight through curtain,26.1,49.6,Liquid feed,96,None,Low,39.6,Silty,5
+Dieffenbachia seguine,27.86,36,4,Strong stem,389,1,6h full sun,17.8,75.8,Organic,54,Spider mites,High,27.9,Silty,4
+Dieffenbachia seguine,14.33,8,4,Dark green color,497,2,Filtered sunlight through curtain,30.4,36.3,Liquid feed,65,Fungus gnats,Low,54.7,Chalky,2
+Anthurium andraeanum,23.83,8,5,Wilting,252,6,Filtered sunlight through curtain,23.2,50.9,Compost,97,None,Moderate,13.5,Loamy,4
+Aloe vera,17.77,21,2,Leaf drop,234,4,3h direct morning sun,17.9,47.2,None,92,None,None,59,Loamy,4
+Monstera deliciosa,20.99,45,4,Brittle leaves,170,2,Filtered sunlight through curtain,24.5,54.9,None,36,Spider mites,High,40.8,Loamy,3
+Peperomia obtusifolia,43.71,23,1,None,275,3,Low light corner,24.1,52.9,Chemical,67,Aphids,High,19.2,Silty,3
+Nephrolepis exaltata,26.15,9,9,Leaf drop,251,5,6h full sun,23.8,55.9,Liquid feed,75,Aphids,High,44,Peaty,2
+Aloe vera,16.24,36,0,New bud,379,6,Indirect light all day,27,37,Organic,25,Aphids,None,48.2,Loamy,3
+Peperomia obtusifolia,38.75,26,0,Brittle leaves,412,6,Indirect light all day,26.2,55.7,Organic,60,Fungus gnats,Low,31.5,Clay,3
+Codiaeum variegatum,34.55,10,9,Dark green color,429,3,3h direct morning sun,24.9,42.1,Organic,91,Fungus gnats,None,53.1,Sandy,3
+Aglaonema commutatum,35.08,39,6,Dark green color,405,2,Indirect light all day,25.4,39.2,Compost,66,Spider mites,Low,17.5,Peaty,4
+Anthurium andraeanum,4.94,26,1,Yellowing leaves,265,1,Indirect light all day,23.7,33.2,Liquid feed,83,Aphids,Moderate,23.9,Clay,2
+Dieffenbachia seguine,44.49,5,3,Brittle leaves,92,4,6h full sun,29.3,68.1,Organic,73,Spider mites,Moderate,14.7,Silty,4
+Chlorophytum comosum,19.41,24,4,None,424,5,6h full sun,19.6,51.4,Compost,51,Aphids,Low,20.5,Silty,5
+Ficus lyrata,32.78,26,6,New bud,72,1,Low light corner,24.4,61.3,None,17,None,Moderate,21.9,Clay,4
+Epipremnum aureum,50.24,15,1,Yellowing leaves,204,1,3h direct morning sun,24.2,66.4,Chemical,52,Whiteflies,Moderate,55.9,Chalky,5
+Codiaeum variegatum,46.55,17,5,Yellowing leaves,235,3,Indirect light all day,26.4,64,Liquid feed,62,Whiteflies,High,13.9,Chalky,1
+Zamioculcas zamiifolia,15.22,46,0,None,298,2,Low light corner,21.5,53.5,Liquid feed,52,Aphids,High,31.4,Clay,1
+Aglaonema commutatum,10.55,7,6,Leaf drop,286,6,3h direct morning sun,18.8,49.4,None,26,Spider mites,None,36.6,Chalky,5
+Peperomia obtusifolia,39.3,13,8,Dark green color,342,6,Indirect light all day,24.5,48.8,Liquid feed,30,Fungus gnats,None,54.9,Sandy,5
+Chlorophytum comosum,26.42,16,4,Yellowing leaves,183,3,Indirect light all day,24.8,62,Liquid feed,90,Aphids,None,59.9,Sandy,4
+Peperomia obtusifolia,19.99,27,4,Wilting,370,2,6h full sun,28.5,54.7,Liquid feed,0,Aphids,High,47.7,Silty,5
+Sansevieria cylindrica,31.21,18,3,Wilting,439,3,Filtered sunlight through curtain,20.2,72.5,Liquid feed,5,Fungus gnats,None,58.5,Chalky,2
+Philodendron hederaceum,23.37,37,2,Dark green color,483,6,3h direct morning sun,27.5,73.7,Compost,10,Aphids,None,49.4,Loamy,1
+Tradescantia zebrina,32.01,22,8,Wilting,71,1,Indirect light all day,31.1,38.5,Compost,33,None,High,58.2,Clay,1
+Sansevieria cylindrica,25.67,45,4,None,410,4,3h direct morning sun,22.9,36.8,Chemical,83,Fungus gnats,Low,45.4,Sandy,5
+Ficus lyrata,32.22,13,7,Leaf drop,137,2,Low light corner,20.1,61.5,Liquid feed,62,None,High,14,Chalky,3
+Aglaonema commutatum,16.05,27,8,New bud,202,5,Low light corner,22.8,45.1,None,52,Whiteflies,Low,30.1,Chalky,3
+Chlorophytum comosum,39.24,14,4,Strong stem,174,5,Filtered sunlight through curtain,24,30.9,Organic,84,Fungus gnats,High,42.3,Sandy,5
+Epipremnum aureum,31.98,23,9,Yellowing leaves,128,1,Indirect light all day,25.7,74.4,Chemical,84,Fungus gnats,None,27.5,Sandy,2
+Ficus lyrata,31.46,9,8,Strong stem,395,3,6h full sun,22.2,41.3,Organic,17,Spider mites,Moderate,23.7,Loamy,3
+Dracaena trifasciata,13.82,27,1,New bud,100,3,Indirect light all day,28.7,76.5,Organic,20,Spider mites,Moderate,38.9,Chalky,5
+Sansevieria cylindrica,42,34,8,New bud,265,6,3h direct morning sun,20.7,65.9,Liquid feed,18,Fungus gnats,Low,56.7,Chalky,2
+Epipremnum aureum,24.86,29,3,None,225,1,Low light corner,18.8,68.1,None,3,Whiteflies,Low,11.7,Peaty,2
+Philodendron hederaceum,32.28,32,5,Leaf drop,407,6,3h direct morning sun,27.3,40.1,Organic,76,Aphids,Low,48.5,Silty,4
+Monstera deliciosa,21.77,38,5,Wilting,302,6,Filtered sunlight through curtain,17.2,41.7,Organic,81,Spider mites,Moderate,46.1,Loamy,2
+Dieffenbachia seguine,27.61,49,5,Wilting,295,5,Low light corner,23.4,56.1,Chemical,28,Whiteflies,Low,58.2,Sandy,3
+Philodendron hederaceum,27.97,29,1,None,276,6,6h full sun,33.4,38.6,None,24,Whiteflies,High,56.5,Sandy,3
+Begonia maculata,-3.2,14,6,New bud,155,6,Low light corner,24,45.3,None,55,Spider mites,High,48.1,Clay,5
+Zamioculcas zamiifolia,30.82,18,5,Leaf drop,242,5,Indirect light all day,20.6,46.1,Organic,76,Aphids,Moderate,36,Silty,5
+Monstera deliciosa,44.65,46,0,Leaf drop,365,3,Indirect light all day,23.8,38,None,62,Spider mites,High,20.2,Sandy,2
+Calathea orbifolia,30.4,34,1,Dark green color,351,2,Low light corner,23.8,40.3,Chemical,26,Whiteflies,Low,37.3,Chalky,1
+Tradescantia zebrina,15.42,45,6,Brittle leaves,85,4,Filtered sunlight through curtain,24.5,69.4,Chemical,59,None,Moderate,48.3,Sandy,4
+Anthurium andraeanum,31.5,29,0,Yellowing leaves,491,6,Indirect light all day,26,38.4,Chemical,82,Spider mites,Low,54.8,Chalky,1
+Calathea orbifolia,35.59,18,0,None,253,2,Indirect light all day,20.9,31.4,Liquid feed,48,Whiteflies,High,49.5,Chalky,2
+Nephrolepis exaltata,30.12,39,0,Brittle leaves,471,5,6h full sun,29.1,61.5,Organic,64,Spider mites,Low,19.8,Loamy,2
+Dracaena trifasciata,24.26,38,7,None,316,2,Low light corner,24.7,78.8,None,37,Whiteflies,Moderate,40,Sandy,1
+Philodendron hederaceum,22.58,14,3,Wilting,317,4,Indirect light all day,26.2,46.6,Chemical,82,Aphids,Low,26.6,Loamy,4
+Aglaonema commutatum,22.54,39,3,New bud,219,2,Filtered sunlight through curtain,22.1,35.9,Organic,51,Whiteflies,High,10.5,Silty,1
+Schefflera arboricola,31.98,15,1,None,88,2,3h direct morning sun,27.9,58.5,Organic,0,Fungus gnats,None,20,Chalky,5
+Begonia maculata,10.93,15,0,None,188,2,Low light corner,23.2,75.3,Liquid feed,39,None,Moderate,15.7,Silty,3
+Begonia maculata,21.28,25,9,Dark green color,341,2,6h full sun,24.8,69.2,None,80,Whiteflies,Low,52.1,Sandy,5
+Monstera deliciosa,40.96,25,8,Strong stem,101,1,Indirect light all day,21.2,61.1,None,20,Spider mites,Moderate,22.9,Silty,3
+Nephrolepis exaltata,41.34,26,6,Wilting,336,6,Filtered sunlight through curtain,21,45.8,Chemical,85,Spider mites,Low,24.2,Silty,2
+Dieffenbachia seguine,10.22,49,3,Yellowing leaves,338,5,Low light corner,26.1,57.1,Chemical,14,Whiteflies,None,58,Sandy,4
+Tradescantia zebrina,13.69,11,5,Leaf drop,190,4,Filtered sunlight through curtain,22.7,34.6,Organic,49,Fungus gnats,High,29,Loamy,1
+Codiaeum variegatum,22.29,21,1,New bud,195,5,Filtered sunlight through curtain,21.4,63.9,None,47,Whiteflies,Low,10.5,Loamy,4
+Spathiphyllum wallisii,33.93,6,6,Wilting,474,1,6h full sun,22.1,66.3,None,31,Aphids,Low,24.2,Chalky,1
+Codiaeum variegatum,6.73,16,1,Strong stem,363,1,Low light corner,26.1,78.3,Chemical,48,Fungus gnats,None,16,Chalky,5
+Chlorophytum comosum,24.45,46,9,None,233,1,Indirect light all day,22.1,43,Compost,67,Whiteflies,Moderate,15.1,Sandy,5
+Dracaena trifasciata,20.26,22,7,Yellowing leaves,201,6,6h full sun,23.6,30.9,Organic,44,None,High,13.9,Sandy,1
+Peperomia obtusifolia,38.26,15,7,None,250,1,Indirect light all day,24,57.3,None,31,Fungus gnats,Low,39.7,Peaty,4
+Dracaena trifasciata,8.23,20,0,Yellowing leaves,177,2,3h direct morning sun,18.2,65.3,Liquid feed,3,Whiteflies,Low,19.5,Peaty,1
+Nephrolepis exaltata,25.93,22,7,Dark green color,336,5,Filtered sunlight through curtain,19.6,69.5,Liquid feed,64,None,High,28.1,Clay,2
+Philodendron hederaceum,21.06,39,1,None,360,3,3h direct morning sun,25,39.7,Compost,96,Whiteflies,None,53.1,Chalky,5
+Epipremnum aureum,39.7,30,5,Wilting,302,4,Filtered sunlight through curtain,21.8,43.1,Chemical,70,Aphids,Moderate,31.2,Silty,2
+Chlorophytum comosum,30.98,20,0,Strong stem,315,1,6h full sun,27.2,55.6,Chemical,72,Spider mites,High,55.8,Clay,5
+Spathiphyllum wallisii,19.14,10,4,Yellowing leaves,237,5,Indirect light all day,26.9,46.5,Chemical,64,Whiteflies,Moderate,34.9,Clay,5
+Sansevieria cylindrica,33.53,48,6,New bud,435,1,Indirect light all day,26.2,73,Liquid feed,79,Fungus gnats,None,29.9,Loamy,3
+Zamioculcas zamiifolia,21.11,47,9,Yellowing leaves,279,6,6h full sun,29.5,53.7,Chemical,17,Whiteflies,None,47.5,Silty,2
+Philodendron hederaceum,34.99,46,0,Strong stem,320,1,Low light corner,23.8,70,Liquid feed,53,Whiteflies,High,13.7,Loamy,2
+Spathiphyllum wallisii,22.63,16,1,Leaf drop,308,1,3h direct morning sun,25.9,59,Compost,46,Whiteflies,Low,14.5,Peaty,3
+Begonia maculata,35.55,17,6,Leaf drop,348,1,3h direct morning sun,22.2,68.7,Organic,5,Whiteflies,None,42.6,Clay,4
+Dracaena trifasciata,29.36,8,5,Dark green color,464,1,Indirect light all day,31.4,46.6,None,65,Fungus gnats,None,34.3,Peaty,2
+Anthurium andraeanum,57.6,43,2,Wilting,247,4,Indirect light all day,30,71.6,Compost,8,Fungus gnats,High,49.5,Silty,1
+Nephrolepis exaltata,24.47,6,9,Strong stem,372,5,Indirect light all day,24,43.7,Liquid feed,67,Whiteflies,High,55.8,Silty,3
+Schefflera arboricola,28.83,30,1,Dark green color,105,6,6h full sun,25.2,57.3,Compost,22,Spider mites,High,29.4,Chalky,2
+Zamioculcas zamiifolia,20.21,31,9,Brittle leaves,368,1,Low light corner,28.1,40.7,None,42,Whiteflies,None,39.8,Sandy,4
+Dracaena trifasciata,25.03,31,3,Yellowing leaves,252,1,3h direct morning sun,23.6,53.8,Organic,50,Fungus gnats,Moderate,35,Loamy,2
+Begonia maculata,-2.02,19,2,Brittle leaves,320,1,Filtered sunlight through curtain,22,45.9,None,71,Aphids,None,59.1,Chalky,5
+Epipremnum aureum,29.66,12,6,Yellowing leaves,158,1,6h full sun,26.6,43.3,Liquid feed,24,Whiteflies,High,51.6,Chalky,1
+Chlorophytum comosum,38.43,11,7,Leaf drop,165,2,3h direct morning sun,24.2,78.3,None,79,Whiteflies,Low,55.6,Loamy,3
+Tradescantia zebrina,28.97,44,1,Dark green color,141,2,Low light corner,24.5,38,Compost,34,Whiteflies,Low,22.7,Loamy,5
+Nephrolepis exaltata,11.86,16,9,Leaf drop,187,3,6h full sun,21.5,69.4,Chemical,16,Whiteflies,High,48.6,Silty,4
+Dracaena trifasciata,16.98,17,6,New bud,471,1,3h direct morning sun,18.8,79.2,Compost,17,None,Low,23.3,Silty,5
+Monstera deliciosa,0.7,47,7,Brittle leaves,352,3,6h full sun,24.7,31,Liquid feed,26,Whiteflies,None,20.4,Clay,5
+Aloe vera,34.79,21,5,Brittle leaves,106,4,3h direct morning sun,26.7,65,Organic,14,Fungus gnats,Moderate,57.2,Peaty,4
+Codiaeum variegatum,14.93,21,5,Leaf drop,99,3,3h direct morning sun,23.3,42.6,None,80,Fungus gnats,None,11,Silty,5
+Codiaeum variegatum,24.71,40,9,New bud,120,5,Low light corner,28.3,32,Organic,68,None,High,58.3,Chalky,3
+Schefflera arboricola,23.46,25,0,Yellowing leaves,448,2,Filtered sunlight through curtain,21.9,50.1,Liquid feed,79,Whiteflies,None,17.5,Clay,2
+Begonia maculata,39.88,12,3,Dark green color,451,2,Low light corner,20.8,76.8,None,14,Spider mites,Low,51,Clay,5
+Codiaeum variegatum,25.85,9,0,New bud,131,1,3h direct morning sun,23.8,30.6,Compost,41,Whiteflies,None,23.8,Chalky,3
+Anthurium andraeanum,33.09,30,3,Dark green color,421,1,6h full sun,23.8,59.4,Compost,33,Fungus gnats,Moderate,27.5,Silty,2
+Aglaonema commutatum,30.46,20,1,Brittle leaves,154,4,Low light corner,26.3,55.1,Liquid feed,47,Aphids,Low,20.8,Chalky,2
+Spathiphyllum wallisii,38.59,40,4,Dark green color,137,6,Filtered sunlight through curtain,21.7,73.7,None,82,Aphids,Moderate,39.3,Sandy,5
+Dracaena trifasciata,22.61,32,9,Brittle leaves,51,4,3h direct morning sun,28.1,34.2,Compost,7,Spider mites,Moderate,27.4,Silty,3
+Codiaeum variegatum,43.7,33,8,New bud,409,5,Low light corner,29.9,64.1,Liquid feed,9,Whiteflies,Moderate,42.9,Peaty,5
+Tradescantia zebrina,5.14,16,9,Brittle leaves,133,1,Low light corner,23.9,64,Liquid feed,4,None,None,10.8,Chalky,4
+Anthurium andraeanum,33.57,41,2,None,92,1,Low light corner,27.7,63.5,Organic,47,Whiteflies,None,13.2,Silty,2
+Dracaena trifasciata,16.33,34,7,Wilting,203,4,Low light corner,20.8,77.1,Compost,25,Spider mites,None,15,Loamy,5
+Schefflera arboricola,20.07,27,2,Brittle leaves,376,4,6h full sun,27.2,71.2,None,85,Spider mites,None,30.9,Sandy,2
+Ficus lyrata,30.69,20,5,Leaf drop,471,4,Filtered sunlight through curtain,27.1,32.1,Compost,22,Spider mites,Low,50.7,Peaty,3
+Aloe vera,30.61,18,3,New bud,143,2,Filtered sunlight through curtain,26.6,53.6,Compost,61,Aphids,None,54.4,Silty,1
+Nephrolepis exaltata,31.06,14,7,None,347,3,3h direct morning sun,24,49.9,Compost,12,Whiteflies,Low,22.2,Loamy,5
+Schefflera arboricola,11.14,11,5,Yellowing leaves,182,3,Indirect light all day,15.1,45.5,Liquid feed,8,Whiteflies,Moderate,38.7,Silty,5
+Peperomia obtusifolia,39.49,49,7,Dark green color,444,1,6h full sun,22.1,52.6,Chemical,19,None,Low,48.4,Loamy,2
+Dieffenbachia seguine,15.99,41,0,None,114,2,3h direct morning sun,22.1,49.2,Chemical,91,Spider mites,High,24.4,Peaty,3
+Anthurium andraeanum,17.33,33,5,Strong stem,339,4,3h direct morning sun,21.1,51.6,Organic,56,Spider mites,None,30.5,Sandy,4
+Ficus lyrata,31.38,7,0,None,425,1,Low light corner,24.4,79,Compost,23,Fungus gnats,High,36.2,Loamy,3
+Schefflera arboricola,22.13,19,0,New bud,306,2,Indirect light all day,22.7,34.4,Chemical,32,Fungus gnats,Low,16.7,Clay,5
+Spathiphyllum wallisii,28.08,40,7,None,435,5,Indirect light all day,21.5,76.1,Organic,19,Aphids,None,11.3,Peaty,4
+Dracaena trifasciata,3.43,23,6,None,262,6,6h full sun,20.8,54,Liquid feed,59,Whiteflies,High,17.6,Peaty,3
+Nephrolepis exaltata,27.84,17,2,Leaf drop,197,2,Indirect light all day,21.9,61.2,Compost,47,None,None,41.3,Chalky,1
+Tradescantia zebrina,27.18,46,5,Brittle leaves,110,1,3h direct morning sun,27.4,71.5,None,63,None,Low,13.7,Sandy,2
+Peperomia obtusifolia,19.9,25,8,Dark green color,198,3,Indirect light all day,22,48,Liquid feed,29,Spider mites,High,19.5,Clay,3
+Peperomia obtusifolia,4.26,41,6,Wilting,137,4,Indirect light all day,22.5,51.5,Organic,72,None,Low,26.9,Clay,3
+Spathiphyllum wallisii,22.87,31,2,Yellowing leaves,373,6,Filtered sunlight through curtain,22.6,50.5,Liquid feed,16,Spider mites,High,13.9,Chalky,1
+Peperomia obtusifolia,24.63,33,5,Wilting,432,5,3h direct morning sun,25,48.7,None,99,Whiteflies,Moderate,19.6,Loamy,5
+Begonia maculata,21.33,24,3,None,445,6,Indirect light all day,25.4,76.3,Liquid feed,13,None,Moderate,55.6,Loamy,2
+Dieffenbachia seguine,6.64,29,2,Strong stem,327,6,Indirect light all day,14.9,71.4,Organic,18,Spider mites,Moderate,11,Clay,3
+Zamioculcas zamiifolia,40.95,10,8,New bud,453,2,Low light corner,27.1,35.4,None,70,Whiteflies,Moderate,42.7,Sandy,4
+Calathea orbifolia,18.61,40,9,Dark green color,131,1,Indirect light all day,28.3,35.4,None,58,Whiteflies,Moderate,29.2,Loamy,3
+Tradescantia zebrina,22.78,6,1,New bud,178,1,Indirect light all day,20.8,51.4,Liquid feed,66,Spider mites,Low,43.6,Peaty,2
+Chlorophytum comosum,0.91,26,0,Leaf drop,335,6,Filtered sunlight through curtain,21.1,34.9,None,96,Spider mites,Moderate,39.4,Silty,3
+Nephrolepis exaltata,40.95,36,1,New bud,431,4,3h direct morning sun,22.6,61,Liquid feed,43,Aphids,Low,21.2,Chalky,1
+Philodendron hederaceum,20.33,20,6,Yellowing leaves,402,1,6h full sun,21.7,37.2,Compost,31,Whiteflies,Moderate,52.4,Sandy,3
+Aloe vera,25.98,22,9,Strong stem,329,6,3h direct morning sun,24.7,56.1,None,10,Spider mites,None,34.6,Loamy,3
+Epipremnum aureum,36.21,9,0,Wilting,319,1,Low light corner,18.2,30.4,Liquid feed,1,Whiteflies,Moderate,51.1,Silty,4
+Anthurium andraeanum,18.24,40,5,None,341,4,3h direct morning sun,20.6,45.8,Compost,89,None,None,30.3,Clay,1
+Dieffenbachia seguine,34.63,34,6,None,252,5,Indirect light all day,28.6,63.9,None,67,Fungus gnats,Low,59.2,Chalky,1
+Schefflera arboricola,4.39,49,8,Strong stem,73,6,Low light corner,21.2,54.2,Compost,16,Fungus gnats,Moderate,48.5,Loamy,3
+Anthurium andraeanum,30.51,23,7,Dark green color,493,3,3h direct morning sun,27.7,78.9,None,80,Spider mites,High,58.3,Clay,4
+Spathiphyllum wallisii,40.72,27,5,New bud,400,3,Low light corner,25.1,73.7,Organic,91,Spider mites,Low,35.7,Loamy,3
+Schefflera arboricola,19.2,38,2,Dark green color,360,6,6h full sun,18.6,48,Organic,93,Whiteflies,Moderate,33.7,Chalky,3
+Anthurium andraeanum,36.19,17,7,Wilting,257,2,3h direct morning sun,25.9,32.3,Liquid feed,39,Spider mites,Low,47.8,Peaty,2
+Codiaeum variegatum,43.34,47,6,Dark green color,329,5,Indirect light all day,23.6,72.3,Chemical,86,Whiteflies,High,54,Peaty,2
+Codiaeum variegatum,22.45,33,2,Leaf drop,254,2,Low light corner,22.6,75.6,Organic,45,Spider mites,Moderate,58.2,Silty,4
+Philodendron hederaceum,21.62,40,8,Strong stem,201,3,Filtered sunlight through curtain,24.7,71,Chemical,87,Whiteflies,High,26.2,Clay,5
+Epipremnum aureum,16.02,26,1,Wilting,487,4,Low light corner,25.4,36.4,Compost,92,Spider mites,Moderate,49.9,Peaty,2
+Begonia maculata,19.9,40,2,Wilting,75,6,Filtered sunlight through curtain,26.1,79.9,Compost,3,Aphids,None,20.5,Chalky,5
+Codiaeum variegatum,16.85,13,1,Brittle leaves,243,1,Indirect light all day,27.5,42.9,Chemical,37,Whiteflies,Low,37.3,Clay,1
+Chlorophytum comosum,16.01,43,0,Wilting,385,3,6h full sun,25.2,66.2,Liquid feed,62,Aphids,High,19,Loamy,2
+Chlorophytum comosum,36.99,23,3,Brittle leaves,471,5,Filtered sunlight through curtain,19.9,75.4,None,28,Aphids,Low,27.4,Sandy,2
+Nephrolepis exaltata,17.1,42,4,Yellowing leaves,287,3,6h full sun,22.6,41.8,Chemical,18,Aphids,High,56.6,Loamy,4
+Schefflera arboricola,27.59,10,5,None,370,5,Low light corner,32.8,75.4,Chemical,90,Aphids,Low,17.3,Chalky,5
+Philodendron hederaceum,25.38,19,4,Brittle leaves,124,5,Indirect light all day,26.2,45.5,Chemical,28,None,Low,41.6,Silty,2
+Chlorophytum comosum,39.98,24,0,Strong stem,484,6,Filtered sunlight through curtain,31.1,78.8,Chemical,99,Fungus gnats,Low,39.6,Clay,2
+Dracaena trifasciata,19.97,13,2,Dark green color,212,5,Low light corner,28.2,44.1,Chemical,34,None,None,16,Loamy,4
+Spathiphyllum wallisii,28.81,36,0,Brittle leaves,348,2,3h direct morning sun,24.7,77.7,Liquid feed,69,Spider mites,Moderate,26.3,Clay,4
+Dracaena trifasciata,32.91,8,4,Wilting,78,4,Low light corner,24.9,32.7,Organic,22,Spider mites,None,38.1,Peaty,5
+Zamioculcas zamiifolia,39.9,22,4,Strong stem,214,3,6h full sun,23.9,65.5,None,45,Fungus gnats,Low,19.4,Sandy,1
+Zamioculcas zamiifolia,19.82,9,5,Brittle leaves,386,4,Indirect light all day,18.8,56.6,Organic,43,Fungus gnats,High,50,Chalky,1
+Aloe vera,18.82,24,7,Brittle leaves,235,1,Indirect light all day,24.1,53.9,Chemical,47,Fungus gnats,Low,58.6,Loamy,3
+Epipremnum aureum,14.38,27,9,Wilting,103,3,Low light corner,27.6,41.2,Organic,51,Aphids,Moderate,20.7,Sandy,2
+Ficus lyrata,47.36,15,0,Leaf drop,344,4,3h direct morning sun,22.2,65.3,Liquid feed,7,None,None,19.3,Chalky,5
+Dracaena trifasciata,38.84,41,3,Leaf drop,91,4,6h full sun,25.2,39.5,Compost,54,Spider mites,Moderate,32.7,Chalky,2
+Spathiphyllum wallisii,24.58,26,9,Brittle leaves,461,6,Low light corner,26.6,57.6,Organic,65,None,High,47.4,Silty,5
+Calathea orbifolia,44.31,8,0,Leaf drop,334,6,Low light corner,21.3,42.7,None,76,None,Moderate,24.1,Peaty,5
+Begonia maculata,23.98,33,8,New bud,476,1,Indirect light all day,22.6,77.8,Liquid feed,39,None,None,11,Silty,5
+Aglaonema commutatum,32.24,48,6,Wilting,436,5,6h full sun,20.9,31.4,Compost,84,Fungus gnats,High,37.1,Silty,2
+Nephrolepis exaltata,25.1,38,6,New bud,187,3,3h direct morning sun,21.5,40,Liquid feed,30,Fungus gnats,Moderate,57.8,Clay,4
+Dracaena trifasciata,28.98,17,4,Strong stem,236,6,Indirect light all day,20.1,42.1,Chemical,47,Spider mites,None,29.6,Clay,2
+Aglaonema commutatum,27.92,46,6,New bud,447,3,Low light corner,21.3,50.7,Compost,99,Spider mites,None,31,Sandy,5
+Philodendron hederaceum,20.75,13,1,Strong stem,253,1,Indirect light all day,28.3,41.6,None,60,Spider mites,Low,58.4,Peaty,3
+Zamioculcas zamiifolia,35.92,46,3,Brittle leaves,480,6,Indirect light all day,21.3,54.6,Compost,51,None,Moderate,44.7,Chalky,1
+Epipremnum aureum,32.16,35,6,Strong stem,91,6,Filtered sunlight through curtain,24.4,73.6,None,37,Fungus gnats,High,46,Peaty,5
+Begonia maculata,35.28,11,2,Strong stem,399,5,Indirect light all day,22.5,65.6,Chemical,90,Aphids,Low,38.1,Peaty,3
+Philodendron hederaceum,28.2,8,1,Dark green color,465,3,Indirect light all day,27.5,59,None,35,None,Moderate,58.7,Sandy,4
+Tradescantia zebrina,15.93,23,9,New bud,337,3,6h full sun,27.9,34.5,Liquid feed,86,Whiteflies,Moderate,44.4,Clay,5
+Tradescantia zebrina,42.09,46,1,Dark green color,475,3,Indirect light all day,26.6,64.7,Organic,54,None,High,54.8,Peaty,3
+Philodendron hederaceum,22.37,34,0,Brittle leaves,465,5,3h direct morning sun,24.9,38.3,Liquid feed,84,Fungus gnats,Low,45,Peaty,5
+Anthurium andraeanum,28.64,35,4,Wilting,75,6,Low light corner,23.3,69.3,Liquid feed,12,Whiteflies,Low,46.8,Peaty,2
+Spathiphyllum wallisii,31.35,39,5,New bud,420,1,6h full sun,20.4,42.5,Compost,36,None,High,24.5,Loamy,3
+Aglaonema commutatum,28.57,25,5,Wilting,434,3,Indirect light all day,29.8,50.9,Chemical,46,Fungus gnats,Low,25.2,Peaty,2
+Calathea orbifolia,34.15,35,8,Wilting,105,4,3h direct morning sun,21.7,47.5,Organic,89,Fungus gnats,None,49.1,Peaty,2
+Anthurium andraeanum,35.73,23,3,Strong stem,302,5,Low light corner,26,72.9,None,70,Aphids,High,24.8,Chalky,3
+Dracaena trifasciata,22.75,35,0,None,171,2,6h full sun,27.2,36.3,Compost,21,None,Moderate,38.1,Silty,1
+Dieffenbachia seguine,41.25,36,5,New bud,155,1,3h direct morning sun,22.3,58.3,Chemical,38,Fungus gnats,High,22.5,Loamy,3
+Nephrolepis exaltata,22.33,6,4,Wilting,179,4,Indirect light all day,27.1,37.1,Organic,86,Spider mites,None,50.8,Peaty,1
+Aloe vera,28.37,14,9,None,386,3,Filtered sunlight through curtain,26.3,65.2,Liquid feed,57,Fungus gnats,High,15.5,Silty,5
+Dieffenbachia seguine,21.12,6,5,Leaf drop,207,2,Filtered sunlight through curtain,29.2,75.3,Chemical,29,Aphids,Moderate,51.5,Peaty,5
+Dracaena trifasciata,18.27,6,2,Wilting,425,1,6h full sun,22.6,51.7,Chemical,17,Fungus gnats,Moderate,40.1,Sandy,3
+Aloe vera,35.44,28,1,Leaf drop,280,5,3h direct morning sun,20.1,54.4,Chemical,17,None,High,19.3,Sandy,5
+Ficus lyrata,56.22,21,5,New bud,357,2,Low light corner,22.5,76.4,Liquid feed,73,None,High,37.1,Silty,4
+Zamioculcas zamiifolia,21.38,36,0,Brittle leaves,140,6,3h direct morning sun,24.6,56,None,38,Whiteflies,None,24.1,Loamy,2
+Spathiphyllum wallisii,37.15,20,6,Dark green color,442,2,Filtered sunlight through curtain,24.2,54.4,Compost,93,None,None,26.2,Chalky,2
+Peperomia obtusifolia,21.74,20,6,New bud,71,4,6h full sun,22.8,58.9,None,25,Whiteflies,Moderate,27.6,Loamy,1
+Aloe vera,24.9,43,9,Dark green color,339,1,Indirect light all day,18.3,64.5,Organic,70,Spider mites,Low,13.2,Loamy,5
+Dieffenbachia seguine,42.58,35,6,Dark green color,159,4,3h direct morning sun,25.4,35.3,Compost,6,Aphids,Low,59.3,Sandy,1
+Nephrolepis exaltata,14.26,47,9,New bud,98,4,Filtered sunlight through curtain,29.9,71.1,Organic,68,Spider mites,Low,11.6,Sandy,2
+Peperomia obtusifolia,11.62,28,0,Wilting,178,3,Low light corner,25.4,51.8,Liquid feed,64,Whiteflies,Low,43.1,Chalky,2
+Tradescantia zebrina,24.13,5,3,Yellowing leaves,122,5,6h full sun,25.8,33.6,None,45,Fungus gnats,Moderate,28.6,Peaty,5
+Zamioculcas zamiifolia,31.64,15,6,Wilting,389,2,Indirect light all day,25.7,69.3,Chemical,17,Fungus gnats,Low,42.3,Chalky,4
+Philodendron hederaceum,29.64,25,8,Wilting,102,1,3h direct morning sun,25.2,48.8,Compost,12,Spider mites,Low,27.8,Peaty,4
+Aglaonema commutatum,28.61,8,4,Brittle leaves,405,6,Low light corner,26.8,35,Chemical,24,Fungus gnats,High,43.7,Silty,5
+Begonia maculata,25.34,11,1,Strong stem,429,5,Indirect light all day,25.2,61.7,Organic,7,Whiteflies,Low,46.5,Silty,5
+Chlorophytum comosum,32.87,30,6,Strong stem,217,5,Filtered sunlight through curtain,23.1,74,Chemical,73,Aphids,High,44.5,Clay,1
+Aloe vera,-4.14,16,9,Wilting,94,1,Filtered sunlight through curtain,21.6,74.4,Chemical,31,None,Moderate,15.7,Sandy,5
+Chlorophytum comosum,17.49,35,0,Leaf drop,442,5,Low light corner,23.3,77.9,Liquid feed,16,Whiteflies,High,42.8,Clay,4
+Epipremnum aureum,24.06,21,6,Brittle leaves,154,3,Filtered sunlight through curtain,24.9,73.4,Liquid feed,78,Whiteflies,None,24,Clay,5
+Chlorophytum comosum,32.05,37,5,Dark green color,199,5,6h full sun,23.1,30.1,None,78,None,High,11.4,Sandy,1
+Schefflera arboricola,39.9,15,6,None,195,3,Low light corner,24.9,49,Organic,47,None,Low,30.7,Clay,1
+Codiaeum variegatum,16.15,32,9,Strong stem,253,2,Filtered sunlight through curtain,25.3,70.9,Liquid feed,62,Aphids,High,31.7,Loamy,1
+Codiaeum variegatum,39.57,36,2,Wilting,411,2,3h direct morning sun,26.5,48.3,Liquid feed,39,Aphids,High,33.4,Peaty,1
+Aglaonema commutatum,20.47,5,2,Brittle leaves,348,4,Filtered sunlight through curtain,27.8,60.1,None,83,Aphids,Moderate,45.2,Chalky,3
+Calathea orbifolia,23.7,32,6,Yellowing leaves,216,3,6h full sun,24.2,60.3,Compost,14,Fungus gnats,Moderate,25.4,Sandy,5
+Ficus lyrata,30.81,46,1,Leaf drop,250,6,Indirect light all day,20.1,48.3,None,98,Whiteflies,Low,25.8,Loamy,2
+Aloe vera,22.97,11,0,New bud,183,2,Indirect light all day,23,75.2,Chemical,5,None,None,13,Silty,5
+Dracaena trifasciata,36.1,6,8,Wilting,260,5,Filtered sunlight through curtain,24.1,55.2,Chemical,93,Whiteflies,None,44.3,Chalky,3
+Philodendron hederaceum,20.95,46,8,Brittle leaves,97,1,Indirect light all day,18.5,53.2,Liquid feed,62,Whiteflies,High,38.4,Chalky,1
+Zamioculcas zamiifolia,21.1,28,6,Wilting,175,1,Filtered sunlight through curtain,28.2,79.9,Liquid feed,7,Aphids,None,27.5,Chalky,3
+Ficus lyrata,35.52,8,6,None,288,3,6h full sun,24.4,54.7,None,94,Aphids,Moderate,45.3,Clay,4
+Schefflera arboricola,17.37,48,2,Dark green color,56,6,Indirect light all day,25.1,38.9,None,31,Whiteflies,Low,36.9,Clay,4
+Monstera deliciosa,27.49,23,9,Leaf drop,321,4,3h direct morning sun,28.1,55.7,Organic,44,Aphids,Low,33.5,Clay,5
+Dieffenbachia seguine,8.4,30,1,Strong stem,434,5,Filtered sunlight through curtain,22.1,70.7,Chemical,51,Fungus gnats,Moderate,35.6,Clay,5
+Calathea orbifolia,43.2,15,6,Strong stem,420,3,Indirect light all day,25.7,68.8,None,78,None,Low,41.8,Loamy,2
+Zamioculcas zamiifolia,37.07,44,8,Strong stem,86,1,6h full sun,23.7,69.4,Compost,81,Whiteflies,High,43,Clay,2
+Schefflera arboricola,52.5,47,0,None,260,3,6h full sun,23.4,65.4,Organic,12,None,Low,24.4,Sandy,4
+Schefflera arboricola,38.38,15,3,New bud,214,5,3h direct morning sun,21.7,42.7,None,23,Fungus gnats,None,17,Chalky,1
+Monstera deliciosa,13.7,49,5,Brittle leaves,174,6,6h full sun,29,73.1,Liquid feed,39,Aphids,Low,17.8,Loamy,3
+Spathiphyllum wallisii,31.69,7,6,Leaf drop,386,6,6h full sun,22.9,74.7,None,13,Spider mites,Low,42,Silty,2
+Begonia maculata,15.82,16,9,Leaf drop,241,2,Indirect light all day,26.1,39.7,Liquid feed,91,Fungus gnats,Moderate,53.6,Clay,2
+Spathiphyllum wallisii,40.78,7,6,Strong stem,267,5,Filtered sunlight through curtain,18.4,36.5,Liquid feed,74,Spider mites,Moderate,30.5,Silty,1
+Monstera deliciosa,13.99,46,9,Strong stem,263,2,Low light corner,27.5,78.8,Chemical,69,None,None,18.5,Chalky,1
+Ficus lyrata,13.51,31,1,Dark green color,111,2,6h full sun,27.2,73.4,Chemical,61,Whiteflies,Moderate,47.8,Loamy,5
+Philodendron hederaceum,8.9,6,3,None,377,2,6h full sun,24.3,74.7,None,88,Aphids,None,51.6,Chalky,3
+Chlorophytum comosum,20.12,20,4,Yellowing leaves,494,3,Low light corner,23.3,74.3,None,60,Fungus gnats,High,54,Silty,1
+Monstera deliciosa,18.11,6,0,Yellowing leaves,430,1,6h full sun,25.2,57.1,Compost,0,Aphids,None,40.3,Loamy,2
+Tradescantia zebrina,12.38,34,0,Wilting,210,6,Indirect light all day,30.9,62.3,Organic,88,Spider mites,Low,53,Peaty,2
+Monstera deliciosa,44.9,24,9,Wilting,115,3,Indirect light all day,18.7,57.3,Organic,65,Spider mites,None,10.8,Loamy,4
+Philodendron hederaceum,30.3,42,2,Leaf drop,335,1,Low light corner,26.3,32.6,None,31,Whiteflies,High,15.4,Clay,1
+Monstera deliciosa,29.12,32,9,Leaf drop,288,6,6h full sun,21.3,67.3,Chemical,12,Spider mites,Low,14.6,Silty,5
+Tradescantia zebrina,40.89,29,2,New bud,69,5,6h full sun,23.9,55.3,Compost,32,Whiteflies,None,45.6,Chalky,3
+Tradescantia zebrina,27.56,36,7,New bud,237,6,Filtered sunlight through curtain,23.3,62.4,Organic,31,Fungus gnats,Moderate,13.5,Chalky,5
+Codiaeum variegatum,17.51,14,8,Yellowing leaves,131,6,6h full sun,22.7,55.1,None,55,Whiteflies,Moderate,34.8,Chalky,2
+Zamioculcas zamiifolia,8,46,0,None,412,6,Indirect light all day,24,54.6,Chemical,23,Spider mites,Moderate,33.6,Sandy,5
+Aglaonema commutatum,16.95,44,1,Wilting,251,4,3h direct morning sun,20.6,38.6,Chemical,90,None,None,25.5,Sandy,2
+Peperomia obtusifolia,40.05,37,9,Yellowing leaves,457,5,3h direct morning sun,27.1,43.9,Chemical,3,Whiteflies,None,53.5,Clay,2
+Sansevieria cylindrica,12.45,17,1,None,181,3,3h direct morning sun,18.6,37.9,Liquid feed,87,Aphids,High,18.5,Peaty,2
+Spathiphyllum wallisii,28.53,45,3,Yellowing leaves,86,3,3h direct morning sun,25.6,39.8,Chemical,22,None,Low,27.6,Sandy,2
+Philodendron hederaceum,35.34,46,1,Wilting,181,1,6h full sun,23,78.6,None,28,Whiteflies,Low,48.7,Loamy,2
+Epipremnum aureum,27.85,41,6,Brittle leaves,126,3,6h full sun,20.5,37.7,Compost,97,Aphids,Low,11.5,Silty,4
+Codiaeum variegatum,28.99,20,8,New bud,138,2,Filtered sunlight through curtain,24.6,43.5,None,20,None,Low,43.6,Clay,5
+Schefflera arboricola,31.56,49,6,Dark green color,451,6,6h full sun,19.3,59.5,Chemical,29,Whiteflies,None,50.8,Peaty,4
+Zamioculcas zamiifolia,28.79,26,5,Dark green color,302,3,3h direct morning sun,24.1,60.5,Compost,89,Fungus gnats,None,56.6,Loamy,4
+Nephrolepis exaltata,41.09,24,9,Dark green color,393,1,Low light corner,19.7,37.7,Organic,19,Aphids,High,53.8,Chalky,1
+Dracaena trifasciata,14.6,47,0,Wilting,243,1,Low light corner,25.4,69.7,Organic,15,Fungus gnats,Low,26,Sandy,1
+Begonia maculata,27.4,31,9,Strong stem,225,2,Indirect light all day,21.2,69.3,None,66,Spider mites,None,39.3,Loamy,1
+Nephrolepis exaltata,6.82,45,8,Strong stem,82,1,Indirect light all day,22.6,41.9,Compost,48,Whiteflies,None,13.9,Peaty,3
+Peperomia obtusifolia,4.26,20,4,Strong stem,107,4,6h full sun,24.9,44.4,None,57,Whiteflies,None,22.9,Clay,1
+Sansevieria cylindrica,24.18,38,4,Leaf drop,250,6,Low light corner,21.7,76.9,Compost,43,Aphids,None,14.7,Loamy,5
+Peperomia obtusifolia,30.43,36,5,New bud,77,6,3h direct morning sun,23.8,71.3,Compost,24,Whiteflies,Low,25.8,Clay,4
+Nephrolepis exaltata,41.31,30,8,New bud,84,6,3h direct morning sun,19.5,64.9,None,22,Spider mites,Low,53.8,Chalky,5
+Begonia maculata,49.2,29,7,Brittle leaves,174,5,3h direct morning sun,25.9,34.1,Compost,58,Whiteflies,None,27.4,Peaty,1
+Calathea orbifolia,38.2,6,7,Brittle leaves,443,3,6h full sun,29.3,50.9,Chemical,0,None,Moderate,38.1,Peaty,3
+Sansevieria cylindrica,32.27,16,7,Leaf drop,370,4,6h full sun,32.4,58,Compost,96,Fungus gnats,High,31.7,Sandy,3
+Schefflera arboricola,26.6,44,0,Yellowing leaves,91,3,Filtered sunlight through curtain,24.3,39.4,Compost,14,Spider mites,Low,32.9,Silty,4
+Monstera deliciosa,9.69,13,0,None,134,4,3h direct morning sun,26.4,52.4,None,80,Spider mites,Low,58.5,Peaty,5
+Epipremnum aureum,23.54,16,7,Brittle leaves,442,3,3h direct morning sun,18.7,60.1,Organic,97,Fungus gnats,Moderate,24.8,Loamy,2
+Sansevieria cylindrica,37.9,30,4,Dark green color,237,2,6h full sun,28.5,46.4,Liquid feed,80,Fungus gnats,Low,41.4,Loamy,5

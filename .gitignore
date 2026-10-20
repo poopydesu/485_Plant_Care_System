@@ -1,0 +1,53 @@
+# ==========================================
+# PHP & HTML Project .gitignore Template
+# ==========================================
+
+# --- PHP Dependencies (Composer) ---
+/vendor/
+composer.phar
+.phpunit.result.cache
+.phpunit.cache
+
+# --- Frontend Dependencies & Builds ---
+/node_modules/
+/dist/
+/build/
+.npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- Environment & Sensitive Data ---
+.env
+.env.local
+.env.*.local
+*.key
+auth.json
+config.production.php
+
+# --- Logs, Caches, and Storage ---
+*.log
+/logs/
+/cache/
+/storage/
+*.cache
+
+# --- OS / System Junk ---
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# --- IDEs and Editors ---
+/.idea/
+/.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# --- Testing Folder ---
+/test
