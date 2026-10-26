@@ -6,20 +6,21 @@
     <meta name="author" content="Megan Warren">
     <meta name="author" content="Rachal Thornton">
     <title>Plant Care Homepage</title>
+    <link rel="icon" type="image/png" href="assets/favicon.png">
     <link rel="stylesheet" href="style.css">
 </head>
 <body id="index">
-    <!-- Placeholder application name-->
-    <h1>Welcome to [PlantCareName]!</h1>
+    <!-- Nav bar to hold login, view plants, and about us buttons -->
+     <nav>
+        <!-- Logo/favicon in top left with placeholder name -->
+        <a href="#"><img src="assets/favicon.png" alt="Site Logo" width="40" height="40"><span class="logo-text">Plant Care System</span></a>
 
-    <!-- Button container for homepage button options -->
-     <div class="button-container">
         <!-- Form to allow PHP POST method -->
         <form method="POST" action="index.php">
-            <button type="submit" class="index-btn" name="index-btn-login">Login</button><br>
-            <button type="submit" class="index-btn" name="index-btn-plants">View Plants</button><br>
-            <button type="submit" class="index-btn" name="index-btn-about">About Us</button>
+            <button type="submit" class="nav-btn">Login</button>
+            <button type="submit" class="nav-btn">View Plants</button>
+            <button type="submit" class="nav-btn">About Us</button>
         </form>
-     </div>
+     </nav>
 </body>
 </html>
