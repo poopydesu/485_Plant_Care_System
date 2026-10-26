@@ -1,1 +1,17 @@
-/* Base styles */
+/* Styles for all pages */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Styles for index.html */
+#index {
+    background-color: rgb(73, 144, 96);
+    text-align: center;
+    color: rgb(252, 255, 240);
+}
+
+.index-btn {
+    background-color: rgb(252, 255, 240);
+    color: rgb(73, 144, 96);
+    padding: 10px 20px;
+}
