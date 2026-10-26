@@ -1,17 +1,52 @@
-/* Styles for all pages */
+/* GENERAL STYLES */
+/* Styles for all body paragraphs */
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-/* Styles for index.html */
+/* Styles for consistent top nav bar*/
+nav {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: space-between;
+    padding: 13px 20px;
+    background-color:rgb(252, 255, 240);
+}
+
+/* Styles for index.html buttons */
+.nav-btn {
+    background-color: rgb(252, 255, 240);
+    color: rgb(73, 144, 96);
+    padding: 14px 10px;
+    border: 2px solid rgb(73, 144, 96);;
+}
+
+/* Styles for index.html buttons on hover*/
+.nav-btn:hover {
+    background-color: rgb(73, 144, 96);
+    color: rgb(252, 255, 240);
+    padding: 14px 10px;
+    transform: translateY(-5px);
+}
+
+/* Styles to remove underline from links */
+a {
+    text-decoration: none;
+}
+
+/* Styles for logo text in nav bar*/
+.logo-text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    margin-left: 10px;
+    color: rgb(73, 144, 96);
+}
+
+/* INDEX.HTML STYLES */
+/* Styles for index.html page */
 #index {
     background-color: rgb(73, 144, 96);
     text-align: center;
     color: rgb(252, 255, 240);
 }
 
-.index-btn {
-    background-color: rgb(252, 255, 240);
-    color: rgb(73, 144, 96);
-    padding: 10px 20px;
-}
