@@ -42,6 +42,14 @@ a {
     color: rgb(73, 144, 96);
 }
 
+.main-body {
+    background-color: rgb(252, 255, 240);
+    color: rgb(73, 144, 96);
+    margin: 20px 0px;
+    display: flex;
+    justify-content: flex-start;
+}
+
 /* INDEX.HTML STYLES */
 /* Styles for index.html page */
 #index {
