@@ -1,0 +1,52 @@
+users {
+	id int pk
+	username varchar
+	password varchar
+	fname varchar
+	lname varchar
+	url varchar
+}
+
+plants {
+	id int pk
+	sci_name varchar
+	common_name varchar
+	watering varchar
+	light varchar
+	temp_min_f varchar
+	temp_max_f varchar
+}
+
+pests {
+	id integer pk
+	name varchar
+	desc varchar
+}
+
+plant_pests {
+	plant_id integer pk > plants.id
+	pests_id integer pk > pests.id
+}
+
+diseases {
+	id int pk
+	name varchar
+	desc varchar
+}
+
+plant_diseases {
+	disease_id integer pk > diseases.id
+	plant_id integer pk > plants.id
+}
+
+user_owns_plants {
+	user_id int pk > users.id
+	plant_id int pk > plants.id
+	plant_num int pk
+}
+
+user_bookmarks_plants {
+	user_id int pk > users.id
+	plant_id int pk > plants.id
+}
+
