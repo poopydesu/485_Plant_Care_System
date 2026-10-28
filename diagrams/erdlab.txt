@@ -43,6 +43,7 @@ user_owns_plants {
 	user_id int pk > users.id
 	plant_id int pk > plants.id
 	plant_num int pk
+	location varchar
 }
 
 user_bookmarks_plants {
