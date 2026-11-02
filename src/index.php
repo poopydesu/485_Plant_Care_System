@@ -15,6 +15,11 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     } elseif (isset($_POST['index-btn-about'])) {
         header("Location: about.html");
         exit();
+    
+    // Home page redirect
+    } elseif (isset($_POST['index-btn-home'])) {
+        header("Location: index.html");
+        exit();
     }
 }
 ?>
