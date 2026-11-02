@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Megan Warren">
+    <meta name="author" content="Rachal Thornton">
+    <title>Plant Information</title>
+    <link rel="icon" type="image/png" href="assets/favicon.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body id="index">
+    <!-- Nav bar to hold login, view plants, and about us buttons -->
+     <nav>
+        <!-- Logo/favicon in top left with placeholder name -->
+        <a href="#"><img src="assets/favicon.png" alt="Site Logo" width="40" height="40"><span class="logo-text">Plant Care System</span></a>
+
+        <!-- Form to allow PHP POST method -->
+        <form method="POST" action="index.php">
+            <button type="submit" class="nav-btn" name="index-btn-home">Home</button>
+            <button type="submit" class="nav-btn" name="index-btn-login">Login</button>
+            <button type="submit" class="nav-btn" name="index-btn-plants">View Plants</button>
+            <button type="submit" class="nav-btn" name="index-btn-about">About Us</button>
+        </form>
+     </nav>
+
+     <div class="main-body">
+        <!-- Left side of main body is 25% column-->
+        <div class="col-left">
+            <!-- Placeholder name and image -->
+            <img src="https://placehold.co/300x500" alt="Placeholder">
+        </div>
+        
+        <!-- Right side of main body is 75% column-->
+        <div class="col-right">
+            <!-- Plant name-->
+            <h1>Plant Name</h1>
+
+            <!-- Expanding box-->
+            <div class="expand-box">
+                <!-- Checkbox handles click state (expanded or not)-->
+                <input type="checkbox" id="toggle-box" class="toggle-input">
+                
+                <!-- Clickable header-->
+                <label for="toggle-box" class="box-header">
+                    Click to Expand
+                    <span class="icon">▼</span>
+                </label>
+
+                <div class="box-content">
+                    <p>This text will update dynamically depending on which plant.</p>
+                </div>
+            </div>
+        </div>
+     </div>
+</body>
+</html>

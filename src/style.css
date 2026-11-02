@@ -163,7 +163,7 @@ a {
 
 .plant-table th, .plant-table td {
   padding: 12px 15px;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid rgb(73, 144, 96);
   text-align: left;
 }
 
@@ -174,4 +174,54 @@ a {
 
 .plant-table tbody tr:hover {
   background-color: #f1f8f2;
+}
+
+/* PLANT-INFO.HTML STYLES */
+/* Styles for plant-info.html page */
+.expand-box {
+  width: 300px;
+  border: 1px solid rgb(73, 144, 96);
+  border-radius: 6px;
+  overflow: hidden; /* Keep hidden content from overflowing */
+}
+
+/* Hide the checkbox */
+.toggle-input {
+  display: none;
+}
+
+/* Clickable header */
+.box-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  background-color: #f1f1f1;
+  font-weight: bold;
+  user-select: none; /* Prevents text highlighting */
+}
+
+/* Ease the transition of box expanding */
+.box-header .icon {
+  transition: transform 0.3s ease;
+}
+
+/* Hide content by default using max height */
+.box-content {
+  max-height: 0;
+  opacity: 0;
+  padding: 0 15px;
+  overflow: hidden;
+  transition: max-height 0.3s ease, opacity 0.3s ease, padding 0.3s ease;
+}
+
+/* When checkbox is checked, expand the content container */
+.toggle-input:checked ~ .box-content {
+  max-height: 200px; 
+  opacity: 1;
+  padding: 15px; 
+}
+
+/* Rotate the icon arrow when opened */
+.toggle-input:checked ~ .box-header .icon {
+  transform: rotate(180deg);
 }
