@@ -53,7 +53,7 @@ a {
     overflow-wrap: break-word;
     border-radius: 30px;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     position: relative;
     min-height: 100vh;
 }
