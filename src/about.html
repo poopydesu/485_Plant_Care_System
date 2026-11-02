@@ -6,9 +6,43 @@
     <meta name="author" content="Megan Warren">
     <meta name="author" content="Rachal Thornton">
     <title>Plant Care About</title>
-    <!--<link rel="stylesheet" href="style.css"> -->
+    <link rel="icon" type="image/png" href="assets/favicon.png">
+    <link rel="stylesheet" href="style.css">
 </head>
-<body>
-    <h1>About Us</h1>
+<body id="index">
+    <!-- Nav bar to hold login, view plants, and about us buttons -->
+     <nav>
+        <!-- Logo/favicon in top left with placeholder name -->
+        <a href="#"><img src="assets/favicon.png" alt="Site Logo" width="40" height="40"><span class="logo-text">Plant Care System</span></a>
+
+        <!-- Form to allow PHP POST method -->
+        <form method="POST" action="index.php">
+            <button type="submit" class="nav-btn" name="index-btn-home">Home</button>
+            <button type="submit" class="nav-btn" name="index-btn-login">Login</button>
+            <button type="submit" class="nav-btn" name="index-btn-plants">View Plants</button>
+        </form>
+     </nav>
+
+     <div class="no-flex-body">
+        <h1>PlantCareSystem</h1>
+        <p>
+            lorem ipsum dolor sit amet consectetur adipiscing elit placeat excepteur culpa nisi ut 
+            placeat rerum ut dolor ad non dolor nihil cumque nulla aliquip libero blanditiis blanditiis 
+            exercitation eos cillum eiusmod id dolorem ea non dolores est voluptas tempor anim voluptatum 
+            autem dolor soluta harum est imperdiet consequatur animi quis
+        </p>
+
+        <h2>Lorem Ipsum</h2>
+        <p>
+            lorem ipsum dolor sit amet consectetur adipiscing elit placeat excepteur culpa nisi ut 
+            placeat rerum ut dolor ad non dolor nihil cumque nulla aliquip libero blanditiis blanditiis 
+        </p>
+
+        <h2>Lorem Ipsum</h2>
+        <p>
+            lorem ipsum dolor sit amet consectetur adipiscing elit placeat excepteur culpa nisi ut 
+            placeat rerum ut dolor ad non dolor nihil cumque nulla aliquip libero blanditiis blanditiis 
+        </p>
+     </div>
 </body>
 </html>

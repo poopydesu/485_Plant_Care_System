@@ -34,7 +34,7 @@ a {
     text-decoration: none;
 }
 
-/* Styles for logo text in nav bar*/
+/* Styles for logo text in nav bar */
 .logo-text {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 35px;
@@ -42,12 +42,24 @@ a {
     color: rgb(73, 144, 96);
 }
 
+/* Styles for main body of pages */
 .main-body {
     background-color: rgb(252, 255, 240);
     color: rgb(73, 144, 96);
     margin: 20px 0px;
+    padding: 20px;
     display: flex;
     justify-content: flex-start;
+    overflow-wrap: break-word;
+}
+
+.no-flex-body {
+    background-color: rgb(252, 255, 240);
+    color: rgb(73, 144, 96);
+    margin: 20px 0px;
+    padding: 20px;
+    overflow-wrap: break-word;
+    text-align: left;
 }
 
 /* INDEX.HTML STYLES */
@@ -58,3 +70,41 @@ a {
     color: rgb(252, 255, 240);
 }
 
+.col-left {
+    width: 25%;
+}
+
+.col-right {
+    width:75%;
+    text-align: left;
+}
+
+/* LOGIN.HTML STYLES */
+/* Styles for login.html page */
+#login {
+    background-color: rgb(73, 144, 96);
+    text-align: center;
+    color: rgb(252, 255, 240);
+}
+
+/* PLANT.HTML STYLES */
+/* Styles for plant.html page */
+.plant-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.plant-table th, .plant-table td {
+  padding: 12px 15px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+
+.plant-table tbody tr {
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.plant-table tbody tr:hover {
+  background-color: #f1f8f2;
+}
