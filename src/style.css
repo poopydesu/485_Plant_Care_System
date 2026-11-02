@@ -10,6 +10,7 @@ nav {
     display: flex;
     justify-content: space-between;
     padding: 13px 20px;
+    border-radius: 30px;
     background-color:rgb(252, 255, 240);
 }
 
@@ -18,7 +19,8 @@ nav {
     background-color: rgb(252, 255, 240);
     color: rgb(73, 144, 96);
     padding: 14px 10px;
-    border: 2px solid rgb(73, 144, 96);;
+    border: 2px solid rgb(73, 144, 96);
+    border-radius: 30px;
 }
 
 /* Styles for index.html buttons on hover*/
@@ -26,6 +28,8 @@ nav {
     background-color: rgb(73, 144, 96);
     color: rgb(252, 255, 240);
     padding: 14px 10px;
+    border: 2px solid rgb(252, 255, 240);
+    border-radius: 30px;
     transform: translateY(-5px);
 }
 
@@ -55,7 +59,6 @@ a {
     justify-content: center;
     align-items: flex-start;
     position: relative;
-    min-height: 100vh;
 }
 
 .no-flex-body {
@@ -63,6 +66,7 @@ a {
     color: rgb(73, 144, 96);
     margin: 20px 0px;
     padding: 20px;
+    border-radius: 30px;
     overflow-wrap: break-word;
     text-align: left;
 }
