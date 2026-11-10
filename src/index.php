@@ -1,3 +1,5 @@
+
+
 <?php
 // Redirect page to correct destination
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
@@ -22,4 +24,30 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         exit();
     }
 }
+
+$servername = "localhost";
+$username = "root";  //user name
+$password = "12345678";  //password used to login MySQL server
+$dbname = "PlantCareSystem";
+
+// Create connection
+$conn = new mysqli($servername, $username, $password, $dbname);
+
+// Check connection
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+echo "Connected successfully ";
+
+//Use prepared statement in SQL
+$stmt = $conn->prepare("INSERT INTO login (username, password) VALUES (?, ?)");
+$name = "mmm";
+$passwd = "kayak";
+$stmt->bind_param("ss", $name, $passwd); //ss lists types of parameters, they two strings
+$stmt->execute();
+echo "New records created successfully";
+
+$stmt->close();
+$conn->close();
+
 ?>
