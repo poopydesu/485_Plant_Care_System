@@ -1,11 +1,14 @@
-use cs485_labs;
+create database PlantCareSystem;
 
 -- Users table
-CREATE TABLE IF NOT EXISTS plant_users (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    username VARCHAR(25) NOT NULL,
-    password VARCHAR (25) NOT NULL
+use PlantCareSystem;
+
+create TABLE login (
+	username varchar(20) NOT NULL,
+    `password` varchar(10) NOT NULL
 );
+
+select * from login;
 
 -- WIP: Plants table, may need to decompose
 CREATE TABLE IF NOT EXISTS plants (

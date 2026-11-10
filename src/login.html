@@ -8,7 +8,13 @@
     <title>Plant Care Login</title>
     <link rel="icon" type="image/png" href="assets/favicon.png">
     <link rel="stylesheet" href="style.css">
+    <script>
+        if (new URLSearchParams(window.location.search).get('login') === 'failed') {
+            alert('Invalid username or password.');
+        }
+    </script>
 </head>
+
 <body id="login">
     <!-- Nav bar to hold login, view plants, and about us buttons -->
      <nav>
@@ -21,6 +27,7 @@
             <button type="submit" class="nav-btn" name="index-btn-plants">View Plants</button>
             <button type="submit" class="nav-btn" name="index-btn-about">About Us</button>
         </form>
+        
      </nav>
 
     <div class = "main-body">
