@@ -1,7 +1,39 @@
 /* GENERAL STYLES */
 /* Styles for all body paragraphs */
+
+:root {
+    --bg: #f2f5ee;
+    --ink: #1f2a22;
+    --muted: #5d6b60;
+    --line: #cfd8c8;
+    --leaf: #2f6b43;
+    --leaf-dark: #22502f;
+    --danger: #a63d2f;
+    --sel: #e1ecd8;
+}
+
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    line-height: 1.5;
+}
+
+main {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 32px 20px;
+}
+
+h1 {
+    font-size: 2rem;
+    margin: 0 0 4px;
+}
+
+.sub {
+    color: var(--muted);
+    margin: 0 0 24px;
 }
 
 /* Styles for consistent top nav bar*/
@@ -11,7 +43,7 @@ nav {
     justify-content: space-between;
     padding: 13px 20px;
     border-radius: 30px;
-    background-color:rgb(252, 255, 240);
+    background-color: rgb(252, 255, 240);
 }
 
 /* Styles for index.html buttons */
@@ -93,7 +125,7 @@ a {
 }
 
 .col-right {
-    width:75%;
+    width: 75%;
     text-align: left;
 }
 
@@ -105,7 +137,7 @@ a {
     color: rgb(252, 255, 240);
 }
 
-.container{
+.container {
     width: 420px;
     background: linear-gradient(0deg, rgb(73, 144, 96));
     border: 2px solid rgba(255, 255, 255, 0.2);
@@ -121,13 +153,13 @@ a {
     text-align: center;
 }
 
-.container .input-box{
+.container .input-box {
     position: relative;
     height: 10px;
     margin: 60px 0;
 }
 
-.input-box input{
+.input-box input {
     width: 100;
     height: 100%;
     background: rgba(255, 255, 255, 0.2);
@@ -135,16 +167,17 @@ a {
     outline: none;
     border: 2px solid rgba(255, 255, 255, 0.2);
     border-radius: 40px;
-    font-size: 16px;;
+    font-size: 16px;
+    ;
     color: #fff;
     padding: 20px 45px 20px 20px;
 }
 
-.input-box input::placeholder{
+.input-box input::placeholder {
     color: #fff;
 }
 
-.input-box i{
+.input-box i {
     position: absolute;
     right: 20px;
     top: 50%;
@@ -153,7 +186,7 @@ a {
     font-size: 20px;
 }
 
-.container .submit-btn{
+.container .submit-btn {
     width: 100%;
     height: 45px;
     background: #fff;
@@ -170,71 +203,228 @@ a {
 /* PLANT.HTML STYLES */
 /* Styles for plant.html page */
 .plant-table {
-  width: 100%;
-  border-collapse: collapse;
+    width: 100%;
+    border-collapse: collapse;
 }
 
-.plant-table th, .plant-table td {
-  padding: 12px 15px;
-  border-bottom: 1px solid rgb(73, 144, 96);
-  text-align: left;
+li { display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.thumb {
+    width: 56px;
+    height: 56px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+.plant-table th,
+.plant-table td {
+    padding: 12px 15px;
+    border-bottom: 1px solid rgb(73, 144, 96);
+    text-align: left;
 }
 
 .plant-table tbody tr {
-  cursor: pointer;
-  transition: background-color 0.2s;
+    cursor: pointer;
+    transition: background-color 0.2s;
 }
 
 .plant-table tbody tr:hover {
-  background-color: #f1f8f2;
+    background-color: #f1f8f2;
 }
 
 /* PLANT-INFO.HTML STYLES */
 /* Styles for plant-info.html page */
 .expand-box {
-  width: 300px;
-  border: 1px solid rgb(73, 144, 96);
-  border-radius: 6px;
-  overflow: hidden; /* Keep hidden content from overflowing */
+    width: 300px;
+    border: 1px solid rgb(73, 144, 96);
+    border-radius: 6px;
+    overflow: hidden;
+    /* Keep hidden content from overflowing */
 }
 
 /* Hide the checkbox */
 .toggle-input {
-  display: none;
+    display: none;
 }
 
 /* Clickable header */
 .box-header {
-  display: flex;
-  justify-content: space-between;
-  padding: 15px;
-  background-color: #f1f1f1;
-  font-weight: bold;
-  user-select: none; /* Prevents text highlighting */
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: #f1f1f1;
+    font-weight: bold;
+    user-select: none;
+    /* Prevents text highlighting */
 }
 
 /* Ease the transition of box expanding */
 .box-header .icon {
-  transition: transform 0.3s ease;
+    transition: transform 0.3s ease;
 }
 
 /* Hide content by default using max height */
 .box-content {
-  max-height: 0;
-  opacity: 0;
-  padding: 0 15px;
-  overflow: hidden;
-  transition: max-height 0.3s ease, opacity 0.3s ease, padding 0.3s ease;
+    max-height: 0;
+    opacity: 0;
+    padding: 0 15px;
+    overflow: hidden;
+    transition: max-height 0.3s ease, opacity 0.3s ease, padding 0.3s ease;
 }
 
 /* When checkbox is checked, expand the content container */
-.toggle-input:checked ~ .box-content {
-  max-height: 200px; 
-  opacity: 1;
-  padding: 15px; 
+.toggle-input:checked~.box-content {
+    max-height: 200px;
+    opacity: 1;
+    padding: 15px;
 }
 
 /* Rotate the icon arrow when opened */
-.toggle-input:checked ~ .box-header .icon {
-  transform: rotate(180deg);
+.toggle-input:checked~.box-header .icon {
+    transform: rotate(180deg);
 }
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid var(--line);
+}
+
+li {
+    padding: 14px 12px;
+    border-bottom: 1px solid var(--line);
+    cursor: pointer;
+}
+
+li:hover {
+    background: #e9f0e3;
+}
+
+li[aria-selected="true"] {
+    background: var(--sel);
+    box-shadow: inset 4px 0 0 var(--leaf);
+}
+
+.name {
+    font-weight: bold;
+}
+
+.meta {
+    color: var(--muted);
+    font-size: .95rem;
+}
+
+.empty {
+    color: var(--muted);
+    padding: 20px 12px;
+}
+
+dialog {
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 24px;
+    width: min(420px, 92vw);
+    background: #fff;
+    color: var(--ink);
+}
+
+dialog::backdrop {
+    background: rgba(20, 30, 22, .4);
+}
+
+dialog h2 {
+    margin: 0 0 16px;
+    font-size: 1.3rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 14px;
+    font-size: .95rem;
+}
+
+input {
+    display: block;
+    width: 100%;
+    margin-top: 4px;
+    padding: 8px 10px;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    font: inherit;
+}
+
+.actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    margin-top: 8px;
+}
+
+.actions button {
+    padding: 8px 16px;
+    border-radius: 4px;
+    font: inherit;
+    cursor: pointer;
+    border: 1px solid var(--leaf);
+    background: #fff;
+    color: var(--leaf);
+}
+
+.actions .primary {
+    background: var(--leaf);
+    color: #fff;
+}
+
+.actions .primary:hover {
+    background: var(--leaf-dark);
+}
+
+/* STYLES FOR THE MOD BUTTONS */
+.tools {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-bottom: 16px;
+}
+
+.tools button {
+    width: 44px;
+    height: 44px;
+    border: 1.5px solid var(--leaf);
+    border-radius: 50%;
+    background: #fff;
+    color: var(--leaf);
+    font-size: 1.4rem;
+    line-height: 1;
+    cursor: pointer;
+}
+
+.tools button:hover:not(:disabled) {
+    background: var(--leaf);
+    color: #fff;
+}
+
+#removeBtn {
+    border-color: var(--danger);
+    color: var(--danger);
+}
+
+#removeBtn:hover:not(:disabled) {
+    background: var(--danger);
+}
+
+.tools button:disabled {
+    opacity: .35;
+    cursor: not-allowed;
+}
+
+button:focus-visible,
+input:focus-visible {
+    outline: 3px solid #86b894;
+    outline-offset: 2px;
+}
+
