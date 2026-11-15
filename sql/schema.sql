@@ -1,14 +1,29 @@
 create database PlantCareSystem;
+USE PlantCareSystem;
 
--- Users table
-use PlantCareSystem;
-
-create TABLE login (
+CREATE TABLE login (
 	username varchar(20) NOT NULL,
     `password` varchar(10) NOT NULL
 );
 
+CREATE TABLE plants (
+    plant_id INT AUTO_INCREMENT PRIMARY KEY,
+    owner VARCHAR(50) NOT NULL,
+    scientific_name VARCHAR(50) NOT NULL,
+    common_name VARCHAR(50) NOT NULL,
+    image VARCHAR(255) NULL
+);
+
+ALTER TABLE login MODIFY password VARCHAR(255) NOT NULL;
+DELETE FROM login;
+SELECT username, LENGTH(password) FROM login;
+SELECT username, LENGTH(password), LEFT(password, 7) FROM login;
 select * from login;
+
+select username, password from login;
+describe login;
+drop table plants;
+select * from plants;
 
 -- WIP: Plants table, may need to decompose
 CREATE TABLE IF NOT EXISTS plants (
