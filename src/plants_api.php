@@ -18,7 +18,7 @@ function saveImage() {
 
     $dir = __DIR__ . '/uploads';
     if (!is_dir($dir)) mkdir($dir, 0755, true);
-    $file = bin2hex(random_bytes(16)) . '.' . $ext;   // never reuse the user's filename
+    $file = bin2hex(random_bytes(16)) . '.' . $ext;   
     if (!move_uploaded_file($f['tmp_name'], "$dir/$file")) fail(500, 'Could not save image.');
     return "uploads/$file";
 }
@@ -34,7 +34,6 @@ require 'db.php';
 $owner  = $_SESSION['username'];
 $action = $_POST['action'] ?? '';
 
-try {
     if ($action === 'add' || $action === 'edit') {
         $sci    = trim($_POST['scientific_name'] ?? '');
         $common = trim($_POST['common_name'] ?? '');
@@ -46,32 +45,9 @@ try {
             $stmt->bind_param("ssss", $owner, $sci, $common, $image);
             $stmt->execute();
             echo json_encode(['ok' => true, 'id' => $conn->insert_id, 'image' => $image]);
-        } else {
-            $id = filter_var($_POST['id'] ?? null, FILTER_VALIDATE_INT);
-            if ($id === false) fail(400, 'Invalid id.');
-
-            $stmt = $conn->prepare("SELECT image FROM plants WHERE plant_id = ? AND owner = ?");
-            $stmt->bind_param("is", $id, $owner);
-            $stmt->execute();
-            $row = $stmt->get_result()->fetch_assoc();
-            if (!$row) fail(404, 'Plant not found.');
-
-            $image = saveImage();
-            if ($image) {
-                $stmt = $conn->prepare("UPDATE plants SET scientific_name = ?, common_name = ?, image = ? WHERE plant_id = ? AND owner = ?");
-                $stmt->bind_param("sssis", $sci, $common, $image, $id, $owner);
-                $stmt->execute();
-                deleteImage($row['image']);
-            } else {
-                $image = $row['image'];
-                $stmt = $conn->prepare("UPDATE plants SET scientific_name = ?, common_name = ? WHERE plant_id = ? AND owner = ?");
-                $stmt->bind_param("ssis", $sci, $common, $id, $owner);
-                $stmt->execute();
-            }
-            echo json_encode(['ok' => true, 'image' => $image]);
         }
-
-    } elseif ($action === 'delete') {
+    } 
+    elseif ($action === 'delete') {
         $id = filter_var($_POST['id'] ?? null, FILTER_VALIDATE_INT);
         if ($id === false) fail(400, 'Invalid id.');
 
@@ -86,11 +62,5 @@ try {
         if ($row) deleteImage($row['image']);
         echo json_encode(['ok' => true]);
 
-    } else {
-        fail(400, 'Unknown action.');
-    }
-} catch (mysqli_sql_exception $e) {
-    error_log($e->getMessage());
-    fail(500, 'Database error.');
-}
+    } 
 ?>

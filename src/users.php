@@ -2,9 +2,8 @@
 $conn = new mysqli("localhost", "root", "12345678", "PlantCareSystem", 3000);
 
 $users = [
-    "alice" => "1234",
-    "bob"   => "1234",
-    "carol" => "1234",
+    "megan" => "1234",
+    "rachal"   => "1234",
 ];
 
 $stmt = $conn->prepare("INSERT INTO login (username, password) VALUES (?, ?)");
