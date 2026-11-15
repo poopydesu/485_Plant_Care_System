@@ -16,7 +16,6 @@ $plants = $stmt->get_result()->fetch_all(MYSQLI_ASSOC);
 <html lang="en">
 
 <head>
-    <script>window.PLANTS = <?= json_encode($plants, JSON_HEX_TAG | JSON_HEX_AMP | JSON_HEX_APOS | JSON_HEX_QUOT) ?>;</script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Megan Warren">
@@ -25,14 +24,15 @@ $plants = $stmt->get_result()->fetch_all(MYSQLI_ASSOC);
     <link rel="icon" type="image/png" href="assets/favicon.png">
     <link rel="stylesheet" href="style.css">
     <script src="plants.js" defer></script>
+    <script>window.PLANTS = <?= json_encode($plants, JSON_HEX_TAG | JSON_HEX_AMP | JSON_HEX_APOS | JSON_HEX_QUOT) ?>;</script>
 </head>
 
 <body id="index">
     <!-- Nav bar to hold login, view plants, and about us buttons -->
     <nav>
         <!-- Logo/favicon in top left with placeholder name -->
-        <a href="index.html"><img src="assets/favicon.png" alt="Site Logo" width="40" height="40"><span
-                class="logo-text">Plant Care System</span></a>
+       <h1> <a href="index.html"><img src="assets/favicon.png" alt="Site Logo" width="40" height="40"><span
+                class="logo-text">Plant Care System</span></a></h1>
 
         <!-- Form to allow PHP POST method -->
         <form method="POST" action="index.php">
@@ -41,7 +41,7 @@ $plants = $stmt->get_result()->fetch_all(MYSQLI_ASSOC);
             <button type="submit" class="nav-btn" name="index-btn-about">About Us</button>
         </form>
     </nav>
-    
+
     <!-- popup for adding, removing, and editing plants -->
     <dialog id="plantDialog">
         <form id="plantForm" method="dialog">

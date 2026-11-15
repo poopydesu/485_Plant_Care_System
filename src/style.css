@@ -10,6 +10,7 @@
     --leaf-dark: #22502f;
     --danger: #a63d2f;
     --sel: #e1ecd8;
+    --bg2: #fcfff0;
 }
 
 body {
@@ -39,29 +40,30 @@ h1 {
 /* Styles for consistent top nav bar*/
 nav {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: var(--bg2);
     display: flex;
     justify-content: space-between;
     padding: 13px 20px;
-    border-radius: 30px;
-    background-color: rgb(252, 255, 240);
+    /* backdrop-filter: blur(8px); */
+    /* position: sticky; */
+    top: 0;
 }
 
 /* Styles for index.html buttons */
 .nav-btn {
-    background-color: rgb(252, 255, 240);
-    color: rgb(73, 144, 96);
-    padding: 14px 10px;
-    border: 2px solid rgb(73, 144, 96);
-    border-radius: 30px;
+    width: 90px;
+    height: 55px;
+    border: 1.5px solid var(--line);
+    border-radius: 10%;
+    background: #fff;
+    color: var(--leaf);
 }
 
 /* Styles for index.html buttons on hover*/
 .nav-btn:hover {
-    background-color: rgb(73, 144, 96);
-    color: rgb(252, 255, 240);
-    padding: 14px 10px;
-    border: 2px solid rgb(252, 255, 240);
-    border-radius: 30px;
+    background-color: var(--line);
+    color: var(--ink);
+    border-radius: 10%;
     transform: translateY(-5px);
 }
 
@@ -72,7 +74,7 @@ a {
 
 /* Styles for logo text in nav bar */
 .logo-text {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
     font-size: 35px;
     margin-left: 10px;
     color: rgb(73, 144, 96);
@@ -87,7 +89,6 @@ a {
     display: flex;
     justify-content: flex-start;
     overflow-wrap: break-word;
-    border-radius: 30px;
     justify-content: center;
     align-items: flex-start;
     position: relative;
@@ -98,7 +99,6 @@ a {
     color: rgb(73, 144, 96);
     margin: 20px 0px;
     padding: 20px;
-    border-radius: 30px;
     overflow-wrap: break-word;
     text-align: left;
 }
@@ -157,6 +157,8 @@ a {
     position: relative;
     height: 10px;
     margin: 60px 0;
+    justify-content: center;
+    display: flex;
 }
 
 .input-box input {
@@ -168,7 +170,6 @@ a {
     border: 2px solid rgba(255, 255, 255, 0.2);
     border-radius: 40px;
     font-size: 16px;
-    ;
     color: #fff;
     padding: 20px 45px 20px 20px;
 }
@@ -178,26 +179,29 @@ a {
 }
 
 .input-box i {
-    position: absolute;
     right: 20px;
-    top: 50%;
-    transform: translateY(-50%);
     color: #fff;
     font-size: 20px;
 }
 
 .container .submit-btn {
-    width: 100%;
+    width: 100px;
     height: 45px;
     background: #fff;
     border: none;
     outline: none;
-    border-radius: 40px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    cursor: pointer;
+    border-radius: 10px;
     font-size: 16px;
-    color: #333;
+    color: var(--muted);
     font-weight: 600;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.container .submit-btn:hover{
+    color: var(--line);
+    cursor: pointer;
 }
 
 /* PLANT.HTML STYLES */
