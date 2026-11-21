@@ -1,4 +1,5 @@
 <?php
+// PHP to insert users
 $conn = new mysqli("localhost", "root", "12345678", "PlantCareSystem", 3000);
 
 $users = [
