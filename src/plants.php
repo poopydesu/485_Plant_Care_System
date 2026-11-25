@@ -1,15 +1,31 @@
 <?php
 session_start();
+
+// Check if user is logged in
 if (!isset($_SESSION['username'])) {
     header("Location: login.html");
     exit();
 }
-require 'db.php';
-$stmt = $conn->prepare("SELECT plant_id, scientific_name, common_name, image FROM plants WHERE owner = ? ORDER BY plant_id");
+
+// Include database connection
+require_once __DIR__ . '/../config/database.php';
+
+// Retrieve plants belonging to logged-in user
+$stmt = $conn->prepare("
+    SELECT plant_id, scientific_name, common_name, image 
+    FROM plants 
+    WHERE owner = ? 
+    ORDER BY plant_id
+");
+
+// Bind user to query
 $stmt->bind_param("s", $_SESSION['username']);
 $stmt->execute();
+
+// Return all matching plants
 $plants = $stmt->get_result()->fetch_all(MYSQLI_ASSOC);
 
+$stmt->close();
 ?>
 
 <!DOCTYPE html>
