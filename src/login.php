@@ -14,20 +14,20 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     require_once __DIR__ . '/..config/database.php';
 
     // Get user-entered variables
-    $user = trim($_POST['user'] ?? '');
+    $username = trim($_POST['username'] ?? '');
     $password = $_POST['password'] ?? '';
 
     // Prepare query
     $stmt = $conn->prepare('SELECT username, password FROM login WHERE username = ?');
     $stmt->bind_param('s', $username);
     $stmt->execute();
-    $user = $stmt->get_result()->fetch_assoc();
+    $username = $stmt->get_result()->fetch_assoc();
     $stmt->close();
 
     // Validate credentials
-    if ($user && password_verify($password, $user['password'])) {
+    if ($username && password_verify($password, $username['password'])) {
         session_regenerate_id(true);
-        $_SESSION['username'] = $user['username'];
+        $_SESSION['username'] = $username['username'];
         header('Location: my-plants.php');
         exit();
     }
