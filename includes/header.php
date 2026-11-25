@@ -1,4 +1,5 @@
 <?php
+require_once __DIR__ . '/helper.php';
 // Shared header and nav bar for all pages
 
 // Set variables for each use, otherwise default 
@@ -16,7 +17,7 @@ $bodyId    = $bodyId ?? 'index';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Megan Warren">
     <meta name="author" content="Rachal Thornton">
-    <title><?= h($pageTitle) ?></title>
+    <title><?=($pageTitle)?></title>
     <link rel="icon" type="image/png" href="assets/favicon.png">
     <link rel="stylesheet" href="style.css">
 </head>
