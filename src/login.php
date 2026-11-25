@@ -44,7 +44,7 @@ require __DIR__ . '/../includes/header.php';
         <div class="container">
             <h1>Login</h1>
             <!-- Display error message if issue logging in -->
-            <?php if ($error): ?><p class="msg"><?= h($error) ?></p><?php endif; ?>
+            <?php if ($error): ?><p class="msg"><?= $error ?></p><?php endif; ?>
 
             <!-- Login form -->
             <form action="login.php" method="POST">
