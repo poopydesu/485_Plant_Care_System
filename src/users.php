@@ -1,5 +1,5 @@
 <?php
-$conn = new mysqli("localhost", "root", "12345678", "PlantCareSystem", 3000);
+$conn = new mysqli("localhost", "root", "123", "PlantCareSystem", 3306);
 
 $users = [
     "megan" => "1234",
