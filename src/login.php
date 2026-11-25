@@ -11,7 +11,7 @@ if (current_user()) {
 $error = '';
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Include database credentials
-    require_once __DIR__ . '/..config/database.php';
+    require_once __DIR__ . '/../config/database.php';
 
     // Get user-entered variables
     $username = trim($_POST['username'] ?? '');
