@@ -30,7 +30,7 @@ function deleteImage($path) {
 if (!isset($_SESSION['username'])) fail(401, 'Please log in again.');
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') fail(405, 'POST only.');
 
-require 'db.php';
+require_once __DIR__ . '/../config/database.php';
 $owner  = $_SESSION['username'];
 $action = $_POST['action'] ?? '';
 
