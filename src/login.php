@@ -1,33 +1,70 @@
 <?php
-session_start();
-mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
+require_once __DIR__ . '/../includes/helper.php';
 
-// Include database connection 
-require_once __DIR__ . '/../config/database.php';
-
-// Check for post method
-if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
-    header("Location: plants.php");
+// Check if user is logged in, redirect to their plants if so
+if (current_user()) {
+    header('Location: my-plants.php');
     exit();
 }
 
-// Look up user in database
-$stmt = $conn->prepare("SELECT username, password FROM login WHERE username = ?");
-$stmt->bind_param("s", $_POST['username']);
-$stmt->execute();
+// Check for post method and prepare error-handling
+$error = '';
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    // Include database credentials
+    require_once __DIR__ . '/..config/database.php';
 
-$user = $stmt->get_result()->fetch_assoc();
+    // Get user-entered variables
+    $user = trim($_POST['user'] ?? '');
+    $password = $_POST['password'] ?? '';
 
-// Verify user login credentials
-if ($user && password_verify($_POST['password'], $user['password'])) {
-    session_regenerate_id(true);
-    $_SESSION['username'] = $user['username'];
-    
-    // Redirect
-    header("Location: plants.php");
-} else {
-    header("Location: login.html?login=failed");
+    // Prepare query
+    $stmt = $conn->prepare('SELECT username, password FROM login WHERE username = ?');
+    $stmt->bind_param('s', $username);
+    $stmt->execute();
+    $user = $stmt->get_result()->fetch_assoc();
+    $stmt->close();
+
+    // Validate credentials
+    if ($user && password_verify($password, $user['password'])) {
+        session_regenerate_id(true);
+        $_SESSION['username'] = $user['username'];
+        header('Location: my-plants.php');
+        exit();
+    }
+    $error = 'Invalid username or password.';
 }
 
-$stmt->close();
-exit();
+$pageTitle = 'Plant Care Login';
+$bodyId    = 'login';
+require __DIR__ . '/../includes/header.php';
+?>
+
+    <div class = "main-body">
+        <!-- Container to keep UI separate from background -->
+        <div class="container">
+            <h1>Login</h1>
+            <!-- Display error message if issue logging in -->
+            <?php if ($error): ?><p class="msg"><?= h($error) ?></p><?php endif; ?>
+
+            <!-- Login form -->
+            <form action="login.php" method="POST">
+                <label for="username">Username:</label>
+                <div class="input-box">
+                    <input type="text" id="username" name="username" required><br>
+                    <i class='bx bxs-user'></i>
+                </div>
+
+                <label for="password">Password:</label>
+                <div class="input-box">
+                    <input type = "text" id="password" name="password" required><br>
+                    <i class='bx bxs-lock-alt'></i>
+                </div>
+                
+                <input type="submit" name = "Login" value="Submit" class="submit-btn">
+            </form>
+            <!-- Add a way for users to register -->
+            <p>No account? <a href="register.php">Register Here</a></p>
+        </div>
+    </div>
+</body>
+</html>
