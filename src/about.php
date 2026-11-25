@@ -4,31 +4,22 @@ $pageTitle = 'Plant Care About';
 require __DIR__ . '/../includes/header.php';
 ?>
 
-    <div class="no-flex-body">
-        <h1>PlantCareSystem</h1>
+     <div class="no-flex-body">
+        <h1>About Plant Care System</h1>
         <p>
-            PlantCareSystem is a group project for our database course. It stores care records for a small
-            set of houseplants and turns them into easy-to-read care guides, and it lets registered users keep a
-            list of their own plants.
+            This web-application for a plant care system was developed by Megan Warren and Rachal Thornton @ 2026. 
         </p>
 
-        <h2>Where the care numbers come from</h2>
+        <h2>Github</h2>
         <p>
-            Our dataset has a few sample plants for each species, with their watering, light, temperature,
-            humidity, soil, fertilizer, pest and health records. For each species we average the numbers from the
-            healthiest sample plants (health score 4 or higher). If no sample plant of a species scored that
-            well, we use its best-scoring plants and say so on the page.
-        </p>
-        <p>
-            The sample is small, so treat the guidance as a starting point based on our data, not as expert
-            horticultural advice.
+            A link to the Github, will all of the source code, can be found <a href="https://github.com/poopydesu/485_Plant_Care_System.git">here.</a>
         </p>
 
-        <h2>How it is built</h2>
+        <h2>Sources</h2>
         <p>
-            A PHP and MySQL back end (tables designed from our ERD), HTML and CSS for the pages, and a little
-            JavaScript for the My Plants screen.
+            Sources for the project, such as the dataset and images, are from the following:
+            <!--TODO: enter list of sources-->
         </p>
-    </div>
+     </div>
 </body>
 </html>
