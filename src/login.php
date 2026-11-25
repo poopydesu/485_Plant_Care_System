@@ -7,7 +7,7 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     exit();
 }
 
-$conn = new mysqli("localhost", "root", "12345678", "PlantCareSystem", 3000);
+$conn = new mysqli("localhost", "root", "123", "PlantCareSystem", 3306);
 
 $stmt = $conn->prepare("SELECT username, password FROM login WHERE username = ?");
 $stmt->bind_param("s", $_POST['username']);
