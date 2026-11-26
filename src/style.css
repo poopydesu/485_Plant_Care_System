@@ -51,12 +51,24 @@ nav {
 
 /* Styles for index.html buttons */
 .nav-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    font-size: 13.33px;
     width: 90px;
     height: 55px;
     border: 1.5px solid var(--line);
     border-radius: 10%;
     background: #fff;
     color: var(--leaf);
+}
+
+/* Holds the nav buttons in a row */
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: 8px;
 }
 
 /* Styles for index.html buttons on hover*/
@@ -281,7 +293,7 @@ li { display: flex;
 
 /* When checkbox is checked, expand the content container */
 .toggle-input:checked~.box-content {
-    max-height: 200px;
+    max-height: 1000px;
     opacity: 1;
     padding: 15px;
 }
