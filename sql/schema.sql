@@ -1,7 +1,7 @@
 CREATE DATABASE IF NOT EXISTS `PlantCareSystem`;
 USE `PlantCareSystem`;
 
-CREATE TABLE `login` (
+CREATE TABLE IF NOT EXISTS `login` (
 	`username` VARCHAR(20) PRIMARY KEY,
     `password` VARCHAR(255) NOT NULL
 );
@@ -21,7 +21,7 @@ CREATE TABLE IF NOT EXISTS `soil_type` (
 CREATE TABLE IF NOT EXISTS `location` (
     `location_id` INT AUTO_INCREMENT PRIMARY KEY,
     `location` VARCHAR(20) NOT NULL,    -- indoor / outdoor
-    `sunlight_exposure` VARCHAR(50)
+    `sunlight_exposure` VARCHAR(50),
     `location_temperature` DECIMAL(4,1) -- in degrees C
 );
 
@@ -108,4 +108,14 @@ CREATE TABLE IF NOT EXISTS `user_plants` (
     FOREIGN KEY (`species_id`) REFERENCES `species`(`species_id`) ON DELETE SET NULL
 );
 
--- TODO: average data from CSV plants to come up with a baseline for how to care for plants
+-- Get the healthiest (score of 4 or more, or best score if no 4's available) samples of the plants from each species
+CREATE OR REPLACE VIEW `healthy_plants` AS
+SELECT p.plant_id, p.species_id, p.soil_type_id, p.location_id, o.health_score
+FROM `plant` p
+JOIN `plant_observation` o ON o.plant_id = p.plant_id
+WHERE o.health_score >= (
+    SELECT LEAST(4, MAX(o2.health_score))
+    FROM `plant` p2
+    JOIN `plant_observation` o2 ON o2.plant_id = p2.plant_id
+    WHERE p2.species_id = p.species_id
+);
