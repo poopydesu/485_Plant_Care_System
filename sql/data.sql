@@ -2,17 +2,17 @@
 -- AI-generated script from our human-cleaned CSV file (included in the data folder)
 USE `PlantCareSystem`;
 
-INSERT INTO `species` (`species_id`, `scientific_name`, `common_name`, `growth_season`) VALUES
-(1, 'Aloe barbadensis', 'Aloe vera', 'spring, summer'),
-(2, 'Chlorophytum comosum', 'Spider plant', 'spring, summer'),
-(3, 'Monstera deliciosa', 'Monstera', 'year-round'),
-(4, 'Nephrolepis exaltata', 'Sword fern', 'year-round'),
-(5, 'Ficus lyrata', 'Fiddle leaf fig', 'spring, summer'),
-(6, 'Peperomia obtusifolia', 'Baby Rubberplant', 'year-round'),
-(7, 'Aglaonema commutatum', 'Philippine evergreen', 'year-round'),
-(8, 'Tradescantia zebrina', 'Inchplant', 'year-round'),
-(9, 'Schefflera arboricola', 'Dwarf umbrella tree', 'year-round'),
-(10, 'Anthurium andraeanum', 'Painter''s palette', 'year-round');
+INSERT INTO `species` (`species_id`, `scientific_name`, `common_name`, `growth_season`, `image`) VALUES
+(1, 'Aloe barbadensis', 'Aloe vera', 'spring, summer', 'aloe-vera.jpg'),
+(2, 'Chlorophytum comosum', 'Spider plant', 'spring, summer', 'spider-plant.jpg'),
+(3, 'Monstera deliciosa', 'Monstera', 'year-round', 'monstera.jpg'),
+(4, 'Nephrolepis exaltata', 'Sword fern', 'year-round', 'sword-fern.jpg'),
+(5, 'Ficus lyrata', 'Fiddle leaf fig', 'spring, summer', 'fiddle-leaf-fig.jpg'),
+(6, 'Peperomia obtusifolia', 'Baby Rubberplant', 'year-round', 'baby-rubberplant.jpg'),
+(7, 'Aglaonema commutatum', 'Philippine evergreen', 'year-round', 'philippine-evergreen.jpg'),
+(8, 'Tradescantia zebrina', 'Inchplant', 'year-round', 'inchplant.jpg'),
+(9, 'Schefflera arboricola', 'Dwarf umbrella tree', 'year-round', 'dwarf-umbrella-plant.jpg'),
+(10, 'Anthurium andraeanum', 'Painter''s palette', 'year-round', 'painters-palette.jpg');
 
 INSERT INTO `soil_type` (`soil_type_id`, `name`) VALUES
 (1, 'Loamy'),
