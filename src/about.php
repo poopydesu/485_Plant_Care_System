@@ -18,7 +18,10 @@ require __DIR__ . '/../includes/header.php';
         <h2>Sources</h2>
         <p>
             Sources for the project, such as the dataset and images, are from the following:
-            <!--TODO: enter list of sources-->
+            <ul>
+                <li><a href="https://www.kaggle.com/datasets/souvikrana17/indoor-plant-health-and-growth-dataset">Indoor Plant Health And Growth Dataset</a> on Kaggle (all plant data)</li>
+                <li><a href="https://www.pexels.com/photo/crop-gardeners-against-assorted-potted-plants-on-table-6231871/">Home page image</a> by Gary Barnes on Pexels</li>
+            </ul>
         </p>
      </div>
 </body>
