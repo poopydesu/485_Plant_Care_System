@@ -67,7 +67,7 @@ require __DIR__ . '/../includes/header.php';
             <form action="register.php" method="POST">
                 <label for="username">Username:</label>
                 <div class="input-box">
-                    <input type="text" id="username" name="username" required value="<?=$_POST['user'] ?? ''?>">
+                    <input type="text" id="username" name="username" required value="<?= htmlspecialchars($_POST['username'] ?? '') ?>">
                 </div>
 
                 <label for="password">Password:</label>
