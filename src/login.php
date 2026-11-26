@@ -56,7 +56,7 @@ require __DIR__ . '/../includes/header.php';
 
                 <label for="password">Password:</label>
                 <div class="input-box">
-                    <input type = "text" id="password" name="password" required><br>
+                    <input type="password" id="password" name="password" required><br>
                     <i class='bx bxs-lock-alt'></i>
                 </div>
                 
