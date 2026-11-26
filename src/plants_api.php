@@ -35,28 +35,51 @@ $owner  = $_SESSION['username'];
 $action = $_POST['action'] ?? '';
 
     if ($action === 'add' || $action === 'edit') {
-        $sci    = trim($_POST['scientific_name'] ?? '');
-        $common = trim($_POST['common_name'] ?? '');
-        if ($common === '' || strlen($common) > 50 || strlen($sci) > 50) fail(400, 'Invalid name.');
+        $name = trim($_POST['custom_name'] ?? '');
+        if ($name === '' || strlen($name) > 50) fail(400, 'Invalid name.');
+
+        // Species is optional, may be in "other/not listed"
+        $species = ($_POST['species_id'] ?? '') === '' ? null : (int)$_POST['species_id'];
 
         if ($action === 'add') {
             $image = saveImage();
-            $stmt = $conn->prepare("INSERT INTO plants (owner, scientific_name, common_name, image) VALUES (?, ?, ?, ?)");
-            $stmt->bind_param("ssss", $owner, $sci, $common, $image);
+            $stmt = $conn->prepare("INSERT INTO user_plants (owner, species_id, custom_name, image) VALUES (?, ?, ?, ?)");
+            $stmt->bind_param("siss", $owner, $species, $name, $image);
             $stmt->execute();
-            echo json_encode(['ok' => true, 'id' => $conn->insert_id, 'image' => $image]);
+            echo json_encode(['ok' => true]);
+        }
+        else {
+            $id = filter_var($_POST['id'] ?? null, FILTER_VALIDATE_INT);
+            if ($id === false) fail(400, 'Invalid id.');
+
+            // Make sure the plant belongs to this user
+            $stmt = $conn->prepare("SELECT image FROM user_plants WHERE user_plant_id = ? AND owner = ?");
+            $stmt->bind_param("is", $id, $owner);
+            $stmt->execute();
+            $row = $stmt->get_result()->fetch_assoc();
+            if (!$row) fail(404, 'Plant not found.');
+
+            // Keep old image unless a new one was chosen
+            $newImage = saveImage();
+            $image = $newImage ?? $row['image'];
+
+            $stmt = $conn->prepare("UPDATE user_plants SET species_id = ?, custom_name = ?, image = ? WHERE user_plant_id = ? AND owner = ?");
+            $stmt->bind_param("issis", $species, $name, $image, $id, $owner);
+            $stmt->execute();
+            if ($newImage) deleteImage($row['image']);
+            echo json_encode(['ok' => true]);
         }
     } 
     elseif ($action === 'delete') {
         $id = filter_var($_POST['id'] ?? null, FILTER_VALIDATE_INT);
         if ($id === false) fail(400, 'Invalid id.');
 
-        $stmt = $conn->prepare("SELECT image FROM plants WHERE plant_id = ? AND owner = ?");
+        $stmt = $conn->prepare("SELECT image FROM user_plants WHERE user_plant_id = ? AND owner = ?");
         $stmt->bind_param("is", $id, $owner);
         $stmt->execute();
         $row = $stmt->get_result()->fetch_assoc();
 
-        $stmt = $conn->prepare("DELETE FROM plants WHERE plant_id = ? AND owner = ?");
+        $stmt = $conn->prepare("DELETE FROM user_plants WHERE user_plant_id = ? AND owner = ?");
         $stmt->bind_param("is", $id, $owner);
         $stmt->execute();
         if ($row) deleteImage($row['image']);
