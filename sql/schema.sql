@@ -10,7 +10,8 @@ CREATE TABLE IF NOT EXISTS `species` (
     `species_id` INT AUTO_INCREMENT PRIMARY KEY,
     `scientific_name` VARCHAR(50) NOT NULL UNIQUE,
     `common_name` VARCHAR(50) NOT NULL,
-    `growth_season` VARCHAR(30)
+    `growth_season` VARCHAR(30),
+    `image` VARCHAR(255) -- image filename inside assets/ folder
 );
 
 CREATE TABLE IF NOT EXISTS `soil_type` (
