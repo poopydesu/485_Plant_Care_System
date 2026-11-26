@@ -83,5 +83,3 @@ function get_plant_care($conn, $id) {
     ];
 }
 ?>
-
-?>
