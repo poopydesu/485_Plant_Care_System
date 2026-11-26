@@ -21,7 +21,7 @@ function render() {
   if (plants.length === 0) {
     const empty = document.createElement("li");
     empty.className = "empty";
-    empty.textContent = "No plants yet. Press + to add one.";
+    empty.textContent = "No plants yet. Press + to add one, or log in to see your plants.";
     list.appendChild(empty);
   }
   
