@@ -254,7 +254,7 @@ li { display: flex;
 /* PLANT-INFO.HTML STYLES */
 /* Styles for plant-info.html page */
 .expand-box {
-    width: 300px;
+    width: 100%;
     border: 1px solid rgb(73, 144, 96);
     border-radius: 6px;
     overflow: hidden;
