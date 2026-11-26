@@ -119,7 +119,7 @@ require __DIR__ . '/../includes/header.php';
 
                 <?php if ($fert): ?>
                     <p>
-                        Fertilizer: <?= h($fert['v']) ?>
+                        Fertilizer: <?= h($fert['fert']) ?>
                         (about <?= $fert['ml'] ?? 'Unknown' ?> ml)
                     </p>
                 <?php else: ?>
