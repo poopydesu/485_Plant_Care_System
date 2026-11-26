@@ -19,3 +19,9 @@ function require_login(): void {
         exit();
     }
 }
+
+// HTML special chars function, helps prevent XSS attacks, I think Zhang mentioned wanting some type of XSS prevention? 
+function h(?string $string): string {
+    return htmlspecialchars($string ?? '', ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
+}
+
