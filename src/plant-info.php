@@ -34,13 +34,17 @@ $pests = $plantCare['pests'];
 $pageTitle = $plant['common_name'] . ' Care';
 require __DIR__ . '/../includes/header.php';
 ?>
-     <div class="main-body">
+     <div class="main-body plant-info">
         
     <!-- Left side of main body is 25% column -->
     <div class="col-left">
 
         <!-- Plant image and facts -->
-        <img src="https://placehold.co/300x500" alt="Placeholder">
+        <?php if ($plant['image']): ?>
+            <img class="species-img" src="assets/<?= h($plant['image']) ?>" alt="<?= h($plant['common_name']) ?>">
+        <?php else: ?>
+            <img src="https://placehold.co/300x500" alt="Placeholder">
+        <?php endif; ?>
 
         <h2>Plant Facts</h2>
 

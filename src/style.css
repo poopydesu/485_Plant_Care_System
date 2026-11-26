@@ -399,6 +399,19 @@ input {
     background: var(--leaf-dark);
 }
 
+.species-img {
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+
+.main-body.plant-info {
+    gap: 40px; 
+}
+
+
 /* STYLES FOR THE MOD BUTTONS */
 .tools {
     display: flex;
@@ -443,4 +456,3 @@ input:focus-visible {
     outline: 3px solid #86b894;
     outline-offset: 2px;
 }
-
