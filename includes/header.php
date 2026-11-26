@@ -32,7 +32,7 @@ $bodyId    = $bodyId ?? 'index';
         <!-- Nav links -->
         <div class="nav-links">
             <a class="nav-btn" href="index.php">Home</a>
-            <a class="nav-btn" href="plants.php">View Plants</a>
+            <a class="nav-btn" href="plants-directory.php">View Plants</a>
             
             <!-- If user is logged in, offer them their plants and logout buttons -->
             <?php if (current_user()): ?>
