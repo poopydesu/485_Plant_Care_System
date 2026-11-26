@@ -1,0 +1,31 @@
+ID,scientific_name,common_name,height_cm,leaf_count,new_growth_count,health_notes,watering_amount,watering_frequency,sunlight_exposure,location_temperature,humidity_%,fertilizer_type,fertilizer_amount_ml,pest_presence,pest_severity,soil_moisture_%,soil_type,health_score,date,location,,,,,,,,,,,growth_season
+1,Aloe barbadensis,Aloe vera,25.98,22,9,Strong stem,329,6,3h direct morning sun,24.7,56.1,None,10,Spider mites,None,34.6,Loamy,3,07/14/2022,indoor,,,,,,,,,,,"spring, summer"
+2,Aloe barbadensis,Aloe vera,18.82,24,7,Brittle leaves,235,1,Indirect light all day,24.1,53.9,Chemical,47,Fungus gnats,Low,58.6,Loamy,3,07/20/2022,indoor,,,,,,,,,,,"spring, summer"
+3,Aloe barbadensis,Aloe vera,28.37,14,9,None,386,3,Filtered sunlight through curtain,26.3,65.2,Liquid feed,57,Fungus gnats,High,15.5,Silty,5,07/28/2022,indoor,,,,,,,,,,,"spring, summer"
+4,Chlorophytum comosum,Spider plant,24.45,46,9,None,233,1,Indirect light all day,22.1,43,Compost,67,Whiteflies,Moderate,15.1,Sandy,5,02/05/2022,indoor,,,,,,,,,,,"spring, summer"
+5,Chlorophytum comosum,Spider plant,19.95,22,8,None,330,2,Filtered sunlight through curtain,23.1,31.7,Liquid feed,65,Fungus gnats,Low,40.8,Peaty,2,02/16/2022,indoor,,,,,,,,,,,"spring, summer"
+6,Chlorophytum comosum,Spider plant,26.76,6,8,Leaf drop,453,4,3h direct morning sun,21.9,43.2,Organic,9,Fungus gnats,Low,40.6,Silty,4,02/27/2022,indoor,,,,,,,,,,,"spring, summer"
+7,Monstera deliciosa,Monstera,21.23,47,9,Leaf drop,453,2,Low light corner,27.8,56.6,None,None,Spider mites,Low,44.5,Loamy,4,03/06/2022,indoor,,,,,,,,,,,year-round
+8,Monstera deliciosa,Monstera,13.99,46,9,Strong stem,263,2,Low light corner,27.5,78.8,Chemical,69,None,None,18.5,Chalky,1,03/26/2022,indoor,,,,,,,,,,,year-round
+9,Monstera deliciosa,Monstera,44.9,24,9,Wilting,115,3,Indirect light all day,18.7,57.3,Organic,65,Spider mites,Low,10.8,Loamy,4,04/11/2022,indoor,,,,,,,,,,,year-round
+10,Nephrolepis exaltata,Sword fern,32.69,24,9,Leaf drop,204,6,6h full sun,23.3,47.2,Compost,59,Spider mites,Low,28.6,Sandy,4,01/15/2023,"outdoor, indoor",,,,,,,,,,,year-round
+11,Nephrolepis exaltata,Sword fern,29.52,34,9,Dark green color,301,2,Indirect light all day,21.1,49.5,Compost,9,Fungus gnats,High,41.3,Chalky,4,01/25/2023,"outdoor, indoor",,,,,,,,,,,year-round
+12,Nephrolepis exaltata,Sword fern,11.86,16,9,Leaf drop,187,3,6h full sun,21.5,69.4,Chemical,16,Whiteflies,High,48.6,Silty,4,02/13/2023,"outdoor, indoor",,,,,,,,,,,year-round
+13,Ficus lyrata,Fiddle leaf fig,26.45,24,9,Wilting,498,5,Filtered sunlight through curtain,24.3,59.4,Compost,44,Spider mites,Moderate,44.9,Clay,4,06/17/2023,indoor,,,,,,,,,,,"spring, summer"
+14,Ficus lyrata,Fiddle leaf fig,12.94,28,9,None,488,3,Low light corner,16.9,65.8,Chemical,50,Fungus gnats,Low,59.3,Sandy,1,06/29/2023,indoor,,,,,,,,,,,"spring, summer"
+15,Ficus lyrata,Fiddle leaf fig,19.82,40,8,Brittle leaves,477,5,Indirect light all day,17.2,44.3,Liquid feed,90,None,None,13.6,Sandy ,1,07/05/2023,indoor,,,,,,,,,,,"spring, summer"
+16,Peperomia obtusifolia,Baby Rubberplant,35.63,16,6,Brittle leaves,217,1,Low light corner,25.8,35.2,Chemical,29,Whiteflies,High,52,Chalky,5,08/22/2023,indoor,,,,,,,,,,,year-round
+17,Peperomia obtusifolia,Baby Rubberplant,28.64,42,3,New bud,165,6,Indirect light all day,23,31,None,53,Fungus gnats,High,45.8,Silty,3,09/08/2023,indoor,,,,,,,,,,,year-round
+18,Peperomia obtusifolia,Baby Rubberplant,19.05,40,5,Yellowing leaves,102,5,Filtered sunlight through curtain,15.9,54.8,Liquid feed,65,Whiteflies,Moderate,43.4,Chalky,1,09/19/2023,indoor,,,,,,,,,,,year-round
+19,Aglaonema commutatum,Philippine evergreen,9.34,12,9,Wilting,263,6,Low light corner,21.5,53.8,None,88,None,None,43.8,Silty,2,12/12/2023,indoor,,,,,,,,,,,year-round
+20,Aglaonema commutatum,Philippine evergreen,14.42,44,3,New bud,456,4,Indirect light all day,23.3,49,None,54,Spider mites,Low,49.2,Loamy,4,12/28/2023,indoor,,,,,,,,,,,year-round
+21,Aglaonema commutatum,Philippine evergreen,25.7,36,6,Brittle leaves,358,1,Filtered sunlight through curtain,27,75.9,Chemical,98,Whiteflies,None,21.7,Chalky,5,01/09/2024,indoor,,,,,,,,,,,year-round
+22,Tradescantia zebrina,Inchplant,12.43,15,6,Brittle leaves,428,2,6h full sun,19.8,77.7,Organic,12,Spider mites,Moderate,31.6,Silty,2,05/19/2024,indoor,,,,,,,,,,,year-round
+23,Tradescantia zebrina,Inchplant,31.56,18,6,Brittle leaves,222,1,6h full sun,23.2,48.2,Liquid feed,51,Spider mites,None,27.5,Sandy,2,05/30/2024,indoor,,,,,,,,,,,year-round
+24,Tradescantia zebrina,Inchplant,9.51,47,3,Wilting,307,4,3h direct morning sun,23.2,47,Organic,17,Fungus gnats,High,25.5,Clay,5,06/11/2024,indoor,,,,,,,,,,,year-round
+25,Schefflera arboricola,Dwarf umbrella tree,37.98,5,4,Yellowing leaves,295,5,Indirect light all day,22.6,32.2,Chemical,31,None,High,18.5,Silty,4,10/24/2024,indoor,,,,,,,,,,,year-round
+26,Schefflera arboricola,Dwarf umbrella tree,23.01,39,4,New bud,161,2,Low light corner,22.9,55.8,Chemical,76,Whiteflies,High,11.1,Clay,5,11/14/2024,indoor,,,,,,,,,,,year-round
+27,Schefflera arboricola,Dwarf umbrella tree,19.21,29,6,None,413,5,Low light corner,21.6,60.4,Compost,1,Whiteflies,Moderate,40.1,Peaty,1,11/28/2024,indoor,,,,,,,,,,,year-round
+28,Anthurium andraeanum,Painter's palette,16.23,19,0,Strong stem,393,4,Filtered sunlight through curtain,22.1,39.4,None,90,Spider mites,None,35.4,Clay,1,03/10/2025,indoor,,,,,,,,,,,year-round
+29,Anthurium andraeanum,Painter's palette,19.88,8,3,None,332,3,Filtered sunlight through curtain,21,44.5,Liquid feed,45,None,High,19.3,Clay,2,03/20/2025,indoor,,,,,,,,,,,year-round
+30,Anthurium andraeanum,Painter's palette,20.43,7,0,Yellowing leaves,149,4,Indirect light all day,23.8,78.9,Compost,61,Aphids,Moderate,17.4,Chalky,2,04/18/2025,indoor,,,,,,,,,,,year-round
